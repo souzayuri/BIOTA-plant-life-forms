@@ -1,0 +1,512 @@
+car::Anova(mo1lf.bamboo.tree, type = "III")
+# arvores
+mo1lf.bamboo.tree <- glmer(bamboo ~  Treatment*log(tree+1) + (1 |Site/month ), family = poisson, data = total.lf)
+summary(mo1lf.bamboo.tree)
+car::Anova(mo1lf.bamboo.tree, type = "III")
+# palmeiras
+mo1lf.bamboo.palm <- glmer(bamboo ~ Treatment*log(palm+1) + (1 |Site/month ), family = poisson, data = total.lf)
+summary(mo1lf.bamboo.palm)
+car::Anova(mo1lf.bamboo.palm, type = "III")
+# arbustos
+mo1lf.bamboo.shrub <- glmer(bamboo ~ Treatment*log(shrub+1) + (1 |Site/month ), family = poisson, data = total.lf)
+summary(mo1lf.bamboo.shrub)
+car::Anova(mo1lf.bamboo.shrub, type = "III")
+# herbs
+mo1lf.bamboo.herb <- glmer(bamboo ~  Treatment*log(herb+1) + (1 |Site/month ), family = poisson, data = total.lf)
+summary(mo1lf.bamboo.herb)
+car::Anova(mo1lf.bamboo.herb, type = "III")
+rm(list = ls())
+library(tidyverse)
+library(stringr)
+bt.dt <- read_csv("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/01_dados/padrao/life_form_yuri_2019v2.csv")
+bt.dt
+bt.dt.slc <- bt.dt [,-c(1,5,23:28)]
+bt.dt.slc
+bt.dt.slc.gtr <- bt.dt.slc %>%
+gather(key = "time", value = "value", 4:20)
+bt.dt.slc.gtr
+total.lf <- bt.dt.slc.gtr %>%
+group_by(Site, Plot, Treatment, time, `Life Form`) %>%
+summarise(abundancia = sum(value)) %>%
+rename(life_form = `Life Form`, month = time) %>% # renomeia a coluna `Life Form`
+mutate(time = as.numeric(month %>% stringr::str_replace("p", ""))) %>% # copia a coluna de tempo e transforma em numerico
+spread(life_form, abundancia) #converte para widescreen
+total.lf
+total.lf[is.na(total.lf)] <- 0 # substitui onde e NA por 0
+total.lf
+total.lf$Treatment <- as.factor(total.lf$Treatment)
+total.lf$Treatment <- relevel(total.lf$Treatment, ref = "open")
+library(lme4) # pacote lme4
+library(car) # para anova
+mo1lf.tree.treat <- glmer(tree ~ Treatment + (1 |Site/month ), family = poisson, data = total.lf)
+summary(mo1lf.tree.treat)
+car::Anova(mo1lf.tree.treat, type = "III")
+ggplot(total.lf, aes(x = log(time+1), y = tree, color = Treatment)) + geom_smooth(method = "lm")
+## arvores x grupos x tratamentos
+# lianas
+mo1lf.tree.liana <- glmer(tree ~ Treatment*log(liana+1) + (1 |Site/month ), family = poisson, data = total.lf)
+summary(mo1lf.tree.liana)
+#plot(log(total.lf$tree+1)~log(total.lf$liana+1))
+car::Anova(mo1lf.tree.liana, type = "III")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) + geom_smooth(method = "lm")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) + theme_classic() + geom_smooth(method = "lm")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) + theme_classic(base_size = TRUE) + geom_smooth(method = "lm")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) + theme_classic() + geom_smooth(method = "lm")
+ggplot(total.lf, aes(x = log(time+1), y = tree, color = Treatment)) +
+geom_smooth(method = "lm") +   xlab("Lianas") + ylab("Trees") +
+## arvores x grupos x tratamentos
+# lianas
+mo1lf.tree.liana <- glmer(tree ~ Treatment*log(liana+1) + (1 |Site/month ), family = poisson, data = total.lf)
+ggplot(total.lf, aes(x = log(time+1), y = tree, color = Treatment)) +
+geom_smooth(method = "lm") +   xlab("Lianas") + ylab("Trees")
+ggplot(total.lf, aes(x = log(time+1), y = tree, color = Treatment)) +
+geom_smooth(method = "lm") + theme_classic() + xlab("Lianas") + ylab("Trees")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm") +   xlab("Lianas") + ylab("Trees")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm") +   xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_line(linetype = "dashed") + geom_smooth(method = "lm") +   xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +   xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = c("dashed", "solid")) +   xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(aes(method = "lm", linetype = c("dashed", "solid"))) +   xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +   xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(aes(method = "lm", linetype = Treatment)) +   xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(aes(method = "lm", linetype = Treatment)) +
+geom_smooth(method = "lm") + xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +   xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = Treatment) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold", color = "black"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed", color = "black") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") + scale_color_brewer("dark2")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_brewer("dark2")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_brewer("dark")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "loess", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_brewer("dark")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_brewer("dark")
+scale_color_brewer("Greys)
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_brewer("Greys")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_brewer("greys")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_brewer()
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_discrete()
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_discrete("black", "grey")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "dashed") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_discrete()
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "line") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_discrete()
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "solid") +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_discrete()
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "solid", alpha = 0.05) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_discrete()
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "solid", alpha = 0.5) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_discrete()
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "solid", alpha = 0.2) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_discrete()
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "solid", alpha = 0.3) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_discrete()
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "solid", alpha = 0.3) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_discrete("black")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "solid", alpha = 0.2) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "solid", alpha = 0.2) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) + scale_color_manual(values = c("black","blue"))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "solid", alpha = 0.2) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) + scale_color_manual(values = c("black","grey"))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "solid", alpha = 0.2) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) + scale_color_manual(values = c("grey","black"))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() + geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 1) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 4) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.5) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.8) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.5) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+# palmeiras
+mo1lf.tree.palm <- glmer(tree ~ Treatment*log(palm+1) + (1 |Site/month ), family = poisson, data = total.lf)
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+# palmeiras
+mo1lf.tree.palm <- glmer(tree ~ Treatment*log(palm+1) + (1 |Site/month ), family = poisson, data = total.lf)
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/treesxlianas.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(palm + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/treesxpalms.png", h = 15, w = 15, dpi = 300, units = "cm")
+## lianas x grupos x tratamentos
+# arvores
+mo1lf.liana.tree <- glmer(liana ~  Treatment*log(tree+1) + (1 |Site/month), family = poisson, data = total.lf)
+summary(mo1lf.liana.tree)
+car::Anova(mo1lf.liana.tree, type = "III")
+ggplot(total.lf, aes(x = log(palm + 1), y = log(liana + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Trees") + ylab("Lianas") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/lianasxtrees.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(palm + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Palms") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/treesxpalms.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(palm + 1), y = log(liana + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Trees") + ylab("Lianas") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/lianasxtrees.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(tree+ 1), y = log(liana + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Trees") + ylab("Lianas") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/lianasxtrees.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(palm + 1), y = log(liana + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Palms") + ylab("Lianas") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/lianasxpalms.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/treesxlianas.png", h = 15, w = 15, dpi = 300, units = "cm")
+# palmeiras
+mo1lf.tree.palm <- glmer(tree ~ Treatment*log(palm+1) + (1 |Site/month ), family = poisson, data = total.lf)
+summary(mo1lf.tree.palm)
+car::Anova(mo1lf.tree.palm, type = "III")
+ggplot(total.lf, aes(x = log(palm + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Palms") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/treesxpalms.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(tree+ 1), y = log(liana + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Trees") + ylab("Lianas") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/lianasxtrees.png", h = 15, w = 15, dpi = 300, units = "cm")
+# palmeiras
+mo1lf.liana.palm <- glmer(liana ~ Treatment*log(palm+1) + (1 |Site/month ), family = poisson, data = total.lf)
+summary(mo1lf.liana.palm)
+car::Anova(mo1lf.liana.palm, type = "III")
+ggplot(total.lf, aes(x = log(palm + 1), y = log(liana + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Palms") + ylab("Lianas") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/lianasxpalms.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(tree + 1), y = log(palm + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Trees") + ylab("Palms") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/palmsxtrees.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(palm + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Lianas") + ylab("Palms") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/palmsxlianas.png", h = 15, w = 15, dpi = 300, units = "cm")
+summary(mo1lf.palm.liana)
+car::Anova(mo1lf.palm.liana, type = "III")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(palm + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Lianas") + ylab("Palms") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = "none") +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/palmsxlianas.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(tree + 1), y = log(palm + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Trees") + ylab("Palms") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = "none") +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/palmsxtrees.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(palm + 1), y = log(liana + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Palms") + ylab("Lianas") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = "none") +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/lianasxpalms.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(tree+ 1), y = log(liana + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Trees") + ylab("Lianas") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = "none") +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/lianasxtrees.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(palm + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Palms") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = "none") +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/treesxpalms.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 12, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/treesxlianas.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Lianas") + ylab("Trees") +
+theme(axis.title = element_text(size = 14, face = "bold"),
+legend.position = c(0.12, .90)) +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/treesxlianas.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(palm + 1), y = log(tree + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Palms") + ylab("Trees") +
+theme(axis.title = element_text(size = 14, face = "bold"),
+legend.position = "none") +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/treesxpalms.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(tree+ 1), y = log(liana + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Trees") + ylab("Lianas") +
+theme(axis.title = element_text(size = 14, face = "bold"),
+legend.position = "none") +
+scale_color_manual(values = c("grey","black"))
+ggplot(total.lf, aes(x = log(palm + 1), y = log(liana + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Palms") + ylab("Lianas") +
+theme(axis.title = element_text(size = 14, face = "bold"),
+legend.position = "none") +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/lianasxpalms.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(tree + 1), y = log(palm + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Trees") + ylab("Palms") +
+theme(axis.title = element_text(size = 14, face = "bold"),
+legend.position = "none") +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/palmsxtrees.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(liana + 1), y = log(palm + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Lianas") + ylab("Palms") +
+theme(axis.title = element_text(size = 14, face = "bold"),
+legend.position = "none") +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/palmsxlianas.png", h = 15, w = 15, dpi = 300, units = "cm")
+ggplot(total.lf, aes(x = log(tree+ 1), y = log(liana + 1), color = Treatment)) +
+theme_classic() +
+geom_smooth(method = "lm", linetype = "solid", alpha = 0.2, size = 0.6) +
+xlab("Trees") + ylab("Lianas") +
+theme(axis.title = element_text(size = 14, face = "bold"),
+legend.position = "none") +
+scale_color_manual(values = c("grey","black"))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/GLMM/lianasxtrees.png", h = 15, w = 15, dpi = 300, units = "cm")

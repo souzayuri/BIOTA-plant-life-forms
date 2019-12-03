@@ -1,0 +1,512 @@
+dossel.ttl.o.ita <- dossel %>%
+filter(`Parcelas` == "CBO", `tratamento` == "open")
+dossel.ttl.o.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.o.ita$shrub)
+plot(density(dossel.ttl.o.ita$shrub), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.o.ita$shrub, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.o.ita <- lm(shrub ~ dossel, data = dossel.ttl.o.ita)
+ttl.dos.plt.lm.o.ita
+summary(ttl.dos.plt.lm.o.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.o.ita) +
+aes(x = dossel, y = shrub, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - CBO (%) (Open)",
+y = "Shrubs") +
+annotate("text", label = "R² = -0.11, P-value = 0.78", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/CBO_dossel_shrub_open_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+rm(list = ls())
+dossel <- read_csv("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/01_dados/dossel/dossel_plantulas_25-08-19.csv")
+dossel
+dossel.ttl.c.ita <- dossel %>%
+filter(`Parcelas` == "CBO", `tratamento` == "closed")
+dossel.ttl.c.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.c.ita$herb)
+plot(density(dossel.ttl.c.ita$herb), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.c.ita$herb, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.c.ita <- lm(herb ~ dossel, data = dossel.ttl.c.ita)
+ttl.dos.plt.lm.c.ita
+summary(ttl.dos.plt.lm.c.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.c.ita) +
+aes(x = dossel, y = herb, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - CBO (%) (Closed)",
+y = "Herbs") +
+annotate("text", label = "R² = -0.11, P-value = 0.81", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/CBO_dossel_herb_closed_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+### Ita-Palm-Open
+dossel.ttl.o.ita <- dossel %>%
+filter(`Parcelas` == "CBO", `tratamento` == "open")
+dossel.ttl.o.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.o.ita$herb)
+plot(density(dossel.ttl.o.ita$herb), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.o.ita$herb, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.o.ita <- lm(herb ~ dossel, data = dossel.ttl.o.ita)
+ttl.dos.plt.lm.o.ita
+summary(ttl.dos.plt.lm.o.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.o.ita) +
+aes(x = dossel, y = shrub, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - CBO (%) (Open)",
+y = "Herbs") +
+annotate("text", label = "R² = -0.07, P-value = 0.56", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/CBO_dossel_herb_open_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+rm(list = ls())
+dossel <- read_csv("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/01_dados/dossel/dossel_plantulas_25-08-19.csv")
+dossel
+dossel.ttl.c.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "closed")
+dossel.ttl.c.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.c.ita$liana)
+plot(density(dossel.ttl.c.ita$liana), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.c.ita$liana, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.c.ita <- lm(liana ~ dossel, data = dossel.ttl.c.ita)
+ttl.dos.plt.lm.c.ita
+summary(ttl.dos.plt.lm.c.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.c.ita) +
+aes(x = dossel, y = liana, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - VGM (%) (Closed)",
+y = "Lianas") +
+annotate("text", label = "R² = 0.04, P-value = 0.25", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_liana_closed_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+### Ita-Lianas-Open
+dossel.ttl.o.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "open")
+dossel.ttl.o.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.o.ita$liana)
+plot(density(dossel.ttl.o.ita$liana), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.o.ita$liana, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.o.ita <- lm(liana ~ dossel, data = dossel.ttl.o.ita)
+ttl.dos.plt.lm.o.ita
+summary(ttl.dos.plt.lm.o.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.o.ita) +
+aes(x = dossel, y = liana, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - CBO (%) (Open)",
+y = "Lianas") +
+annotate("text", label = "R² = -0.05, P-value = 0.50", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_liana_open_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+rm(list = ls())
+dossel <- read_csv("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/01_dados/dossel/dossel_plantulas_25-08-19.csv")
+dossel.ttl.c.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "closed")
+dossel
+dossel.ttl.c.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.c.ita$bamboo)
+plot(density(dossel.ttl.c.ita$bamboo), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.c.ita$bamboo, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.c.ita <- lm(bamboo ~ dossel, data = dossel.ttl.c.ita)
+ttl.dos.plt.lm.c.ita
+summary(ttl.dos.plt.lm.c.ita)
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_bamboo_closed_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+### Ita-Lianas-Open
+dossel.ttl.o.ita <- dossel %>%
+filter(`Parcelas` == "CBO", `tratamento` == "open")
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.c.ita) +
+aes(x = dossel, y = bamboo, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - CBO (%) (Closed)",
+y = "Bamboos") +
+annotate("text", label = "R² = -0.08, P-value = 0.75", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_bamboo_closed_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.c.ita) +
+aes(x = dossel, y = bamboo, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - VGM (%) (Closed)",
+y = "Bamboos") +
+annotate("text", label = "R² = -0.08, P-value = 0.75", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_bamboo_closed_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.o.ita) +
+aes(x = dossel, y = liana, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - VGM (%) (Open)",
+y = "Lianas") +
+annotate("text", label = "R² = -0.05, P-value = 0.50", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_liana_open_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+rm(list = ls())
+dossel <- read_csv("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/01_dados/dossel/dossel_plantulas_25-08-19.csv")
+dossel
+dossel.ttl.c.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "closed")
+dossel.ttl.c.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.c.ita$bamboo)
+plot(density(dossel.ttl.c.ita$bamboo), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.c.ita$bamboo, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.c.ita <- lm(bamboo ~ dossel, data = dossel.ttl.c.ita)
+ttl.dos.plt.lm.c.ita
+summary(ttl.dos.plt.lm.c.ita)
+### Ita-Lianas-Open
+dossel.ttl.o.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "open")
+dossel.ttl.o.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.o.ita$bamboo)
+plot(density(dossel.ttl.o.ita$bamboo), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.o.ita$bamboo, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.o.ita <- lm(bamboo ~ dossel, data = dossel.ttl.o.ita)
+ttl.dos.plt.lm.o.ita
+summary(ttl.dos.plt.lm.o.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.o.ita) +
+aes(x = dossel, y = bamboo, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - VGM (%) (Open)",
+y = "Bamboos") +
+annotate("text", label = "R² = 0.006, P-value = 0.32", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_bamboo_open_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+dossel.ttl.c.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "closed")
+dossel.ttl.c.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.c.ita$tree)
+plot(density(dossel.ttl.c.ita$tree), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.c.ita$tree, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.c.ita <- lm(tree ~ dossel, data = dossel.ttl.c.ita)
+ttl.dos.plt.lm.c.ita
+summary(ttl.dos.plt.lm.c.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.c.ita) +
+aes(x = dossel, y = tree, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - VGM (%) (Closed)",
+y = "Trees") +
+annotate("text", label = "R² = -0.03, P-value = 0.45", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_tree_closed_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+### Ita-trees-Open
+dossel.ttl.o.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "open")
+dossel.ttl.o.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.o.ita$tree)
+plot(density(dossel.ttl.o.ita$tree), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.o.ita$tree, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.o.ita <- lm(tree ~ dossel, data = dossel.ttl.o.ita)
+ttl.dos.plt.lm.o.ita
+summary(ttl.dos.plt.lm.o.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.o.ita) +
+aes(x = dossel, y = tree, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - CBO (%) (Open)",
+y = "Trees") +
+annotate("text", label = "R² = -0.05, P-value = 0.55", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_tree_open_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+rm(list = ls())
+dossel <- read_csv("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/01_dados/dossel/dossel_plantulas_25-08-19.csv")
+dossel
+dossel.ttl.c.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "closed")
+dossel.ttl.c.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.c.ita$palm)
+plot(density(dossel.ttl.c.ita$palm), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.c.ita$palm, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.c.ita <- lm(palm ~ dossel, data = dossel.ttl.c.ita)
+ttl.dos.plt.lm.c.ita
+summary(ttl.dos.plt.lm.c.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.c.ita) +
+aes(x = dossel, y = palm, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - VGM (%) (Closed)",
+y = "Palms") +
+annotate("text", label = "R² = 0.34, P-value = 0.02", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_palm_closed_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+### Ita-Palm-Open
+dossel.ttl.o.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "open")
+dossel.ttl.o.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.o.ita$palm)
+plot(density(dossel.ttl.o.ita$palm), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.o.ita$palm, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.o.ita <- lm(palm ~ dossel, data = dossel.ttl.o.ita)
+ttl.dos.plt.lm.o.ita
+summary(ttl.dos.plt.lm.o.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.o.ita) +
+aes(x = dossel, y = palm, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - VGM (%) (Open)",
+y = "Palms") +
+annotate("text", label = "R² = 0.21, P-value = 0.07", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_palm_open_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+rm(list = ls())
+dossel <- read_csv("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/01_dados/dossel/dossel_plantulas_25-08-19.csv")
+dossel
+dossel.ttl.c.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "closed")
+dossel.ttl.c.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.c.ita$shrub)
+plot(density(dossel.ttl.c.ita$shrub), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.c.ita$shrub, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.c.ita <- lm(shrub ~ dossel, data = dossel.ttl.c.ita)
+ttl.dos.plt.lm.c.ita
+summary(ttl.dos.plt.lm.c.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.c.ita) +
+aes(x = dossel, y = shrub, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - CBO (%) (Closed)",
+y = "Shrubs") +
+annotate("text", label = "R² = 0.11, P-value = 0.14", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_shrub_closed_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+### Ita-Palm-Open
+dossel.ttl.o.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "open")
+dossel.ttl.o.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.o.ita$shrub)
+plot(density(dossel.ttl.o.ita$shrub), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.o.ita$shrub, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.o.ita <- lm(shrub ~ dossel, data = dossel.ttl.o.ita)
+ttl.dos.plt.lm.o.ita
+summary(ttl.dos.plt.lm.o.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.o.ita) +
+aes(x = dossel, y = shrub, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - CBO (%) (Open)",
+y = "Shrubs") +
+annotate("text", label = "R² = 0.10, P-value = 0.16", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_shrub_open_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+rm(list = ls())
+dossel <- read_csv("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/01_dados/dossel/dossel_plantulas_25-08-19.csv")
+dossel
+dossel.ttl.c.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "closed")
+dossel.ttl.c.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.c.ita$herb)
+plot(density(dossel.ttl.c.ita$herb), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.c.ita$herb, pch = 20, dist = "norm", envelope = .95)
+# teste de regressão linear simples
+ttl.dos.plt.lm.c.ita <- lm(herb ~ dossel, data = dossel.ttl.c.ita)
+ttl.dos.plt.lm.c.ita
+summary(ttl.dos.plt.lm.c.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.c.ita) +
+aes(x = dossel, y = herb, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - CBO (%) (Closed)",
+y = "Herbs") +
+annotate("text", label = "R² = -0.09, P-value = 0.95", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_herb_closed_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)
+### Ita-Palm-Open
+dossel.ttl.o.ita <- dossel %>%
+filter(`Parcelas` == "VGM", `tratamento` == "open")
+dossel.ttl.o.ita
+# normalidade da variavel resposta
+shapiro.test(dossel.ttl.o.ita$herb)
+plot(density(dossel.ttl.o.ita$herb), ylab = "Densidade", # Vendo a distribuição da curva de n_sp
+xlab = "Número de plantulas", main = "")
+# teste de regressão linear simples
+ttl.dos.plt.lm.o.ita <- lm(herb ~ dossel, data = dossel.ttl.o.ita)
+ttl.dos.plt.lm.o.ita
+# O gráfico quantil-quantil (q-q) para checar adequação de distribuição de frequência dos dados à uma distribuição de probabilidades
+qqPlot(dossel.ttl.o.ita$herb, pch = 20, dist = "norm", envelope = .95)
+summary(ttl.dos.plt.lm.o.ita)
+# gráfico total áreas dossel
+ggplot(data = dossel.ttl.o.ita) +
+aes(x = dossel, y = shrub, color = tratamento) +
+geom_point(shape = 21, size = 5, col = "black", fill = "forestgreen") +
+stat_smooth(method = "lm", col = "black", level = .95) +
+theme_bw() +
+labs(x = "Canopy cover - CBO (%) (Open)",
+y = "Herbs") +
+annotate("text", label = "R² = 0.16, P-value = 0.10", size = 5, x = 74.3, y = 120) +
+theme(axis.title = element_text(size = 24),
+axis.text.x = element_text(size = 20),
+axis.text.y = element_text(size = 20),
+legend.title = element_text(size = 14),
+legend.text = element_text(size = 12)) +
+expand_limits(y=100) + scale_y_continuous(breaks=c(10,20,30,40,50,60,70,80,90,100))
+ggsave("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/02_figuras/dossel/grupos_funcionais/VGM_dossel_herb_open_25-08-19.JPEG", he = 15, wi = 20, un = "cm", dpi = 300)

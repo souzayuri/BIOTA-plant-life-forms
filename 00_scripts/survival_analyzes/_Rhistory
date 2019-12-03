@@ -1,0 +1,57 @@
+library(tidyverse)
+library(dplyr)
+library(plyr)
+library(textclean)
+library(wesanderson)
+library(beepr)
+rm(list = ls())
+ttlplt <- read_csv("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/01_dados/padrao/life_form_yuri_2019v2.csv")
+ttlplt[,23:24] <- lapply(ttlplt[,23:24], as.numeric) #transforma as colunas 23 e 24 em numerico
+ttlplt
+ttlplt <- read_csv("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/01_dados/padrao/life_form_yuri_2019v2.csv")
+View(ttlplt)
+ttlplt <- read_csv("C:/Users/Yuri/Google Drive/Yuri/Mestrado/parcelas_biota/projeto/PPG/tese/analises/01_dados/padrao/life_form_yuri_2019v2.csv")
+ttlplt[,23:24] <- lapply(ttlplt[,23:24], as.numeric) #transforma as colunas 23 e 24 em numerico
+ttlplt
+ttlpltlf <- table(ttlplt$Species,ttlplt$`Life Form`) #converse a coluna de forma de vida em uma matriz,
+#junto com as espécies, mostrando qual espécies pertence a quais grupos de vida
+ttlpltlf
+### precisa fazer esse processo abaixo para poder converter a tabela a cima em uma formato lido pelo tidyverse (tibble)
+write.csv(ttlpltlf , "teste_7-4-19.csv", row.names = TRUE, quote = TRUE) # Salva em uma tabela
+ttlpltlf  <- read_csv("teste_7-4-19.csv") # carrega essa tabela.
+ttlpltlf
+unlink("teste_7-4-19.csv") # deleta a tabela da pasta
+listaspcc <- ttlpltlf  %>%
+gather(key = "lifeform", value = "freq", 2:8) #coloca todas as colunas da matriz em uma unica
+listaspcc
+listaspcc <- ttlpltlf  %>%
+gather(key = "lifeform", value = "freq", 2:8) #coloca todas as colunas da matriz em uma unica
+listaspcc
+names(listaspcc)[1] <- "Species" # da o cabeçario de Species para a coluna X1
+listaspcclf <- listaspcc %>%
+dplyr::filter(!grepl("cf.$", Species)) %>% # remover os cf. que estejam no final do nome
+textclean::drop_row("Species", c("sp.","Rubiaceae", "Myrtaceae")) %>% # remove os 3 elementos listados
+filter(`freq` > 0) %>% # remove as espécies que foram preenchidas por outro grupo funcional
+# e mantém só aquelas que estão representadas pelo grupo funcional correto
+mutate(prop = ((freq*100))/sum(freq)) %>% #faz um calculo de proporção de individuos por spp e salva em uma coluna
+mutate(bolean = prop >= 1) %>% # preenche uma coluna com oque está acima de 1% de contribuição
+arrange(prop) %>% # organizada em ordem
+textclean::drop_row("bolean", "FALSE") # remove tudo oque for FALSE da coluna bolean
+listaspcclf
+colunas <- c("Species", "lifeform", "freq", "prop", "bolean")
+todaspp <- data.frame("Others 151 sp. < 1% ...", "Mixed", 1, 1.0, FALSE)
+# coloco os valores 1 e 1.0 para ficar localizado no final do gráfico,
+#mas os valos corretos seriam 957 individuos representando juntos 22.35%
+names(todaspp) <- colunas
+listaspcclf <- rbind(listaspcclf,todaspp)
+listaspcclf
+sum(listaspcclf$freq)
+ggplot(data = listaspcclf,
+aes(x = fct_reorder(Species, prop, .desc = TRUE),
+y = prop, fill = bolean)) +  theme_bw() +
+theme(legend.position="none") +
+geom_bar(stat = 'identity', colour="black", width = 0.55) +
+scale_fill_manual(values=wes_palette("Cavalcanti1")) +
+theme(axis.text.x = element_text(angle=60, hjust=1, colour="black", size=rel(0.6))) +
+theme(text = element_text(size=20)) + ylab("Proportion (%)") + xlab("Species") +
+expand_limits(y=40) + scale_y_continuous(breaks=c(0,10,20,30,40))
