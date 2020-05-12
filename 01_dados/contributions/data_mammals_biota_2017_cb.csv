@@ -1,0 +1,912 @@
+base,Parcelas,camera ID,grid,date,CAMPAIGN,time,hour,species,pop name,type,diet,begin,end,days,hours,event ID,N INDS EVENT,N INDS VIDEO,indep,biomass
+CB,11A,157,Open,6/4/2017,Apr-17,0:14,0,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,1,1,1,1,300
+CB,11A,157,Open,11/4/2017,Apr-17,7:10,7,Tapirus terrestris,tapir,ungulate,herbivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,2,1,1,1,150000
+CB,11A,157,Open,4/14/2017,Apr-17,11:09,11,Chamaeza sp.,bird,bird,insectivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,3,1,1,1,70
+CB,11A,157,Open,4/14/2017,Apr-17,14:02,14,Chamaeza sp.,bird,bird,insectivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,4,1,1,1,70
+CB,11A,157,Open,4/15/2017,Apr-17,21:50,21,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,onivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,5,1,1,1,300
+CB,11A,157,Open,4/16/2017,Apr-17,16:28,16,Tapirus terrestris,tapir,ungulate,herbivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,6,2,2,1,300000
+CB,11A,157,Open,4/16/2017,Apr-17,16:28,16,Tapirus terrestris,tapir,ungulate,herbivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,6,2,2,0,300000
+CB,11A,157,Open,4/16/2017,Apr-17,19:06,19,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,7,1,1,1,300
+CB,11A,157,Open,4/17/2017,Apr-17,13:31,13,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,8,1,1,1,2000
+CB,11A,157,Open,4/17/2017,Apr-17,13:31,13,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,8,1,1,0,2000
+CB,11A,157,Open,4/27/2017,Apr-17,2:00,2,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,9,1,1,1,300
+CB,11A,157,Open,4/28/2017,Apr-17,19:58,19,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,10,1,1,1,300
+CB,11A,157,Open,1/5/2017,Apr-17,21:59,21,Euryoryzomys russatus,Rat,Rodent,granivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,11,1,1,1,60
+CB,11A,157,Open,3/5/2017,Apr-17,21:14,21,Akodon,Rat,Rodent,granivore,5/4/2017 9:02,12/5/2017 8:24,36.97361111,887.3666667,12,1,1,1,30
+CB,12A,160,open,6/4/2017,Apr-17,2:08,2,Dasypus novemcinctus,nine-banded armadillo,mesopredator,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,1,1,1,1,3500
+CB,12A,160,open,6/4/2017,Apr-17,16:58,16,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,2,1,1,1,40
+CB,12A,160,open,6/4/2017,Apr-17,16:58,16,Chamaeza sp.,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,2,1,1,0,70
+CB,12A,160,open,6/4/2017,Apr-17,16:59,16,Chamaeza sp.,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,2,1,1,0,70
+CB,12A,160,open,7/4/2017,Apr-17,14:05,14,Chamaeza sp.,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,3,1,1,1,70
+CB,12A,160,open,7/4/2017,Apr-17,14:05,14,Chamaeza sp.,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,3,1,1,0,70
+CB,12A,160,open,7/4/2017,Apr-17,14:06,14,Chamaeza sp.,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,3,1,1,0,70
+CB,12A,160,open,7/4/2017,Apr-17,14:06,14,Chamaeza sp.,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,3,1,1,0,70
+CB,12A,160,open,8/4/2017,Apr-17,6:31,8,Chamaeza sp.,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,4,1,1,1,70
+CB,12A,160,open,8/4/2017,Apr-17,17:08,17,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,5,1,1,1,40
+CB,12A,160,open,10/4/2017,Apr-17,6:25,6,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,6,1,1,1,40
+CB,12A,160,open,11/4/2017,Apr-17,17:20,17,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,7,1,1,1,40
+CB,12A,160,open,12/4/2017,Apr-17,19:16,19,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,8,1,1,1,300
+CB,12A,160,open,4/13/2017,Apr-17,6:36,6,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,9,1,1,1,40
+CB,12A,160,open,4/13/2017,Apr-17,6:36,6,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,9,1,1,0,40
+CB,12A,160,open,4/13/2017,Apr-17,16:45,16,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,9,1,1,0,40
+CB,12A,160,open,4/13/2017,Apr-17,16:45,16,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,9,1,1,0,40
+CB,12A,160,open,4/13/2017,Apr-17,17:31,17,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,9,1,1,0,40
+CB,12A,160,open,4/13/2017,Apr-17,17:31,17,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,9,1,1,0,40
+CB,12A,160,open,4/13/2017,Apr-17,20:32,20,Marmosops incanus,Opossum,marsupial,onivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,10,1,1,1,60
+CB,12A,160,open,4/14/2017,Apr-17,6:34,6,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,11,1,1,1,40
+CB,12A,160,open,4/21/2017,Apr-17,17:04,17,Grallaria varia,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,12,1,1,1,40
+CB,12A,160,open,4/21/2017,Apr-17,19:40,19,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,13,1,1,1,300
+CB,12A,160,open,4/21/2017,Apr-17,19:42,19,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,13,1,1,1,300
+CB,12A,160,open,4/21/2017,Apr-17,19:44,19,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,13,1,1,0,300
+CB,12A,160,open,4/25/2017,Apr-17,6:46,6,Chamaeza sp.,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,14,1,1,1,70
+CB,12A,160,open,4/25/2017,Apr-17,6:46,6,Chamaeza sp.,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,14,1,1,0,70
+CB,12A,160,open,4/27/2017,Apr-17,8:50,8,Pyriglena leucoptera,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,15,1,1,1,30
+CB,12A,160,open,4/30/2017,Apr-17,9:09,9,Leptotila sp.,bird,bird,granivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,16,1,1,1,180
+CB,12A,160,open,4/5/2017,Apr-17,23:52,23,Euryoryzomys russatus,Rat,Rodent,granivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,17,1,1,1,60
+CB,12A,160,open,5/5/2017,Apr-17,1:36,1,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,18,1,1,1,300
+CB,12A,160,open,10/5/2017,Apr-17,6:51,6,Chamaeza sp.,bird,bird,insectivore,5/4/2017 10:14,10/5/2017 6:51,34.85902778,836.6166667,19,1,1,1,70
+CB,12F,4,close,4/18/2017,Apr-17,12:50,12,Grallaria varia,bird,bird,insectivore,5/4/2017 9:54,12/5/2017 8:42,36.95,886.8,1,1,1,1,40
+CB,12F,4,close,4/29/2017,Apr-17,19:02,19,Euryoryzomys russatus,Rat,Rodent,granivore,5/4/2017 9:54,12/5/2017 8:42,36.95,886.8,2,1,1,1,60
+CB,12F,4,close,2/5/2017,Apr-17,9:10,9,Grallaria varia,bird,bird,insectivore,5/4/2017 9:54,12/5/2017 8:42,36.95,886.8,3,1,1,1,40
+CB,12F,4,Closed,3/5/2017,Apr-17,1:27,1,marsupial,marsupial,marsupial,insectivore,5/4/2017 9:54,12/5/2017 8:42,36.95,886.8,4,1,1,1,60
+CB,14A,158,open,6/4/2017,Apr-17,0:09,0,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,1,1,1,1,300
+CB,14A,158,open,6/4/2017,Apr-17,0:09,0,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,1,1,1,1,300
+CB,14A,158,Open,7/4/2017,Apr-17,3:49,3,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,2,1,1,1,9500
+CB,14A,158,Open,7/4/2017,Apr-17,3:49,3,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,2,1,1,0,9500
+CB,14A,158,Open,7/4/2017,Apr-17,3:49,3,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,2,1,1,0,9500
+CB,14A,158,open,8/4/2017,Apr-17,1:54,0,Marmosops incanus,Opossum,marsupial,onivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,3,1,1,1,60
+CB,14A,158,open,10/4/2017,Apr-17,7:05,7,Turdus albicollis,bird,bird,,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,4,1,1,1,50
+CB,14A,158,open,10/4/2017,Apr-17,7:05,7,Turdus albicollis,bird,bird,,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,4,1,1,0,50
+CB,14A,158,open,4/17/2017,Apr-17,7:15,7,Turdus albicollis,bird,bird,,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,5,1,1,1,50
+CB,14A,158,open,4/17/2017,Apr-17,7:15,7,Turdus albicollis,bird,bird,,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,5,1,1,0,50
+CB,14A,158,open,4/17/2017,Apr-17,7:16,7,Turdus albicollis,bird,bird,,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,5,1,1,0,50
+CB,14A,158,open,4/19/2017,Apr-17,6:44,6,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,6,1,1,1,2000
+CB,14A,158,open,4/19/2017,Apr-17,6:44,6,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,6,1,1,0,2000
+CB,14A,158,open,4/19/2017,Apr-17,6:44,6,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,6,1,1,0,2000
+CB,14A,158,open,4/19/2017,Apr-17,6:44,6,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,6,1,1,0,2000
+CB,14A,158,open,4/19/2017,Apr-17,6:44,6,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,6,1,1,0,2000
+CB,14A,158,open,8/4/2017,Apr-17,1:54,3,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,7,1,1,0,300
+CB,14A,158,open,4/19/2017,Apr-17,22:09,9,Tamandua tetradactyla,southern tamandua,insetivore,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,8,1,1,1,7000
+CB,14A,158,open,4/19/2017,Apr-17,22:09,9,Tamandua tetradactyla,southern tamandua,insetivore,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,8,1,1,0,7000
+CB,14A,158,open,4/22/2017,Apr-17,6:49,6,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,9,1,1,1,70
+CB,14A,158,open,4/22/2017,Apr-17,6:49,6,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,9,1,1,0,70
+CB,14A,158,open,4/22/2017,Apr-17,6:49,6,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,9,1,1,0,70
+CB,14A,158,open,4/22/2017,Apr-17,7:16,7,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,9,1,1,0,70
+CB,14A,158,open,4/22/2017,Apr-17,7:16,7,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,9,1,1,0,70
+CB,14A,158,open,4/23/2017,Apr-17,7:25,7,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,10,1,1,1,70
+CB,14A,158,open,4/23/2017,Apr-17,7:25,7,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,10,1,1,0,70
+CB,14A,158,open,4/23/2017,Apr-17,7:25,7,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,10,1,1,0,70
+CB,14A,158,open,4/23/2017,Apr-17,8:25,8,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,10,1,1,0,70
+CB,14A,158,open,4/23/2017,Apr-17,8:25,8,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,10,1,1,0,70
+CB,14A,158,open,4/23/2017,Apr-17,8:28,8,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,10,1,1,0,70
+CB,14A,158,open,4/24/2017,Apr-17,17:06,17,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,11,1,1,1,2000
+CB,14A,158,open,4/24/2017,Apr-17,17:06,17,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,11,1,1,0,2000
+CB,14A,158,open,4/24/2017,Apr-17,17:07,17,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,11,1,1,0,2000
+CB,14A,158,open,4/24/2017,Apr-17,17:07,17,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,11,1,1,0,2000
+CB,14A,158,Open,4/28/2017,Apr-17,20:39,20,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,12,1,1,1,9500
+CB,14A,158,Open,4/28/2017,Apr-17,20:39,20,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,12,1,1,0,9500
+CB,14A,158,Open,4/28/2017,Apr-17,20:39,20,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,12,1,1,0,9500
+CB,14A,158,Open,4/28/2017,Apr-17,20:39,20,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,12,1,1,0,9500
+CB,14A,158,Open,4/28/2017,Apr-17,20:39,20,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,12,1,1,0,9500
+CB,14A,158,open,6/5/2017,Apr-17,7:15,7,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,13,1,1,1,70
+CB,14A,158,open,6/5/2017,Apr-17,7:15,7,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,13,1,1,0,70
+CB,14A,158,open,8/5/2017,Apr-17,6:47,6,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,14,1,1,1,70
+CB,14A,158,open,9/5/2017,Apr-17,19:32,19,Tapirus terrestris,tapir,ungulate,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,15,1,1,1,150000
+CB,14A,158,open,9/5/2017,Apr-17,19:32,19,Tapirus terrestris,tapir,ungulate,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,15,1,1,0,150000
+CB,14A,158,open,9/5/2017,Apr-17,22:53,22,Tapirus terrestris,tapir,ungulate,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,15,1,1,0,150000
+CB,14A,158,open,9/5/2017,Apr-17,22:53,22,Tapirus terrestris,tapir,ungulate,herbivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,15,1,1,0,150000
+CB,14A,158,open,11/5/2017,Apr-17,14:35,14,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,16,1,1,1,2000
+CB,14A,158,open,11/5/2017,Apr-17,14:35,14,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,16,1,1,0,2000
+CB,14A,158,open,11/5/2017,Apr-17,14:35,14,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 12:08,12/5/2017 8:58,36.86805556,884.8333333,16,1,1,0,2000
+CB,14F,161,close,4/17/2017,Apr-17,11:15,11,bird,bird,bird,,5/4/2017 12:02,12/5/2017 9:00,36.87361111,884.9666667,1,1,1,1,40
+CB,14F,161,close,4/20/2017,Apr-17,7:51,7,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:02,12/5/2017 9:00,36.87361111,884.9666667,2,1,2,1,140
+CB,14F,161,close,4/20/2017,Apr-17,7:51,7,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:02,12/5/2017 9:00,36.87361111,884.9666667,2,2,2,0,140
+CB,14F,161,close,4/20/2017,Apr-17,7:52,7,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:02,12/5/2017 9:00,36.87361111,884.9666667,2,2,2,0,140
+CB,14F,161,close,4/20/2017,Apr-17,7:53,7,Chamaeza sp.,bird,bird,insectivore,5/4/2017 12:02,12/5/2017 9:00,36.87361111,884.9666667,2,1,2,0,140
+CB,14F,161,close,4/21/2017,Apr-17,12:10,12,Turdus albicollis,bird,bird,,5/4/2017 12:02,12/5/2017 9:00,36.87361111,884.9666667,3,1,1,1,50
+CB,14F,161,close,4/23/2017,Apr-17,20:55,20,Rat,Rat,small rodent,granivore,5/4/2017 12:02,12/5/2017 9:00,36.87361111,884.9666667,4,1,1,1,60
+CB,14F,161,close,4/24/2017,Apr-17,7:07,7,Turdus albicollis,bird,bird,,5/4/2017 12:02,12/5/2017 9:00,36.87361111,884.9666667,5,1,1,1,50
+CB,14F,161,close,4/24/2017,Apr-17,10:28,10,Turdus albicollis,bird,bird,,5/4/2017 12:02,12/5/2017 9:00,36.87361111,884.9666667,5,1,1,0,50
+CB,14F,161,close,4/30/2017,Apr-17,20:30,20,Platyrrincus mytaceus,bird,bird,insectivore,5/4/2017 12:02,12/5/2017 9:00,36.87361111,884.9666667,6,1,1,1,30
+CB,15A,151,open,4/19/2017,Apr-17,0:38,0,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,1,1,1,1,9500
+CB,15A,151,open,4/22/2017,Apr-17,0:10,0,marsupial,marsupial,marsupial,insectivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,2,1,1,1,200
+CB,15A,151,open,4/22/2017,Apr-17,0:10,0,marsupial,marsupial,marsupial,insectivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,2,1,1,0,200
+CB,15A,151,open,4/25/2017,Apr-17,0:44,0,marsupial,marsupial,marsupial,insectivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,3,1,1,1,200
+CB,15A,151,open,1/5/2017,Apr-17,1:39,1,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,4,1,1,1,9500
+CB,15A,151,open,1/5/2017,Apr-17,1:39,1,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,4,1,1,0,9500
+CB,15A,151,open,1/5/2017,Apr-17,1:40,1,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,4,1,1,0,9500
+CB,15A,151,open,1/5/2017,Apr-17,1:40,1,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,4,1,1,0,9500
+CB,15A,151,open,4/5/2017,Apr-17,1:54,1,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,5,1,1,1,9500
+CB,15A,151,open,4/5/2017,Apr-17,2:13,2,Marmosops incanus,Opossum,marsupial,onivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,6,1,1,1,60
+CB,15A,151,open,4/5/2017,Apr-17,3:02,3,Cuniculus paca,spotted paca,large rodent,herbivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,7,1,1,1,9500
+CB,15A,151,open,11/5/2017,Apr-17,14:22,14,Tinamus solitarius,Macuco,bird,granivore,5/4/2017 14:10,12/5/2017 9:15,36.79513889,883.0833333,8,1,1,1,2000
+CB,15F,165,close,4/14/2017,Apr-17,7:32,7,Pyriglena leucoptera,bird,bird,insectivore,5/4/2017 14:11,12/5/2017 9:15,36.79444444,883.0666667,1,1,1,1,30
+CB,15F,165,close,4/5/2017,Apr-17,1:56,1,Marmosops incanus,marsupial,marsupial,insectivore,5/4/2017 14:11,12/5/2017 9:15,36.79444444,883.0666667,2,1,1,1,60
+CB,15F,165,close,4/5/2017,Apr-17,1:56,1,Marmosops incanus,marsupial,marsupial,insectivore,5/4/2017 14:11,12/5/2017 9:15,36.79444444,883.0666667,2,1,1,0,60
+CB,15F,165,close,11/5/2017,Apr-17,21:17,21,Marmosops incanus,marsupial,marsupial,insectivore,5/4/2017 14:11,12/5/2017 9:15,36.79444444,883.0666667,3,1,1,1,60
+CB,1A,166,open,7/4/2017,Apr-17,14:38,14,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,1,1,1,1,70
+CB,1A,166,open,7/4/2017,Apr-17,16:15,16,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,1,1,1,0,70
+CB,1A,166,open,8/4/2017,Apr-17,7:19,7,Odontophorus capoeira,bird,bird,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,2,3,3,1,1200
+CB,1A,166,open,8/4/2017,Apr-17,7:19,7,Tinamus solitarius,Macuco,bird,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,2,3,3,0,6000
+CB,1A,166,open,9/4/2017,Apr-17,9:35,9,Tinamus solitarius,Macuco,bird,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,3,1,1,1,2000
+CB,1A,166,open,9/4/2017,Apr-17,9:35,9,Tinamus solitarius,Macuco,bird,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,3,1,1,0,2000
+CB,1A,166,open,9/4/2017,Apr-17,12:08,12,Amadonastur lacernulatus,bird,bird,carnivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,4,1,1,1,300
+CB,1A,166,open,9/4/2017,Apr-17,12:16,12,Amadonastur lacernulatus,bird,bird,carnivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,4,1,1,0,300
+CB,1A,166,open,9/4/2017,Apr-17,12:16,12,Amadonastur lacernulatus,bird,bird,carnivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,4,1,1,0,300
+CB,1A,166,open,10/4/2017,Apr-17,2:59,2,Metachirus nudicaudatus,Cuída-cauda-de-rato,marsupial,onivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,5,1,1,1,300
+CB,1A,166,open,10/4/2017,Apr-17,4:55,4,Trinomys spp,Rat,Rodent,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,6,1,1,1,200
+CB,1A,166,open,10/4/2017,Apr-17,5:08,5,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,7,1,1,1,300
+CB,1A,166,open,11/4/2017,Apr-17,12:06,12,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,8,1,1,1,40
+CB,1A,166,open,11/4/2017,Apr-17,12:11,12,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,8,1,1,0,40
+CB,1A,166,open,12/4/2017,Apr-17,6:44,6,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,9,1,1,1,70
+CB,1A,166,open,4/13/2017,Apr-17,2:39,2,Marmosops incanus,Opossum,marsupial,onivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,10,1,1,1,60
+CB,1A,166,open,4/13/2017,Apr-17,16:21,12,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,11,1,1,1,40
+CB,1A,166,open,4/15/2017,Apr-17,7:29,7,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,12,1,1,1,40
+CB,1A,166,open,4/15/2017,Apr-17,7:30,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,12,1,1,0,70
+CB,1A,166,open,4/15/2017,Apr-17,7:30,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,12,1,1,0,70
+CB,1A,166,open,4/15/2017,Apr-17,13:12,13,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,13,1,1,1,40
+CB,1A,166,open,4/15/2017,Apr-17,19:58,19,Trinomys spp,Rat,Rodent,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,14,1,1,1,200
+CB,1A,166,open,4/17/2017,Apr-17,7:10,7,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,15,1,1,1,40
+CB,1A,166,open,4/17/2017,Apr-17,8:38,8,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,15,1,1,0,70
+CB,1A,166,open,4/17/2017,Apr-17,8:53,8,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,15,1,1,0,70
+CB,1A,166,open,4/17/2017,Apr-17,23:20,23,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,16,1,1,1,9500
+CB,1A,166,open,4/20/2017,Apr-17,11:34,11,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,17,1,1,1,40
+CB,1A,166,open,4/23/2017,Apr-17,10:53,10,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,18,1,1,1,40
+CB,1A,166,open,4/23/2017,Apr-17,13:26,13,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,19,1,1,1,40
+CB,1A,166,open,4/25/2017,Apr-17,8:01,8,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,20,1,1,1,40
+CB,1A,166,open,4/26/2017,Apr-17,0:10,0,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,21,1,1,1,300
+CB,1A,166,open,4/26/2017,Apr-17,10:38,10,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,22,1,1,1,70
+CB,1A,166,open,4/26/2017,Apr-17,12:38,12,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,23,1,1,1,70
+CB,1A,166,open,4/26/2017,Apr-17,12:38,12,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,23,1,1,0,70
+CB,1A,166,open,4/26/2017,Apr-17,12:38,12,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,23,1,1,0,70
+CB,1A,166,open,4/26/2017,Apr-17,19:15,19,Trinomys spp,Rat,Rodent,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,24,1,1,1,200
+CB,1A,166,open,4/27/2017,Apr-17,20:25,20,Metachirus nudicaudatus,Cuída-cauda-de-rato,marsupial,onivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,25,1,1,1,300
+CB,1A,166,open,4/27/2017,Apr-17,20:57,20,Metachirus nudicaudatus,Cuída-cauda-de-rato,marsupial,onivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,25,1,1,0,300
+CB,1A,166,open,4/28/2017,Apr-17,0:33,0,Rat,Rat,small rodent,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,25,1,1,0,60
+CB,1A,166,open,4/28/2017,Apr-17,3:57,3,Euryoryzomys russatus,Rat,Rodent,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,26,1,1,1,60
+CB,1A,166,open,4/28/2017,Apr-17,4:08,4,Marsupial,Opossum,Marsupial,onivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,26,1,1,0,60
+CB,1A,166,open,4/28/2017,Apr-17,9:59,9,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,27,1,1,1,40
+CB,1A,166,open,4/28/2017,Apr-17,14:38,14,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,28,2,2,1,60
+CB,1A,166,open,4/28/2017,Apr-17,14:38,14,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,28,2,2,0,140
+CB,1A,166,open,4/28/2017,Apr-17,16:38,16,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,29,1,1,1,70
+CB,1A,166,open,4/28/2017,Apr-17,16:42,16,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,29,1,1,0,70
+CB,1A,166,open,4/28/2017,Apr-17,16:42,16,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,29,1,1,0,30
+CB,1A,166,open,4/28/2017,Apr-17,16:46,16,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,29,1,1,0,30
+CB,1A,166,open,4/29/2017,Apr-17,6:55,6,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,1,40
+CB,1A,166,open,4/29/2017,Apr-17,6:56,6,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,6:56,6,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,40
+CB,1A,166,open,4/29/2017,Apr-17,6:57,6,bird,bird,bird,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,40
+CB,1A,166,open,4/29/2017,Apr-17,6:58,6,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:01,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:01,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:01,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:07,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:12,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:13,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:16,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:17,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:17,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:23,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:23,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,7:24,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,9:28,9,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,9:28,9,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,9:34,9,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/29/2017,Apr-17,15:03,15,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,30,1,1,0,70
+CB,1A,166,open,4/30/2017,Apr-17,6:40,6,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,31,1,1,1,70
+CB,1A,166,open,4/30/2017,Apr-17,11:33,11,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,31,1,1,0,70
+CB,1A,166,open,1/5/2017,Apr-17,7:01,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,32,1,1,1,70
+CB,1A,166,open,1/5/2017,Apr-17,7:36,7,Odontophorus capoeira,bird,bird,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,32,1,1,0,400
+CB,1A,166,open,1/5/2017,Apr-17,7:36,7,Odontophorus capoeira,bird,bird,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,32,1,1,0,400
+CB,1A,166,open,1/5/2017,Apr-17,16:35,16,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,33,1,1,1,70
+CB,1A,166,open,4/5/2017,Apr-17,9:08,9,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,34,1,1,1,70
+CB,1A,166,open,4/5/2017,Apr-17,9:49,9,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,34,1,1,0,70
+CB,1A,166,open,4/5/2017,Apr-17,14:47,14,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,34,1,1,0,70
+CB,1A,166,open,8/5/2017,Apr-17,14:09,14,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,35,1,1,1,70
+CB,1A,166,open,8/5/2017,Apr-17,14:14,14,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,35,1,1,0,70
+CB,1A,166,open,9/5/2017,Apr-17,5:15,5,Metachirus nudicaudatus,Cuída-cauda-de-rato,small mammal,,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,36,1,1,1,300
+CB,1A,166,open,10/5/2017,Apr-17,14:43,14,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,37,1,1,1,70
+CB,1A,166,open,11/5/2017,Apr-17,9:47,9,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,38,1,1,1,70
+CB,1A,166,open,11/5/2017,Apr-17,9:48,9,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,39,1,1,1,70
+CB,1A,166,open,11/5/2017,Apr-17,15:47,15,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,40,1,1,1,70
+CB,1A,166,open,11/5/2017,Apr-17,15:49,15,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,40,1,1,0,70
+CB,1A,166,open,11/5/2017,Apr-17,15:51,15,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,40,1,1,0,70
+CB,1A,166,open,11/5/2017,Apr-17,15:57,15,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,40,1,1,0,70
+CB,1A,166,open,11/5/2017,Apr-17,15:58,15,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,40,1,1,0,70
+CB,1A,166,open,11/5/2017,Apr-17,15:59,15,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,40,1,1,0,70
+CB,1A,166,open,11/5/2017,Apr-17,16:33,16,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,40,1,1,0,70
+CB,1A,166,open,11/5/2017,Apr-17,19:21,19,Trinomys spp,Rat,Rodent,granivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,41,1,1,1,200
+CB,1A,166,open,12/5/2017,Apr-17,6:51,6,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,42,1,1,1,70
+CB,1A,166,open,12/5/2017,Apr-17,7:12,7,Chamaeza sp.,bird,bird,insectivore,7/4/2017 10:28,12/5/2017 13:07,35.11041667,842.65,42,1,1,0,70
+CB,1F,155,close,11/4/2017,Apr-17,10:26,10,Grallaria varia,bird,bird,insectivore,7/4/2017 11:38,12/5/2017 14:09,35.10486111,842.5166667,1,1,1,1,40
+CB,1F,155,close,4/16/2017,Apr-17,18:19,18,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 11:38,12/5/2017 14:09,35.10486111,842.5166667,2,1,1,1,30
+CB,1F,155,close,4/26/2017,Apr-17,12:01,12,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 11:38,12/5/2017 14:09,35.10486111,842.5166667,3,1,1,1,30
+CB,1F,155,close,4/28/2017,Apr-17,4:35,4,marsupial,marsupial,marsupial,insectivore,7/4/2017 11:38,12/5/2017 14:09,35.10486111,842.5166667,4,1,1,1,60
+CB,2A,153,open,8/4/2017,Apr-17,9:40,9,bird,bird,bird,,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,1,1,1,1,40
+CB,2A,153,open,8/4/2017,Apr-17,9:41,9,Turdus albicollis,bird,bird,,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,1,1,1,0,50
+CB,2A,153,open,8/4/2017,Apr-17,10:17,10,Odontophorus capoeira,bird,bird,granivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,2,1,1,1,400
+CB,2A,153,open,8/4/2017,Apr-17,10:17,10,Odontophorus capoeira,bird,bird,granivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,2,1,1,0,400
+CB,2A,153,open,8/4/2017,Apr-17,10:18,10,bird,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,3,1,1,1,60
+CB,2A,153,open,9/4/2017,Apr-17,4:07,4,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,4,1,1,1,9500
+CB,2A,153,open,10/4/2017,Apr-17,7:23,7,Turdus albicollis,bird,bird,,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,5,1,1,1,50
+CB,2A,153,open,12/4/2017,Apr-17,7:20,7,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,6,1,1,1,40
+CB,2A,153,open,12/4/2017,Apr-17,7:23,7,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,7,1,1,1,40
+CB,2A,153,open,12/4/2017,Apr-17,11:36,11,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,8,2,2,1,80
+CB,2A,153,open,12/4/2017,Apr-17,17:31,17,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,9,1,1,1,40
+CB,2A,153,open,12/4/2017,Apr-17,18:54,18,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,10,1,1,1,9500
+CB,2A,153,open,12/4/2017,Apr-17,19:53,19,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,11,1,1,1,9500
+CB,2A,153,open,4/13/2017,Apr-17,19:51,19,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,12,1,1,1,9500
+CB,2A,153,open,4/14/2017,Apr-17,7:56,7,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,13,1,1,1,40
+CB,2A,153,open,4/14/2017,Apr-17,21:50,21,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,14,1,1,1,9500
+CB,2A,153,open,4/15/2017,Apr-17,6:45,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,15,1,1,1,40
+CB,2A,153,open,4/15/2017,Apr-17,6:45,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,15,1,1,0,40
+CB,2A,153,open,4/15/2017,Apr-17,6:45,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,15,1,1,0,40
+CB,2A,153,open,4/15/2017,Apr-17,6:45,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,15,1,1,0,40
+CB,2A,153,open,4/15/2017,Apr-17,6:46,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,15,1,1,0,40
+CB,2A,153,open,4/16/2017,Apr-17,1:11,1,Mazama spp,brocked deer,ungulate,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,16,1,1,1,25000
+CB,2A,153,open,4/16/2017,Apr-17,21:47,21,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,17,1,1,1,9500
+CB,2A,153,open,4/17/2017,Apr-17,6:43,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,18,1,1,1,40
+CB,2A,153,open,4/17/2017,Apr-17,15:01,15,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,19,1,1,1,30
+CB,2A,153,open,4/17/2017,Apr-17,23:41,23,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,20,1,1,1,9500
+CB,2A,153,open,4/18/2017,Apr-17,11:48,11,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,21,1,1,1,40
+CB,2A,153,open,4/18/2017,Apr-17,11:48,11,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,22,1,1,1,40
+CB,2A,153,open,4/18/2017,Apr-17,16:54,16,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,23,1,1,1,40
+CB,2A,153,open,4/18/2017,Apr-17,19:56,19,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,24,1,1,1,9500
+CB,2A,153,open,4/18/2017,Apr-17,21:53,21,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,25,1,1,1,9500
+CB,2A,153,open,4/19/2017,Apr-17,22:32,22,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,26,1,1,1,9500
+CB,2A,153,open,4/19/2017,Apr-17,23:06,23,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,27,1,1,1,9500
+CB,2A,153,open,4/20/2017,Apr-17,0:17,0,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,28,1,1,1,9500
+CB,2A,153,open,4/21/2017,Apr-17,2:38,2,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,29,1,1,1,9500
+CB,2A,153,open,4/21/2017,Apr-17,23:29,23,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,30,1,1,1,9500
+CB,2A,153,open,4/22/2017,Apr-17,6:30,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,31,1,1,1,40
+CB,2A,153,open,4/22/2017,Apr-17,6:53,6,Crypturellus noctivagus,bird,bird,granivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,32,1,1,1,600
+CB,2A,153,open,4/22/2017,Apr-17,9:42,9,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,33,1,1,1,40
+CB,2A,153,open,4/22/2017,Apr-17,11:45,11,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,34,1,1,1,30
+CB,2A,153,open,4/22/2017,Apr-17,22:22,22,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,35,1,1,1,9500
+CB,2A,153,open,4/23/2017,Apr-17,0:14,0,Tamandua tetradactyla,southern tamandua,insetivore,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,36,1,1,1,7000
+CB,2A,153,open,4/23/2017,Apr-17,0:18,0,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,37,1,1,1,9500
+CB,2A,153,open,4/23/2017,Apr-17,6:31,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,38,1,1,1,40
+CB,2A,153,open,4/23/2017,Apr-17,14:30,14,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,39,1,1,1,40
+CB,2A,153,open,4/23/2017,Apr-17,17:20,17,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,40,1,1,1,40
+CB,2A,153,open,4/23/2017,Apr-17,20:04,0.836111111,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,41,1,1,1,9500
+CB,2A,153,open,4/24/2017,Apr-17,17:07,17,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,42,1,1,1,40
+CB,2A,153,open,4/25/2017,Apr-17,0:04,0,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,43,1,1,1,9500
+CB,2A,153,open,4/25/2017,Apr-17,0:10,0,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,44,1,1,1,9500
+CB,2A,153,open,4/25/2017,Apr-17,6:44,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,45,1,1,1,40
+CB,2A,153,open,4/25/2017,Apr-17,9:20,9,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,46,1,1,1,30
+CB,2A,153,open,4/25/2017,Apr-17,23:44,23,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,47,1,1,1,9500
+CB,2A,153,open,4/25/2017,Apr-17,23:50,23,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,48,1,1,1,9500
+CB,2A,153,open,4/26/2017,Apr-17,6:38,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,49,1,1,1,40
+CB,2A,153,open,4/27/2017,Apr-17,0:27,0,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,50,1,1,1,9500
+CB,2A,153,open,4/27/2017,Apr-17,16:20,16,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,51,1,1,1,40
+CB,2A,153,open,4/28/2017,Apr-17,17:28,17,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,52,1,1,1,40
+CB,2A,153,open,4/27/2017,Apr-17,19:52,19,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,53,1,1,1,9500
+CB,2A,153,open,4/27/2017,Apr-17,19:52,19,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,54,1,1,1,9500
+CB,2A,153,open,4/28/2017,Apr-17,9:13,9,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,55,1,1,1,30
+CB,2A,153,open,4/28/2017,Apr-17,19:50,19,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,56,1,1,1,9500
+CB,2A,153,open,4/29/2017,Apr-17,15:47,15,Turdus albicollis,bird,bird,,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,57,1,1,1,50
+CB,2A,153,open,4/29/2017,Apr-17,22:45,22,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,58,1,1,1,9500
+CB,2A,153,open,1/5/2017,Apr-17,22:34,22,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,59,1,1,1,9500
+CB,2A,153,open,2/5/2017,Apr-17,21:30,21,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,60,1,1,1,9500
+CB,2A,153,open,3/5/2017,Apr-17,6:32,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,61,1,1,1,40
+CB,2A,153,open,4/5/2017,Apr-17,1:21,1,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,62,1,1,1,9500
+CB,2A,153,open,4/5/2017,Apr-17,6:38,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,63,1,1,1,40
+CB,2A,153,open,5/5/2017,Apr-17,2:09,2,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,64,1,1,1,9500
+CB,2A,153,open,5/5/2017,Apr-17,7:15,7,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,65,1,1,1,40
+CB,2A,153,open,5/5/2017,Apr-17,8:13,8,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,66,1,1,1,40
+CB,2A,153,open,7/5/2017,Apr-17,2:47,2,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,67,1,1,1,9500
+CB,2A,153,open,7/5/2017,Apr-17,4:42,4,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,68,1,1,1,9500
+CB,2A,153,open,7/5/2017,Apr-17,10:55,10,Turdus albicollis,bird,bird,,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,69,1,1,1,50
+CB,2A,153,open,8/5/2017,Apr-17,4:17,4,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,70,1,1,1,9500
+CB,2A,153,open,8/5/2017,Apr-17,6:31,6,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,71,1,1,1,30
+CB,2A,153,open,9/5/2017,Apr-17,4:40,4,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,72,1,1,1,9500
+CB,2A,153,open,10/5/2017,Apr-17,7:03,7,Turdus albicollis,bird,bird,,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,73,1,1,1,50
+CB,2A,153,open,10/5/2017,Apr-17,13:47,13,bird,bird,bird,,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,74,1,1,1,40
+CB,2A,153,open,10/5/2017,Apr-17,13:47,13,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,74,1,1,1,30
+CB,2A,153,open,10/5/2017,Apr-17,16:07,16,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,75,1,1,1,40
+CB,2A,153,open,10/5/2017,Apr-17,16:32,0.666666667,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,76,1,1,1,40
+CB,2A,153,open,11/5/2017,Apr-17,0:44,0,marsupial,marsupial,marsupial,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,77,1,1,1,60
+CB,2A,153,open,11/5/2017,Apr-17,7:34,7,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,78,1,1,1,40
+CB,2A,153,open,11/5/2017,Apr-17,12:14,12,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,79,1,1,1,30
+CB,2A,153,open,11/5/2017,Apr-17,12:14,12,Pyriglena leucoptera,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,80,1,1,1,30
+CB,2A,153,open,11/5/2017,Apr-17,12:15,12,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,81,1,1,1,40
+CB,2A,153,open,11/5/2017,Apr-17,17:08,17,Turdus albicollis,bird,bird,,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,82,1,1,1,50
+CB,2A,153,open,11/5/2017,Apr-17,20:46,20,Cuniculus paca,spotted paca,large rodent,herbivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,83,1,1,1,9500
+CB,2A,153,open,12/5/2017,Apr-17,6:39,6,Grallaria varia,bird,bird,insectivore,7/4/2017 9:23,12/5/2017 12:54,35.14652778,843.5166667,84,1,1,1,40
+CB,2F,156,close,7/4/2017,Apr-17,10:39,10,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,1,1,1,1,40
+CB,2F,156,close,7/4/2017,Apr-17,10:39,10,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,1,1,1,0,40
+CB,2F,156,close,8/4/2017,Apr-17,6:48,6,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,2,1,1,1,40
+CB,2F,156,close,9/4/2017,Apr-17,7:54,7,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,3,1,1,1,40
+CB,2F,156,close,9/4/2017,Apr-17,7:56,7,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,3,1,1,0,40
+CB,2F,156,close,9/4/2017,Apr-17,7:57,7,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,3,1,1,0,40
+CB,2F,156,close,10/4/2017,Apr-17,7:09,7,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,4,1,1,1,40
+CB,2F,156,close,10/4/2017,Apr-17,7:09,7,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,4,1,1,0,40
+CB,2F,156,close,10/4/2017,Apr-17,7:10,7,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,4,1,1,0,40
+CB,2F,156,close,10/4/2017,Apr-17,7:18,7,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,4,1,1,0,40
+CB,2F,156,close,4/13/2017,Apr-17,17:14,17,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,5,1,1,1,40
+CB,2F,156,close,4/14/2017,Apr-17,7:59,7,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,6,1,1,1,40
+CB,2F,156,close,4/22/2017,Apr-17,13:16,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,1,40
+CB,2F,156,close,4/22/2017,Apr-17,13:18,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:19,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:20,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:20,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:20,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:20,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:21,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:22,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:22,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:22,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:22,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:23,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:23,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:24,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:31,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:32,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/22/2017,Apr-17,13:32,13,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,7,1,1,0,40
+CB,2F,156,close,4/28/2017,Apr-17,16:45,16,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,8,1,1,1,40
+CB,2F,156,close,4/29/2017,Apr-17,15:43,15,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,9,1,1,1,40
+CB,2F,156,close,5/5/2017,Apr-17,8:16,8,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,10,1,1,1,40
+CB,2F,156,close,6/5/2017,Apr-17,14:14,14,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,11,1,1,1,40
+CB,2F,156,close,10/5/2017,Apr-17,16:54,16,Grallaria varia,bird,bird,insectivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,12,1,1,1,40
+CB,2F,156,close,11/5/2017,Apr-17,1:19,1,Euryoryzomys russatus,Rat,Rodent,granivore,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,13,1,1,1,60
+CB,2F,156,close,11/5/2017,Apr-17,8:26,8,bird,bird,bird,,7/4/2017 8:55,12/5/2017 12:56,35.16736111,844.0166667,14,1,1,1,40
+CB,4A,159,open,4/27/2017,Apr-17,12:58,12,Chamaeza sp.,bird,bird,insectivore,8/4/2017 20:48,12/5/2017 10:15,33.56041667,805.45,1,1,1,1,70
+CB,4A,159,open,2/5/2017,Apr-17,14:46,14,Chamaeza sp.,bird,bird,insectivore,8/4/2017 20:48,12/5/2017 10:15,33.56041667,805.45,2,1,1,1,70
+CB,4A,159,open,3/5/2017,Apr-17,15:26,15,Celeus flavescens,blond-crested woodpecker,bird,,8/4/2017 20:48,12/5/2017 10:15,33.56041667,805.45,3,1,1,1,120
+CB,4A,159,open,3/5/2017,Apr-17,19:46,19,Trinomys spp,Rat,Rodent,granivore,8/4/2017 20:48,12/5/2017 10:15,33.56041667,805.45,4,1,1,1,200
+CB,4A,159,open,3/5/2017,Apr-17,19:46,19,Trinomys spp,Rat,Rodent,granivore,8/4/2017 20:48,12/5/2017 10:15,33.56041667,805.45,4,1,1,0,200
+CB,4A,159,open,4/5/2017,Apr-17,9:58,9,Penelope superciliaris,dusky-legged guan,bird,frugivore,8/4/2017 20:48,12/5/2017 10:15,33.56041667,805.45,5,2,2,1,1600
+CB,4A,159,open,4/5/2017,Apr-17,9:59,9,Penelope superciliaris,dusky-legged guan,bird,frugivore,8/4/2017 20:48,12/5/2017 10:15,33.56041667,805.45,5,2,1,0,800
+CB,4A,159,open,4/5/2017,Apr-17,13:03,13,bird,bird,bird,,8/4/2017 20:48,12/5/2017 10:15,33.56041667,805.45,6,1,1,1,40
+CB,4A,159,open,6/5/2017,Apr-17,7:30,7,bird,bird,bird,,8/4/2017 20:48,12/5/2017 10:15,33.56041667,805.45,7,1,1,1,40
+CB,4A,159,open,6/5/2017,Apr-17,23:37,23,oligoryzomys spp,Rat,Rodent,granivore,8/4/2017 20:48,12/5/2017 10:15,33.56041667,805.45,8,1,1,1,30
+CB,4A,159,open,9/5/2017,Apr-17,9:37,9,bird,bird,bird,,8/4/2017 20:48,12/5/2017 10:15,33.56041667,805.45,9,1,1,1,40
+CB,4F,154,close,4/5/2017,Apr-17,5:06,5,Dasyprocta leporina,agouti,medium rodent,herbivore,4/5/2017 5:06,12/5/2017 10:16,8.215277778,197.1666667,1,1,1,1,4000
+CB,4F,154,close,8/5/2017,Apr-17,19:24,19,Dasyprocta leporina,agouti,medium rodent,herbivore,4/5/2017 5:06,12/5/2017 10:16,8.215277778,197.1666667,1,1,1,1,4000
+CB,5A,164,open,6/4/2017,Apr-17,16:21,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,1,70
+CB,5A,164,open,6/4/2017,Apr-17,16:22,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:24,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:25,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:32,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:35,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:35,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:35,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:39,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:39,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:40,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:41,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:58,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:58,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,16:59,16,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,17:03,17,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,17:03,17,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,17:03,17,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,17:04,17,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,17:04,17,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,6/4/2017,Apr-17,17:05,17,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,1,1,1,0,70
+CB,5A,164,open,7/4/2017,Apr-17,14:17,14,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,2,1,1,1,30
+CB,5A,164,open,7/4/2017,Apr-17,14:18,14,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,2,1,1,0,30
+CB,5A,164,open,7/4/2017,Apr-17,14:18,14,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,2,1,1,0,30
+CB,5A,164,open,11/4/2017,Apr-17,16:23,16,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,3,1,1,1,30
+CB,5A,164,open,11/4/2017,Apr-17,16:24,16,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,3,1,1,0,30
+CB,5A,164,open,11/4/2017,Apr-17,16:24,16,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,3,1,1,0,30
+CB,5A,164,open,4/14/2017,Apr-17,15:38,15,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,4,1,1,1,30
+CB,5A,164,open,4/16/2017,Apr-17,8:09,8,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,5,1,2,1,60
+CB,5A,164,open,4/16/2017,Apr-17,8:10,8,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,5,1,2,0,60
+CB,5A,164,open,4/16/2017,Apr-17,8:10,8,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,5,1,2,0,60
+CB,5A,164,open,4/16/2017,Apr-17,8:11,8,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,5,2,2,0,60
+CB,5A,164,open,4/16/2017,Apr-17,8:11,8,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,5,1,2,0,60
+CB,5A,164,open,4/16/2017,Apr-17,8:11,8,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,5,1,2,0,60
+CB,5A,164,open,4/18/2017,Apr-17,10:25,10,bird,bird,bird,,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,6,1,1,1,40
+CB,5A,164,open,4/18/2017,Apr-17,10:25,10,bird,bird,bird,,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,6,1,1,0,40
+CB,5A,164,open,4/18/2017,Apr-17,16:58,16,bird,bird,bird,,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,7,1,1,1,40
+CB,5A,164,open,4/18/2017,Apr-17,16:59,16,bird,bird,bird,,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,7,1,1,0,40
+CB,5A,164,open,4/21/2017,Apr-17,16:52,16,Tinamus solitarius,Macuco,bird,granivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,8,1,1,1,2000
+CB,5A,164,open,4/28/2017,Apr-17,7:38,7,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,8,1,1,1,70
+CB,5A,164,open,4/29/2017,Apr-17,11:48,11,bird,bird,bird,,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,9,1,1,1,40
+CB,5A,164,open,4/30/2017,Apr-17,15:06,15,bird,bird,bird,,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,10,1,1,1,40
+CB,5A,164,open,1/5/2017,Apr-17,7:33,7,bird,bird,bird,,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,11,1,1,1,40
+CB,5A,164,open,4/5/2017,Apr-17,7:06,7,Chamaeza sp.,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,12,1,1,1,70
+CB,5A,164,open,9/5/2017,Apr-17,15:04,15,Leptotila sp.,bird,bird,granivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,13,1,1,1,180
+CB,5A,164,open,11/5/2017,Apr-17,8:15,8,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,14,1,1,1,30
+CB,5A,164,open,11/5/2017,Apr-17,8:15,8,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,14,1,1,0,30
+CB,5A,164,open,11/5/2017,Apr-17,8:16,8,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 15:06,12/5/2017 10:00,35.7875,858.9,14,1,1,0,30
+CB,5F,152,close,4/14/2017,Apr-17,15:25,15,Grallaria varia,bird,bird,insectivore,6/4/2017 16:36,12/5/2017 10:03,35.72708333,857.45,1,1,1,1,40
+CB,5F,152,close,4/14/2017,Apr-17,15:25,15,Grallaria varia,bird,bird,insectivore,6/4/2017 16:36,12/5/2017 10:03,35.72708333,857.45,1,1,1,0,40
+CB,5F,152,close,4/14/2017,Apr-17,15:25,15,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 16:36,12/5/2017 10:03,35.72708333,857.45,1,1,1,0,30
+CB,5F,152,close,4/18/2017,Apr-17,14:25,14,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 16:36,12/5/2017 10:03,35.72708333,857.45,2,1,1,1,30
+CB,5F,152,close,4/22/2017,Apr-17,23:57,23,Euryoryzomys russatus,Rat,Rodent,granivore,6/4/2017 16:36,12/5/2017 10:03,35.72708333,857.45,3,1,1,1,60
+CB,5F,152,close,4/26/2017,Apr-17,7:44,7,Pyriglena leucoptera,bird,bird,insectivore,6/4/2017 16:36,12/5/2017 10:03,35.72708333,857.45,4,1,1,1,30
+CB,5F,152,close,8/5/2017,Apr-17,10:41,10,Grallaria varia,bird,bird,insectivore,6/4/2017 16:36,12/5/2017 10:03,35.72708333,857.45,5,1,1,1,40
+CB,5F,152,close,11/5/2017,Apr-17,7:17,7,Grallaria varia,bird,bird,insectivore,6/4/2017 16:36,12/5/2017 10:03,35.72708333,857.45,6,1,1,1,40
+CB,6A,174,open,4/15/2016,Apr-17,9:38,9,Chamaeza sp.,bird,bird,insectivore,10/4/2017 12:47,12/5/2017 11:39,31.95277778,766.8666667,1,1,1,1,70
+CB,6A,174,open,4/22/2017,Apr-17,8:49,8,Chamaeza sp.,bird,bird,insectivore,10/4/2017 12:47,12/5/2017 11:39,31.95277778,766.8666667,2,1,1,1,70
+CB,6A,174,open,4/24/2017,Apr-17,3:34,3,Mazama spp,brocked deer,ungulate,herbivore,10/4/2017 12:47,12/5/2017 11:39,31.95277778,766.8666667,3,1,1,1,25000
+CB,6A,174,open,7/5/2017,Apr-17,13:40,13,Chamaeza sp.,bird,bird,insectivore,10/4/2017 12:47,12/5/2017 11:39,31.95277778,766.8666667,4,1,1,1,70
+CB,9A,162,open,4/19/2017,Apr-17,9:09,9,bird,bird,bird,,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,1,1,1,1,40
+CB,9A,162,open,4/19/2017,Apr-17,9:10,9,Anabazenopis fuscus,bird,bird,insectivore,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,1,1,1,0,50
+CB,9A,162,open,4/20/2017,Apr-17,8:55,8,bird,bird,bird,,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,2,1,1,1,40
+CB,9A,162,open,4/20/2017,Apr-17,8:58,8,bird,bird,bird,,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,2,1,1,0,40
+CB,9A,162,open,4/21/2017,Apr-17,7:22,7,Sciurus ingrami,squirrel,small rodent,granivore,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,3,1,1,1,200
+CB,9A,162,open,4/21/2017,Apr-17,7:22,7,Sciurus ingrami,squirrel,small rodent,granivore,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,3,1,1,0,200
+CB,9A,162,open,4/22/2017,Apr-17,9:24,9,Sciurus ingrami,squirrel,small rodent,granivore,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,4,1,1,1,200
+CB,9A,162,open,4/23/2017,Apr-17,0:13,0,Cuniculus paca,spotted paca,large rodent,herbivore,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,5,1,1,1,9500
+CB,9A,162,open,4/23/2017,Apr-17,10:47,10,bird,bird,bird,,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,6,1,1,1,40
+CB,9A,162,open,3/5/2017,Apr-17,7:47,7,Sciurus ingrami,squirrel,small rodent,granivore,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,7,1,1,1,200
+CB,9A,162,open,3/5/2017,Apr-17,7:49,7,Sciurus ingrami,squirrel,small rodent,granivore,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,7,1,1,0,200
+CB,9A,162,open,3/5/2017,Apr-17,8:01,8,Sciurus ingrami,squirrel,small rodent,granivore,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,7,1,1,0,200
+CB,9A,162,open,8/5/2017,Apr-17,9:25,9,bird,bird,bird,,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,8,1,1,1,40
+CB,9A,162,open,8/5/2017,Apr-17,9:26,9,bird,bird,bird,,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,8,1,1,0,40
+CB,9A,162,open,12/5/2017,Apr-17,8:34,8,Sciurus ingrami,squirrel,small rodent,granivore,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,9,1,1,1,200
+CB,9A,162,open,12/5/2017,Apr-17,8:34,8,Sciurus ingrami,squirrel,small rodent,granivore,6/4/2017 9:55,12/5/2017 10:59,36.04444444,865.0666667,9,1,1,0,200
+CB,9F,167,close,9/4/2017,Apr-17,6:41,6,Chamaeza sp.,bird,bird,insectivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,1,1,1,1,70
+CB,9F,167,close,11/4/2017,Apr-17,6:33,6,Chamaeza sp.,bird,bird,insectivore,6/4/2017 9:27,12/5/2017 11:00,36.06458333,865.55,1,1,1,1,70
+CB,9F,167,close,4/13/2017,Apr-17,0:33,8,Didelphis aurita,brazilian common opossum,marsupial,,6/4/2017 9:27,12/5/2017 11:00,36.06458333,865.55,2,1,1,1,1000
+CB,9F,167,close,4/20/2017,Apr-17,9:01,9,bird,bird,bird,,6/4/2017 9:27,12/5/2017 8:26,36.97986111,887.5166667,2,1,1,1,40
+CB,9F,167,close,4/20/2017,Apr-17,9:02,9,bird,bird,bird,,6/4/2017 9:27,12/5/2017 8:26,36.97986111,887.5166667,2,1,1,0,40
+CB,11F,168,close,6/4/2017,Apr-17,7:37,7,bird,bird,bird,,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,3,1,1,1,40
+CB,11F,168,close,9/4/2017,Apr-17,6:41,6,bird,bird,bird,,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,3,1,1,1,40
+CB,11F,168,Closed,10/4/2017,Apr-17,8:49,8,Sciurus ingrami,Squirrel,Rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,3,1,1,1,200
+CB,11F,168,Closed,10/4/2017,Apr-17,8:50,8,Sciurus ingrami,Squirrel,Rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,3,1,1,1,200
+CB,11F,168,close,4/13/2017,Apr-17,21:44,21,Akodon,Rat,Rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,4,1,1,1,30
+CB,11F,168,close,4/20/2017,Apr-17,9:01,9,bird,bird,bird,,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,5,1,1,1,40
+CB,11F,168,close,4/20/2017,Apr-17,9:01,9,bird,bird,bird,,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,5,1,1,1,40
+CB,11F,168,Closed,4/21/2017,Apr-17,11:29,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,1,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:29,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:29,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:29,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:30,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:30,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:32,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:33,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:33,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:34,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:34,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:34,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:35,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,Closed,4/21/2017,Apr-17,11:35,11,Sciurus ingrami,squirrel,small rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,6,1,1,0,200
+CB,11F,168,close,4/21/2017,Apr-17,22:47,22,Trinomys spp,Rat,Rodent,granivore,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,7,1,1,0,200
+CB,11F,168,close,1/5/2017,Apr-17,15:47,9,bird,bird,bird,,5/4/2017 8:55,12/5/2017 8:26,36.97986111,887.5166667,8,1,1,1,40
+CB,9F,167,close,4/22/2017,Apr-17,8:20,8,Sciurus ingrami,squirrel,small rodent,granivore,6/4/2017 9:27,12/5/2017 11:00,36.06458333,865.55,3,1,1,1,200
+CB,9F,167,close,4/22/2017,Apr-17,20:10,20,Marmosops incanus,marsupial,marsupial,insectivore,6/4/2017 9:27,12/5/2017 11:00,36.06458333,865.55,4,1,1,1,60
+CB,9F,167,close,4/22/2017,Apr-17,20:33,20,Marmosops incanus,marsupial,marsupial,insectivore,6/4/2017 9:27,12/5/2017 11:00,36.06458333,865.55,4,1,1,0,60
+CB,9F,167,close,4/24/2017,Apr-17,6:59,6,bird,bird,bird,,6/4/2017 9:27,12/5/2017 11:00,36.06458333,865.55,5,1,1,1,40
+CB,9F,167,close,4/26/2017,Apr-17,6:43,6,bird,bird,bird,,6/4/2017 9:27,12/5/2017 11:00,36.06458333,865.55,6,1,1,1,40
+CB,9F,167,close,1/5/2017,Apr-17,15:47,15,bird,bird,bird,,6/4/2017 9:27,12/5/2017 8:26,36.97986111,887.5166667,4,1,1,1,40
+CB,9F,167,close,3/5/2017,Apr-17,8:03,8,Sciurus ingrami,squirrel,small rodent,granivore,6/4/2017 9:27,12/5/2017 11:00,36.06458333,865.55,7,1,1,1,200
+CB,11A,157,Open,6/4/2017,Apr-17,0:15,0,Metachirus nudicaudatus,Brown Four-eyed Opossum,marsupial,insectivore,5/4/2017 9:02,5/4/2017 9:02,36.97361111,887.3666667,10,,1,1,300
+CB,14F,2,Closed,9/19/2017,Oct-17,0:11,0,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 8:39,7/11/2017 0:58,49.67986111,1192.316667,1,1,1,1,300
+CB,14F,2,Closed,9/25/2017,Oct-17,6:01,6,Bird,Bird,Bird,,9/18/2017 8:39,7/11/2017 0:58,49.67986111,1192.316667,2,1,1,1,40
+CB,14F,2,Closed,10/13/2017,Oct-17,21:36,21,Didelphis albiventris,brazilian common opossum,Marsupial,Omnivore,9/18/2017 8:39,7/11/2017 0:58,49.67986111,1192.316667,3,1,1,1,1000
+CB,14F,2,Closed,7/11/2017,Oct-17,0:58,0,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Omnivore,9/18/2017 8:39,7/11/2017 0:58,49.67986111,1192.316667,4,1,1,1,300
+CB,12A,21,Open,10/20/2017,Oct-17,14:54,14,Bird,Bird,Bird,,10/13/2017 22:59,9/11/2017 7:30,26.35486111,632.5166667,1,1,1,1,40
+CB,12A,21,Open,1/11/2017,Oct-17,10:14,10,Bird,Bird,Bird,,10/13/2017 22:59,9/11/2017 7:30,26.35486111,632.5166667,2,1,1,1,40
+CB,12A,21,Open,2/11/2017,Oct-17,23:28,23,Mazama americana,Deer,Unguluate,Herbivore,10/13/2017 22:59,9/11/2017 7:30,26.35486111,632.5166667,3,1,1,1,25000
+CB,12A,21,Open,3/11/2017,Oct-17,0:15,0,Mazama americana,Deer,Unguluate,Herbivore,10/13/2017 22:59,9/11/2017 7:30,26.35486111,632.5166667,3,1,1,0,25000
+CB,12A,21,Open,3/11/2017,Oct-17,14:04,14,Bird,Bird,Bird,,10/13/2017 22:59,9/11/2017 7:30,26.35486111,632.5166667,4,1,1,1,40
+CB,12A,21,Open,4/11/2017,Oct-17,23:45,23,Mazama americana,Deer,Unguluate,Herbivore,10/13/2017 22:59,9/11/2017 7:30,26.35486111,632.5166667,5,1,1,1,25000
+CB,12A,21,Open,6/11/2017,Oct-17,14:30,14,Myrmecophaga tridactyla,Giant Anteater,Xenartro,Insectovore,10/13/2017 22:59,9/11/2017 7:30,26.35486111,632.5166667,6,1,1,1,30000
+CB,12A,21,Open,8/11/2017,Oct-17,5:28,5,Bird,Bird,Bird,,10/13/2017 22:59,9/11/2017 7:30,26.35486111,632.5166667,7,1,1,1,40
+CB,6A,22,Open,8/10/2017,Oct-17,19:22,19,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Onivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,1,1,1,1,300
+CB,6A,22,Open,9/10/2017,Oct-17,8:46,8,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,1,1,1,1,2000
+CB,6A,22,Open,10/10/2017,Oct-17,8:46,8,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,1,1,1,0,2000
+CB,6A,22,Open,10/16/2017,Oct-17,12:15,12,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,2,1,1,1,2000
+CB,6A,22,Open,10/18/2017,Oct-17,16:56,16,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,3,1,1,1,2000
+CB,6A,22,Open,10/18/2017,Oct-17,16:56,16,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,3,1,1,0,2000
+CB,6A,22,Open,10/18/2017,Oct-17,16:56,16,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,3,1,1,0,2000
+CB,6A,22,Open,10/18/2017,Oct-17,16:56,16,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,3,1,1,0,2000
+CB,6A,22,Open,10/19/2017,Oct-17,1:44,1,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,4,1,1,1,25000
+CB,6A,22,Open,2/11/2017,Oct-17,22:21,22,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,5,1,1,1,25000
+CB,6A,22,Open,3/11/2017,Oct-17,19:00,19,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,6,1,1,1,25000
+CB,6A,22,Open,3/11/2017,Oct-17,20:34,20,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,7,1,1,1,25000
+CB,6A,22,Open,6/11/2017,Oct-17,8:55,8,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 11:15,9/11/2017 13:31,52.09444444,1250.266667,8,1,1,1,2000
+CB,9F,32,Closed,9/29/2017,Oct-17,3:43,3,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/29/2017 3:44,10/11/2017 7:19,42.14930556,1011.583333,1,1,1,1,300
+CB,11A,38,Open,9/22/2017,Oct-17,14:50,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,1,1,1,1,200
+CB,11A,38,Open,9/22/2017,Oct-17,14:50,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,1,1,1,0,200
+CB,11A,38,Open,9/22/2017,Oct-17,14:55,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,2,1,1,0,200
+CB,11A,38,Open,9/22/2017,Oct-17,14:55,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,2,1,1,0,200
+CB,11A,38,Open,9/22/2017,Oct-17,14:55,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,2,1,1,0,200
+CB,11A,38,Open,9/22/2017,Oct-17,14:55,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,2,1,1,0,200
+CB,11A,38,Open,9/22/2017,Oct-17,14:56,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,2,1,1,0,200
+CB,11A,38,Open,9/22/2017,Oct-17,14:56,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,2,1,1,0,200
+CB,11A,38,Open,9/22/2017,Oct-17,14:56:00,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,2,1,1,0,200
+CB,11A,38,Open,9/27/2017,Oct-17,14:09,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,3,1,1,1,200
+CB,11A,38,Open,9/27/2017,Oct-17,14:09,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,3,1,1,0,200
+CB,11A,38,Open,10/13/2017,Oct-17,6:31,6,Bird,Bird,Bird,,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,4,1,1,1,40
+CB,11A,38,Open,10/13/2017,Oct-17,6:31,6,Bird,Bird,Bird,,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,4,1,1,0,40
+CB,11A,38,Open,10/16/2017,Oct-17,0:39,0,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,5,1,1,1,150000
+CB,11A,38,Open,10/16/2017,Oct-17,0:39,0,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,5,1,1,0,150000
+CB,11A,38,Open,10/16/2017,Oct-17,0:39,0,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,5,1,1,0,150000
+CB,11A,38,Open,10/16/2017,Oct-17,0:39,0,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,5,1,1,0,150000
+CB,11A,38,Open,10/16/2017,Oct-17,0:39,0,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,5,1,1,0,150000
+CB,11A,38,Open,10/16/2017,Oct-17,0:39,0,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,5,1,1,0,150000
+CB,11A,38,Open,10/16/2017,Oct-17,0:39,0,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,5,1,1,0,150000
+CB,11A,38,Open,10/16/2017,Oct-17,0:39,0,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,5,1,1,0,150000
+CB,11A,38,Open,10/18/2017,Oct-17,9:34,9,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,6,1,1,1,2000
+CB,11A,38,Open,10/18/2017,Oct-17,9:34,9,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,6,1,1,0,2000
+CB,11A,38,Open,10/18/2017,Oct-17,9:34,9,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,6,1,1,0,2000
+CB,11A,38,Open,10/18/2017,Oct-17,9:34,9,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,6,1,1,0,2000
+CB,11A,38,Open,10/18/2017,Oct-17,9:34,9,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,6,1,1,0,2000
+CB,11A,38,Open,10/18/2017,Oct-17,9:34,9,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,6,1,1,0,2000
+CB,11A,38,Open,10/18/2017,Oct-17,9:35,9,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,7,1,1,1,2000
+CB,11A,38,Open,10/18/2017,Oct-17,9:35,9,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,7,1,1,0,2000
+CB,11A,38,Open,10/18/2017,Oct-17,9:35,9,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,7,1,1,0,2000
+CB,11A,38,Open,10/18/2017,Oct-17,9:35,9,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,7,1,1,0,2000
+CB,11A,38,Open,10/22/2017,Oct-17,21:11,21,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,8,1,1,1,300
+CB,11A,38,Open,10/22/2017,Oct-17,21:11,21,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,8,1,1,0,300
+CB,11A,38,Open,10/23/2017,Oct-17,5:54,5,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,9,1,1,1,150000
+CB,11A,38,Open,10/23/2017,Oct-17,5:54,5,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,9,1,1,0,150000
+CB,11A,38,Open,10/23/2017,Oct-17,6:55,6,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,10,1,1,1,2000
+CB,11A,38,Open,10/23/2017,Oct-17,6:55,6,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,10,1,1,0,2000
+CB,11A,38,Open,10/23/2017,Oct-17,6:55,6,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,10,1,1,0,2000
+CB,11A,38,Open,10/23/2017,Oct-17,6:55,6,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,10,1,1,0,2000
+CB,11A,38,Open,10/23/2017,Oct-17,6:55,6,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,10,1,1,0,2000
+CB,11A,38,Open,10/23/2017,Oct-17,6:55,6,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,10,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:31,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,11,1,1,1,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:31,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,11,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:31,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,11,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:31,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,11,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:31,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,11,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:31,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,11,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:31,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,11,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:31,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,11,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,1,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:33,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:34,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:34,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:34,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:34,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:34,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:34,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,12,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:37,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,13,1,1,1,2000
+CB,11A,38,Open,10/24/2017,Oct-17,11:37,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,13,1,1,0,2000
+CB,11A,38,Open,10/24/2017,Oct-17,20:55,20,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,14,1,1,1,150000
+CB,11A,38,Open,10/24/2017,Oct-17,20:55,20,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,14,1,1,0,150000
+CB,11A,38,Open,10/29/2017,Oct-17,11:54,11,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,15,1,1,1,2000
+CB,11A,38,Open,10/31/2017,Oct-17,17:43,17,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,16,1,1,1,2000
+CB,11A,38,Open,10/31/2017,Oct-17,17:43,17,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,16,1,1,0,2000
+CB,11A,38,Open,10/31/2017,Oct-17,17:44,17,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,16,1,1,0,2000
+CB,11A,38,Open,10/31/2017,Oct-17,17:44,17,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,16,1,1,0,2000
+CB,11A,38,Open,10/31/2017,Oct-17,17:44,17,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,16,1,1,0,2000
+CB,11A,38,Open,1/11/2017,Oct-17,3:07,3,Trinomys spp,Rat,Rodent,granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,17,1,1,1,200
+CB,11A,38,Open,1/11/2017,Oct-17,3:07,3,Trinomys spp,Rat,Rodent,granivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,17,1,1,0,200
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,1,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,3:11,3,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,18,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,19:31,19,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,19,1,1,1,150000
+CB,11A,38,Open,1/11/2017,Oct-17,19:31,19,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,19,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,19:31,19,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,19,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,19:31,19,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,19,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,19:31,19,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,19,1,1,0,150000
+CB,11A,38,Open,1/11/2017,Oct-17,19:31,19,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,19,1,1,0,150000
+CB,11A,38,Open,5/11/2017,Oct-17,17:43,17,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,20,1,1,1,150000
+CB,11A,38,Open,5/11/2017,Oct-17,17:43,17,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,20,1,1,0,150000
+CB,11A,38,Open,5/11/2017,Oct-17,17:43,17,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,20,1,1,0,150000
+CB,11A,38,Open,5/11/2017,Oct-17,17:43,17,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,20,1,1,0,150000
+CB,11A,38,Open,5/11/2017,Oct-17,17:43,17,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,20,1,1,0,150000
+CB,11A,38,Open,5/11/2017,Oct-17,17:43,17,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 8:59,9/11/2017 6:44,51.90625,1245.75,20,1,1,0,150000
+CB,12F,62,Closed,9/20/2017,Oct-17,16:36,16,Bird,Bird,Bird,,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,1,1,1,1,40
+CB,12F,62,Closed,9/20/2017,Oct-17,16:36,16,Bird,Bird,Bird,,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,1,1,1,0,40
+CB,12F,62,Closed,9/25/2017,Oct-17,0:50,0,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,2,1,1,1,300
+CB,12F,62,Closed,9/26/2017,Oct-17,4:48,4,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,3,1,1,1,300
+CB,12F,62,Closed,10/14/2017,Oct-17,2:01,2,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,4,1,1,1,300
+CB,12F,62,Closed,10/14/2017,Oct-17,2:02,2,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,4,1,1,0,300
+CB,12F,62,Closed,10/14/2017,Oct-17,2:02,2,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,4,1,1,0,300
+CB,12F,62,Closed,10/14/2017,Oct-17,8:25,8,Bird,Bird,Bird,,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,5,1,1,1,40
+CB,12F,62,Closed,10/14/2017,Oct-17,8:25,8,Bird,Bird,Bird,,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,5,1,1,0,40
+CB,12F,62,Closed,10/15/2017,Oct-17,19:31,19,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,6,1,1,1,300
+CB,12F,62,Closed,10/24/2017,Oct-17,6:01,6,Bird,Bird,Bird,,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,7,1,1,1,40
+CB,12F,62,Closed,10/29/2017,Oct-17,23:59,23,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,8,1,1,1,300
+CB,12F,62,Closed,3/11/2017,Oct-17,8:51,8,Bird,Bird,Bird,,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,9,1,1,1,40
+CB,12F,62,Closed,3/11/2017,Oct-17,8:52,8,Bird,Bird,Bird,,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,9,1,1,0,40
+CB,12F,62,Closed,3/11/2017,Oct-17,8:53,8,Bird,Bird,Bird,,9/20/2017 15:36,9/11/2017 7:25,49.65902778,1191.816667,9,1,1,0,40
+CB,11F,73,Closed,9/27/2017,Oct-17,14:09,14,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 7:56,9/11/2017 6:36,51.94444444,1246.666667,1,1,1,1,200
+CB,6F,81,Closed,8/10/2017,Oct-17,18:58,18,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/17/2017 16:04,9/11/2017 13:27,52.89097222,1269.383333,1,1,1,1,300
+CB,6F,81,Closed,10/20/2017,Oct-17,12:17,12,Bird,Bird,Bird,,9/17/2017 16:04,9/11/2017 13:27,52.89097222,1269.383333,2,1,1,1,40
+CB,6F,81,Closed,10/25/2017,Oct-17,9:05,9,Bird,Bird,Bird,,9/17/2017 16:04,9/11/2017 13:27,52.89097222,1269.383333,3,1,1,1,40
+CB,6F,81,Closed,3/11/2017,Oct-17,15:38,15,Bird,Bird,Bird,,9/17/2017 16:04,9/11/2017 13:27,52.89097222,1269.383333,4,2,2,1,80
+CB,5A,105,Open,9/19/2017,Oct-17,1:57,1,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,1,1,1,1,300
+CB,5A,105,Open,9/19/2017,Oct-17,1:57,1,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,1,1,1,0,300
+CB,5A,105,Open,9/19/2017,Oct-17,1:57,1,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,1,1,1,0,300
+CB,5A,105,Open,10/14/2017,Oct-17,23:23,23,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,2,1,1,,150000
+CB,5A,105,Open,10/17/2017,Oct-17,14:30,14,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,3,1,1,1,40
+CB,5A,105,Open,10/20/2017,Oct-17,10:29,10,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,4,1,1,1,40
+CB,5A,105,Open,10/20/2017,Oct-17,11:01,11,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,5,1,1,1,40
+CB,5A,105,Open,10/20/2017,Oct-17,11:01,11,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,5,1,1,0,40
+CB,5A,105,Open,10/20/2017,Oct-17,11:34,11,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,6,4,1,1,40
+CB,5A,105,Open,10/20/2017,Oct-17,11:34,11,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,6,4,2,0,40
+CB,5A,105,Open,10/20/2017,Oct-17,11:34,11,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,6,4,3,0,40
+CB,5A,105,Open,10/20/2017,Oct-17,11:34,11,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,6,4,3,0,40
+CB,5A,105,Open,10/20/2017,Oct-17,11:34,11,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,6,4,4,0,40
+CB,5A,105,Open,10/20/2017,Oct-17,11:34,11,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,6,4,3,0,40
+CB,5A,105,Open,10/21/2017,Oct-17,7:06,7,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,7,2,2,1,40
+CB,5A,105,Open,10/28/2017,Oct-17,1:18,1,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,8,1,1,1,9500
+CB,5A,105,Open,10/28/2017,Oct-17,1:18,1,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,8,1,1,0,9500
+CB,5A,105,Open,10/29/2017,Oct-17,16:46,16,Bird,Bird,Bird,,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,9,1,1,1,40
+CB,5A,105,Open,10/29/2017,Oct-17,17:43,17,Tinamus solitarius,Macuco,Bird,Granivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,10,1,1,1,2000
+CB,5A,105,Open,10/29/2017,Oct-17,17:43,17,Tinamus solitarius,Macuco,Bird,Granivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,10,1,1,0,2000
+CB,5A,105,Open,10/29/2017,Oct-17,17:43,17,Tinamus solitarius,Macuco,Bird,Granivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,10,1,1,0,2000
+CB,5A,105,Open,2/11/2017,Oct-17,23:17,23,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,11,1,1,1,300
+CB,5A,105,Open,2/11/2017,Oct-17,23:17,23,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,11,1,1,1,300
+CB,5A,105,Open,2/11/2017,Oct-17,23:17,23,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/17/2017 16:47,10/11/2017 9:49,53.70972222,1289.033333,11,1,1,1,300
+CB,4A,121,Open,9/25/2017,Oct-17,19:24,19,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,1,1,1,1,300
+CB,4A,121,Open,9/27/2017,Oct-17,13:33,13,Sciurus ingrami,Squirrel,Rodent,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,2,1,1,1,200
+CB,4A,121,Open,9/27/2017,Oct-17,13:33,13,Sciurus ingrami,Squirrel,Rodent,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,2,1,1,0,200
+CB,4A,121,Open,9/27/2017,Oct-17,13:33,13,Sciurus ingrami,Squirrel,Rodent,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,2,1,1,0,200
+CB,4A,121,Open,8/10/2017,Oct-17,8:32,8,NA,NA,small mammal,,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,3,2,1,1,60
+CB,4A,121,Open,8/10/2017,Oct-17,8:32,8,NA,NA,small mammal,,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,3,2,1,1,60
+CB,4A,121,Open,10/10/2017,Oct-17,12:57,12,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,4,2,1,1,2000
+CB,4A,121,Open,10/10/2017,Oct-17,12:57,12,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,4,2,1,0,2000
+CB,4A,121,Open,10/10/2017,Oct-17,12:57,12,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,4,2,2,0,4000
+CB,4A,121,Open,10/10/2017,Oct-17,12:57,12,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,4,2,2,0,4000
+CB,4A,121,Open,10/10/2017,Oct-17,12:57,12,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,4,2,1,0,2000
+CB,4A,121,Open,10/10/2017,Oct-17,15:00,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,5,2,1,1,2000
+CB,4A,121,Open,10/10/2017,Oct-17,15:00,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,5,2,2,0,4000
+CB,4A,121,Open,10/10/2017,Oct-17,15:00,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,5,2,1,0,2000
+CB,4A,121,Open,10/10/2017,Oct-17,15:00,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,5,2,2,0,4000
+CB,4A,121,Open,10/10/2017,Oct-17,15:00,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,5,2,2,0,4000
+CB,4A,121,Open,10/10/2017,Oct-17,15:00,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,5,2,2,0,4000
+CB,4A,121,Open,10/10/2017,Oct-17,15:00,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,5,2,2,0,4000
+CB,4A,121,Open,10/10/2017,Oct-17,15:01,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,5,2,1,0,2000
+CB,4A,121,Open,10/14/2017,Oct-17,14:30,14,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,6,2,2,1,4000
+CB,4A,121,Open,10/14/2017,Oct-17,14:30,14,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,6,2,2,0,4000
+CB,4A,121,Open,10/14/2017,Oct-17,14:30,14,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,6,2,2,0,4000
+CB,4A,121,Open,10/14/2017,Oct-17,14:31,14,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,6,2,1,0,2000
+CB,4A,121,Open,10/14/2017,Oct-17,14:31,14,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,6,2,1,0,2000
+CB,4A,121,Open,10/14/2017,Oct-17,14:32,14,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,6,2,1,0,2000
+CB,4A,121,Open,10/14/2017,Oct-17,14:32,14,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,6,2,1,0,2000
+CB,4A,121,Open,10/15/2017,Oct-17,16:26,16,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,7,3,1,1,2000
+CB,4A,121,Open,10/15/2017,Oct-17,16:27,16,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,7,2,1,0,2000
+CB,4A,121,Open,10/17/2017,Oct-17,23:43,23,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,8,1,1,1,2000
+CB,4A,121,Open,10/17/2017,Oct-17,23:43,23,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,8,1,1,0,2000
+CB,4A,121,Open,10/27/2017,Oct-17,16:05,16,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,9,1,1,1,2000
+CB,4A,121,Open,10/27/2017,Oct-17,16:05,16,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,9,1,1,0,2000
+CB,4A,121,Open,10/29/2017,Oct-17,12:08,12,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,10,1,1,1,2000
+CB,4A,121,Open,10/29/2017,Oct-17,12:09,12,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,10,1,1,0,2000
+CB,4A,121,Open,10/29/2017,Oct-17,12:09,12,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,10,1,1,0,2000
+CB,4A,121,Open,10/29/2017,Oct-17,12:09,12,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,10,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:53,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,1,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:54,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:54,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:55,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:56,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:56,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:56,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:56,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:56,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:57,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:57,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:57,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:57,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:57,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:57,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,1/11/2017,Oct-17,15:57,15,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,11,1,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:01,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,2,1,4000
+CB,4A,121,Open,2/11/2017,Oct-17,17:01,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:01,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:02,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:02,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:02,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:02,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,2,0,4000
+CB,4A,121,Open,2/11/2017,Oct-17,17:02,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,2,0,4000
+CB,4A,121,Open,2/11/2017,Oct-17,17:02,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,2,0,4000
+CB,4A,121,Open,2/11/2017,Oct-17,17:02,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,2,0,4000
+CB,4A,121,Open,2/11/2017,Oct-17,17:02,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,2,0,4000
+CB,4A,121,Open,2/11/2017,Oct-17,17:02,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,2,0,4000
+CB,4A,121,Open,2/11/2017,Oct-17,17:02,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,2,0,4000
+CB,4A,121,Open,2/11/2017,Oct-17,17:03,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,2,0,4000
+CB,4A,121,Open,2/11/2017,Oct-17,17:03,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,2,0,4000
+CB,4A,121,Open,2/11/2017,Oct-17,17:03,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,3,0,6000
+CB,4A,121,Open,2/11/2017,Oct-17,17:03,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:03,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:03,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:03,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:03,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:03,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:03,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,2/11/2017,Oct-17,17:04,17,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,12,3,1,0,2000
+CB,4A,121,Open,3/11/2017,Oct-17,14:31,14,Tinamus solitarius,Macuco,Bird,Granivore,9/25/2017 19:24,10/11/2017 9:33,45.58958333,1094.15,13,1,1,1,2000
+CB,14A,122,Open,9/19/2017,Oct-17,21:11,21,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,1,1,1,1,9500
+CB,14A,122,Open,9/19/2017,Oct-17,21:15,21,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,2,1,1,1,9500
+CB,14A,122,Open,9/21/2017,Oct-17,22:54,22,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,3,1,1,1,25000
+CB,14A,122,Open,9/21/2017,Oct-17,22:54,22,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,3,1,1,0,25000
+CB,14A,122,Open,9/21/2017,Oct-17,22:54,22,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,3,1,1,0,25000
+CB,14A,122,Open,9/23/2017,Oct-17,18:34,18,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,4,1,1,1,25000
+CB,14A,122,Open,9/26/2017,Oct-17,23:35,23,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,5,1,1,1,25000
+CB,14A,122,Open,9/26/2017,Oct-17,23:35,23,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,5,1,1,0,25000
+CB,14A,122,Open,4/10/2017,Oct-17,6:44,6,Bird,Bird,Bird,,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,6,1,1,1,40
+CB,14A,122,Open,4/10/2017,Oct-17,21:17,21,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,7,1,1,1,25000
+CB,14A,122,Open,4/10/2017,Oct-17,21:17,21,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,7,1,1,0,25000
+CB,14A,122,Open,4/10/2017,Oct-17,21:17,21,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,7,1,1,0,25000
+CB,14A,122,Open,4/10/2017,Oct-17,21:17,21,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,7,1,1,0,25000
+CB,14A,122,Open,6/10/2017,Oct-17,9:37,9,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,8,1,1,1,2000
+CB,14A,122,Open,7/10/2017,Oct-17,19:47,19,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,9,1,1,1,25000
+CB,14A,122,Open,7/10/2017,Oct-17,19:47,19,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,9,1,1,0,25000
+CB,14A,122,Open,10/20/2017,Oct-17,1:49,1,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,10,1,1,1,25000
+CB,14A,122,Open,10/20/2017,Oct-17,1:49,1,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,10,1,1,0,25000
+CB,14A,122,Open,10/20/2017,Oct-17,1:49,1,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,10,1,1,0,25000
+CB,14A,122,Open,10/20/2017,Oct-17,1:52,1,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,11,1,1,1,25000
+CB,14A,122,Open,10/20/2017,Oct-17,1:52,1,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,11,1,1,0,25000
+CB,14A,122,Open,10/20/2017,Oct-17,1:52,1,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,11,1,1,0,25000
+CB,14A,122,Open,10/21/2017,Oct-17,20:20,20,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,12,1,1,1,9500
+CB,14A,122,Open,10/21/2017,Oct-17,20:20,20,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,12,1,1,0,9500
+CB,14A,122,Open,10/25/2017,Oct-17,8:52,8,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,13,1,1,1,2000
+CB,14A,122,Open,10/25/2017,Oct-17,8:52,8,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,13,1,1,0,2000
+CB,14A,122,Open,10/25/2017,Oct-17,8:52,8,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,13,1,1,0,2000
+CB,14A,122,Open,10/25/2017,Oct-17,8:52,8,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,13,1,1,0,2000
+CB,14A,122,Open,3/11/2017,Oct-17,3:08,3,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,14,1,1,1,9500
+CB,14A,122,Open,3/11/2017,Oct-17,5:32,5,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,15,1,1,1,2000
+CB,14A,122,Open,3/11/2017,Oct-17,5:32,5,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,15,1,1,0,2000
+CB,14A,122,Open,3/11/2017,Oct-17,5:32,5,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,15,1,1,0,2000
+CB,14A,122,Open,3/11/2017,Oct-17,5:32,5,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,15,1,1,0,2000
+CB,14A,122,Open,4/11/2017,Oct-17,6:49,6,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,16,1,1,1,200
+CB,14A,122,Open,4/11/2017,Oct-17,6:50,6,Sciurus ingrami,Squirrel,Rodent,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,16,1,1,0,200
+CB,14A,122,Open,5/11/2017,Oct-17,15:47,15,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,17,1,1,1,2000
+CB,14A,122,Open,7/11/2017,Oct-17,5:23,5,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,18,1,1,1,2000
+CB,14A,122,Open,7/11/2017,Oct-17,5:23,5,Tinamus solitarius,Macuco,Bird,Granivore,9/18/2017 14:16,8/11/2017 15:01,51.03125,1224.75,18,1,1,0,2000
+CB,2A,157,Open,9/20/2017,Oct-17,0:49,0,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,1,1,1,1,9500
+CB,2A,157,Open,9/20/2017,Oct-17,0:49,0,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,1,1,1,0,9500
+CB,2A,157,Open,9/20/2017,Oct-17,0:49,0,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,1,1,1,0,9500
+CB,2A,157,Open,9/20/2017,Oct-17,0:49,0,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,1,1,1,0,9500
+CB,2A,157,Open,9/22/2017,Oct-17,1:01,1,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,2,1,1,1,9500
+CB,2A,157,Open,9/22/2017,Oct-17,1:01,1,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,2,1,1,0,9500
+CB,2A,157,Open,9/22/2017,Oct-17,1:01,1,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,2,1,1,0,9500
+CB,2A,157,Open,9/22/2017,Oct-17,1:01,1,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,2,1,1,0,9500
+CB,2A,157,Open,9/22/2017,Oct-17,1:01,1,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,2,1,1,0,9500
+CB,2A,157,Open,9/22/2017,Oct-17,1:01,1,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,2,1,1,0,9500
+CB,2A,157,Open,9/22/2017,Oct-17,1:01,1,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,2,1,1,0,9500
+CB,2A,157,Open,9/26/2017,Oct-17,16:24,16,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,3,1,1,1,150000
+CB,2A,157,Open,9/26/2017,Oct-17,16:24,16,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,3,1,1,0,150000
+CB,2A,157,Open,9/26/2017,Oct-17,16:24,16,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,3,1,1,0,150000
+CB,2A,157,Open,9/26/2017,Oct-17,16:24,16,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,3,1,1,0,150000
+CB,2A,157,Open,9/26/2017,Oct-17,16:24,16,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,3,1,1,0,150000
+CB,2A,157,Open,9/26/2017,Oct-17,16:24,16,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,3,1,1,0,150000
+CB,2A,157,Open,9/26/2017,Oct-17,16:24,16,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,3,1,1,0,150000
+CB,2A,157,Open,9/26/2017,Oct-17,16:24,16,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,3,1,1,0,150000
+CB,2A,157,Open,1/10/2017,Oct-17,2:04,2,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,4,1,1,1,25000
+CB,2A,157,Open,1/10/2017,Oct-17,2:04,2,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,4,1,1,0,25000
+CB,2A,157,Open,1/10/2017,Oct-17,2:04,2,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,4,1,1,0,25000
+CB,2A,157,Open,1/10/2017,Oct-17,2:04,2,Mazama americana,Deer,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,4,1,1,0,25000
+CB,2A,157,Open,6/10/2017,Oct-17,19:56,19,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,5,1,1,1,9500
+CB,2A,157,Open,6/10/2017,Oct-17,19:58,19,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,5,1,1,0,9500
+CB,2A,157,Open,6/10/2017,Oct-17,19:59,19,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,5,1,1,0,9500
+CB,2A,157,Open,6/10/2017,Oct-17,19:59,19,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,5,1,1,0,9500
+CB,2A,157,Open,6/10/2017,Oct-17,20:02,20,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,5,1,1,0,9500
+CB,2A,157,Open,6/10/2017,Oct-17,20:02,20,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,5,1,1,0,9500
+CB,2A,157,Open,6/10/2017,Oct-17,20:02,20,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,5,1,1,0,9500
+CB,2A,157,Open,6/10/2017,Oct-17,20:03,20,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,5,1,1,0,9500
+CB,2A,157,Open,6/10/2017,Oct-17,20:03,20,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,5,1,1,0,9500
+CB,2A,157,Open,6/10/2017,Oct-17,20:04,20,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,5,1,1,0,9500
+CB,2A,157,Open,10/14/2017,Oct-17,1:46,1,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,6,1,1,1,9500
+CB,2A,157,Open,10/14/2017,Oct-17,1:46,1,Cuniculus paca,spotted paca,Large rodent,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,6,1,1,0,9500
+CB,2A,157,Open,10/21/2017,Oct-17,1:58,1,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,7,1,1,1,150000
+CB,2A,157,Open,10/21/2017,Oct-17,1:58,1,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,7,1,1,0,150000
+CB,2A,157,Open,10/21/2017,Oct-17,1:58,1,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,7,1,1,0,150000
+CB,2A,157,Open,10/23/2017,Oct-17,19:16,19,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,8,1,1,1,150000
+CB,2A,157,Open,10/23/2017,Oct-17,19:16,19,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 14:30,8/11/2017 14:07,50.98402778,1223.616667,8,1,1,0,150000
+CB,9A,160,Open,9/21/2017,Oct-17,22:55,22,Bird,Bird,Bird,,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,1,1,1,1,40
+CB,9A,160,Open,9/22/2017,Oct-17,7:21,7,Sciurus ingrami,Squirrel,Rodent,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,2,1,1,1,200
+CB,9A,160,Open,9/22/2017,Oct-17,7:21,7,Sciurus ingrami,Squirrel,Rodent,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,2,1,1,0,200
+CB,9A,160,Open,9/22/2017,Oct-17,7:21,7,Sciurus ingrami,Squirrel,Rodent,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,2,1,1,0,200
+CB,9A,160,Open,9/22/2017,Oct-17,7:21,7,Sciurus ingrami,Squirrel,Rodent,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,2,1,1,0,200
+CB,9A,160,Open,9/22/2017,Oct-17,7:21,7,Sciurus ingrami,Squirrel,Rodent,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,2,1,1,0,200
+CB,9A,160,Open,9/22/2017,Oct-17,7:21,7,Sciurus ingrami,Squirrel,Rodent,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,2,1,1,0,200
+CB,9A,160,Open,2/10/2017,Oct-17,18:14,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,1,2000
+CB,9A,160,Open,2/10/2017,Oct-17,18:14,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,2,0,4000
+CB,9A,160,Open,2/10/2017,Oct-17,18:14,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,2,0,4000
+CB,9A,160,Open,2/10/2017,Oct-17,18:14,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,2,0,4000
+CB,9A,160,Open,2/10/2017,Oct-17,18:14,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,2,0,4000
+CB,9A,160,Open,2/10/2017,Oct-17,18:14,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,0,2000
+CB,9A,160,Open,2/10/2017,Oct-17,18:14,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,0,2000
+CB,9A,160,Open,2/10/2017,Oct-17,18:14,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,0,2000
+CB,9A,160,Open,2/10/2017,Oct-17,18:15,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,0,2000
+CB,9A,160,Open,2/10/2017,Oct-17,18:15,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,0,2000
+CB,9A,160,Open,2/10/2017,Oct-17,18:15,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,0,2000
+CB,9A,160,Open,2/10/2017,Oct-17,18:15,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,0,2000
+CB,9A,160,Open,2/10/2017,Oct-17,18:15,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,0,2000
+CB,9A,160,Open,2/10/2017,Oct-17,18:15,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,0,2000
+CB,9A,160,Open,2/10/2017,Oct-17,18:16,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,0,2000
+CB,9A,160,Open,2/10/2017,Oct-17,18:16,18,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,3,2,1,0,2000
+CB,9A,160,Open,11/10/2017,Oct-17,16:32,16,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,4,1,1,1,2000
+CB,9A,160,Open,11/10/2017,Oct-17,16:33,16,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,5,1,1,1,2000
+CB,9A,160,Open,11/10/2017,Oct-17,16:33,16,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,5,1,1,0,2000
+CB,9A,160,Open,11/10/2017,Oct-17,16:33,16,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,5,1,1,0,2000
+CB,9A,160,Open,11/10/2017,Oct-17,16:33,16,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,5,1,1,0,2000
+CB,9A,160,Open,11/10/2017,Oct-17,16:33,16,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,5,1,1,0,2000
+CB,9A,160,Open,11/10/2017,Oct-17,16:33,16,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,5,1,1,0,2000
+CB,9A,160,Open,11/10/2017,Oct-17,16:33,16,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,5,1,1,0,2000
+CB,9A,160,Open,11/10/2017,Oct-17,16:33,16,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,5,1,1,0,2000
+CB,9A,160,Open,11/10/2017,Oct-17,16:33,16,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,5,1,1,0,2000
+CB,9A,160,Open,11/10/2017,Oct-17,22:57,22,Marsupial,Opossum,Marsupial,onivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,6,1,1,1,60
+CB,9A,160,Open,10/14/2017,Oct-17,4:10,4,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,7,1,1,1,2000
+CB,9A,160,Open,10/16/2017,Oct-17,20:01,20,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,8,1,1,1,300
+CB,9A,160,Open,10/22/2017,Oct-17,7:56,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,9,1,1,1,2000
+CB,9A,160,Open,10/22/2017,Oct-17,16:57,16,Bird,Bird,Bird,,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,10,1,1,1,40
+CB,9A,160,Open,10/31/2017,Oct-17,17:16,17,Myrmecophaga tridactyla,Giant Anteater,Xenatro,Insectovore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,11,1,1,1,30000
+CB,9A,160,Open,10/31/2017,Oct-17,17:16,17,Myrmecophaga tridactyla,Giant Anteater,Xenatro,Insectovore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,11,1,1,0,30000
+CB,9A,160,Open,10/31/2017,Oct-17,17:16,17,Myrmecophaga tridactyla,Giant Anteater,Xenatro,Insectovore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,11,1,1,0,30000
+CB,9A,160,Open,10/31/2017,Oct-17,17:16,17,Myrmecophaga tridactyla,Giant Anteater,Xenatro,Insectovore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,11,1,1,0,30000
+CB,9A,160,Open,10/31/2017,Oct-17,17:16,17,Myrmecophaga tridactyla,Giant Anteater,Xenatro,Insectovore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,11,1,1,0,30000
+CB,9A,160,Open,10/31/2017,Oct-17,17:16,17,Myrmecophaga tridactyla,Giant Anteater,Xenatro,Insectovore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,11,1,1,0,30000
+CB,9A,160,Open,10/31/2017,Oct-17,17:17,17,Myrmecophaga tridactyla,Giant Anteater,Xenatro,Insectovore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,11,1,1,0,30000
+CB,9A,160,Open,10/31/2017,Oct-17,17:18,17,Myrmecophaga tridactyla,Giant Anteater,Xenatro,Insectovore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,11,1,1,0,30000
+CB,9A,160,Open,10/31/2017,Oct-17,17:18,17,Myrmecophaga tridactyla,Giant Anteater,Xenatro,Insectovore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,11,1,1,0,30000
+CB,9A,160,Open,3/11/2017,Oct-17,7:16,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,12,1,1,1,2000
+CB,9A,160,Open,3/11/2017,Oct-17,7:16,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,12,1,1,0,2000
+CB,9A,160,Open,3/11/2017,Oct-17,7:16,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,12,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:17,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,1,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:17,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:17,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:17,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:17,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,9A,160,Open,7/11/2017,Oct-17,7:18,7,Tinamus solitarius,Macuco,Bird,Granivore,9/19/2017 19:22,10/11/2017 7:22,51.5,1236,13,1,1,0,2000
+CB,15A,165,Open,9/25/2017,Oct-17,1:56,1,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,1,1,1,1,150000
+CB,15A,165,Open,9/25/2017,Oct-17,1:56,1,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,1,1,1,0,150000
+CB,15A,165,Open,9/25/2017,Oct-17,1:56,1,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,1,1,1,0,150000
+CB,15A,165,Open,1/10/2017,Oct-17,23:05,23,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,2,1,1,1,150000
+CB,15A,165,Open,1/10/2017,Oct-17,23:06,23,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,2,1,1,0,150000
+CB,15A,165,Open,1/10/2017,Oct-17,23:06,23,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,2,1,1,0,150000
+CB,15A,165,Open,1/10/2017,Oct-17,23:06,23,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,2,1,1,0,150000
+CB,15A,165,Open,1/10/2017,Oct-17,23:06,23,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,2,1,1,0,150000
+CB,15A,165,Open,1/10/2017,Oct-17,23:06,23,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,2,1,1,0,150000
+CB,15A,165,Open,1/10/2017,Oct-17,23:06,23,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,2,1,1,0,150000
+CB,15A,165,Open,1/10/2017,Oct-17,23:06,23,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,2,1,1,0,150000
+CB,15A,165,Open,1/10/2017,Oct-17,23:06,23,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,2,1,1,0,150000
+CB,15A,165,Open,11/10/2017,Oct-17,20:35,20,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,3,1,1,1,150000
+CB,15A,165,Open,10/16/2017,Oct-17,5:30,5,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,4,1,1,1,150000
+CB,15A,165,Open,10/16/2017,Oct-17,5:30,5,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,4,1,1,0,150000
+CB,15A,165,Open,10/24/2017,Oct-17,22:14,22,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,5,1,1,1,150000
+CB,15A,165,Open,10/24/2017,Oct-17,22:14,22,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,5,1,1,0,150000
+CB,15A,165,Open,10/24/2017,Oct-17,22:14,22,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,5,1,1,0,150000
+CB,15A,165,Open,10/29/2017,Oct-17,4:36,4,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,6,1,1,1,300
+CB,15A,165,Open,10/29/2017,Oct-17,4:36,4,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,6,1,1,0,300
+CB,15A,165,Open,10/29/2017,Oct-17,4:36,4,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,6,1,1,0,300
+CB,15A,165,Open,10/29/2017,Oct-17,4:36,4,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,6,1,1,0,300
+CB,15A,165,Open,10/29/2017,Oct-17,4:44,4,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,7,1,1,1,300
+CB,15A,165,Open,10/29/2017,Oct-17,4:44,4,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,7,1,1,0,300
+CB,15A,165,Open,10/29/2017,Oct-17,4:44,4,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,7,1,1,0,300
+CB,15A,165,Open,1/11/2017,Oct-17,22:03,22,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,7,1,1,0,150000
+CB,15A,165,Open,1/11/2017,Oct-17,22:03,22,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,7,1,1,0,150000
+CB,15A,165,Open,1/11/2017,Oct-17,22:03,22,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,7,1,1,0,150000
+CB,15A,165,Open,1/11/2017,Oct-17,22:03,22,Tapirus terrestris,Tapir,Unguluate,Herbivore,9/18/2017 10:00,8/11/2017 11:17,51.05347222,1225.283333,7,1,1,0,150000
+CB,1F,167,Closed,9/27/2017,Oct-17,16:46,16,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 2:18,5/11/2017 21:38,48.80555556,1171.333333,1,1,1,1,300
+CB,1F,167,Closed,9/27/2017,Oct-17,16:46,16,Metachirus nudicaudatus,Brown Four-eyed Opossum,Marsupial,Granivore,9/18/2017 2:18,5/11/2017 21:38,48.80555556,1171.333333,1,1,1,0,300

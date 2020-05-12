@@ -1,0 +1,11 @@
+life-form,competitors,estimate,sd,p_value,treatment
+bamboos,trees,0.66932,0.06947,2.00E-16,open
+bamboos,trees,0.66628,0.09321,0.974,closed
+bamboos,lianas,0.55457,0.05001,2.00E-16,open
+bamboos,lianas,0.47348,0.06174,0.189,closed
+bamboos,palms,0.30887,0.03985,9.16E-15,open
+bamboos,palms,0.95968,0.06381,2.00E-16,closed
+bamboos,shrubs,0.19354,0.0421,4.29E-06,open
+bamboos,shrubs,-0.34725,0.06311,2.00E-16,closed
+bamboos,herbs,0.67023,0.05233,2.00E-16,open
+bamboos,herbs,0.81899,0.06405,0.02021,closed

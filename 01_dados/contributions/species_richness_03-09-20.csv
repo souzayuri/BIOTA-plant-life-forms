@@ -1,0 +1,2358 @@
+Site,Plot,Treatment,Species,Freq
+CAR,1,closed,Apocynaceae sp.,1
+CAR,1,closed,Araceae sp.,1
+CAR,1,closed,Astrocaryum aculeatissimum,1
+CAR,1,closed,Chionanthus filiformis,1
+CAR,1,closed,Doliocarpus sp.,1
+CAR,1,closed,Eugenia cf.,1
+CAR,1,closed,Eugenia cuprea,1
+CAR,1,closed,Eugenia sp.,1
+CAR,1,closed,Euterpe edulis,1
+CAR,1,closed,Goeppertia sp.,1
+CAR,1,closed,Guapira opposita,1
+CAR,1,closed,Indeterminate sp.,1
+CAR,1,closed,Marlierea strigipes,1
+CAR,1,closed,Mollinedia cf.,1
+CAR,1,closed,Mollinedia schottiana,1
+CAR,1,closed,Myrcia spectabilis,1
+CAR,1,closed,Myrsine cf. umbellata,1
+CAR,1,closed,Myrtaceae cf.,1
+CAR,1,closed,Ocotea cf.,1
+CAR,1,closed,Paullinia sp.,1
+CAR,1,closed,Paullinia/Serjania sp.,1
+CAR,1,closed,Philodendron sp.,1
+CAR,1,closed,Polypodiaceae sp. 1,1
+CAR,1,closed,Psychotria cf.,1
+CAR,1,closed,Rubiaceae cf.,1
+CAR,1,closed,Rubiaceae sp.,1
+CAR,1,closed,Sloanea cf.,1
+CAR,1,closed,Sloanea guianensis,1
+CAR,1,open,Acanthaceae sp.,1
+CAR,1,open,Allophylus sp.,1
+CAR,1,open,Araceae sp.,1
+CAR,1,open,Casearia cf.,1
+CAR,1,open,Chionanthus filiformis,1
+CAR,1,open,Diploon cuspidatum,1
+CAR,1,open,Eugenia cuprea,1
+CAR,1,open,Eugenia sp.,1
+CAR,1,open,Euterpe edulis,1
+CAR,1,open,Goeppertia sp.,1
+CAR,1,open,Gomidesia sp.,1
+CAR,1,open,Guarea macrophylla,1
+CAR,1,open,Indeterminate sp.,1
+CAR,1,open,Inga sp.,1
+CAR,1,open,Mollinedia cf.,1
+CAR,1,open,Mollinedia schottiana,1
+CAR,1,open,Philodendron sp.,1
+CAR,1,open,Piper sp.,1
+CAR,1,open,Psychotria sp.,1
+CAR,1,open,Serjania sp.,1
+CAR,1,open,Sloanea guianensis,1
+CAR,2,closed,Acanthaceae sp.,1
+CAR,2,closed,Actnostemon cf.,1
+CAR,2,closed,Araceae sp.,1
+CAR,2,closed,Coccocypselum cf.,1
+CAR,2,closed,Coccocypselum sp.,1
+CAR,2,closed,Eugenia cuprea,1
+CAR,2,closed,Eugenia sp.,1
+CAR,2,closed,Euterpe edulis,1
+CAR,2,closed,Fabaceae sp.,1
+CAR,2,closed,Goeppertia sp.,1
+CAR,2,closed,Guapira opposita,1
+CAR,2,closed,Indeterminate sp.,1
+CAR,2,closed,Inga edulis,1
+CAR,2,closed,Lacistema pubescens,1
+CAR,2,closed,Lauraceae cf.,1
+CAR,2,closed,Machaerium cf.,1
+CAR,2,closed,Marantaceae sp.,1
+CAR,2,closed,Marlierea obscura,1
+CAR,2,closed,Matayba guianensis,1
+CAR,2,closed,Maytenus robusta,1
+CAR,2,closed,Metrodorea nigra,1
+CAR,2,closed,Mollinedia cf.,1
+CAR,2,closed,Mollinedia schottiana,1
+CAR,2,closed,Mollinedia sp.,1
+CAR,2,closed,Myrsine sp.,1
+CAR,2,closed,Myrtaceae sp.,1
+CAR,2,closed,Ocotea dispersa,1
+CAR,2,closed,Ocotea sp.,1
+CAR,2,closed,Ouratea parviflora,1
+CAR,2,closed,Parodiolyra sp.,1
+CAR,2,closed,Philodendron sp.,1
+CAR,2,closed,Rubiaceae cf.,1
+CAR,2,closed,Rubiaceae sp.,1
+CAR,2,closed,Rubiaceae sp. 1,1
+CAR,2,closed,Sloanea guianensis,1
+CAR,2,closed,Strychnos sp.,1
+CAR,2,closed,Strychnos trinervis,1
+CAR,2,closed,Tetrastylidium cf. grandifolium,1
+CAR,2,closed,Virola bicuhyba,1
+CAR,2,closed,Virola gardneri,1
+CAR,2,open,Acanthaceae sp.,1
+CAR,2,open,Araceae sp. 1,1
+CAR,2,open,Bignoniaceae cf.,1
+CAR,2,open,Chionanthus filiformis,1
+CAR,2,open,Coccocypselum cf.,1
+CAR,2,open,Coccocypselum sp.,1
+CAR,2,open,Commelinaceae cf.,1
+CAR,2,open,Eugenia cf.,1
+CAR,2,open,Eugenia cuprea,1
+CAR,2,open,Eugenia sp.,1
+CAR,2,open,Euterpe edulis,1
+CAR,2,open,Fabaceae sp.,1
+CAR,2,open,Goeppertia sp.,1
+CAR,2,open,Guarea macrophylla,1
+CAR,2,open,Guatteria australis,1
+CAR,2,open,Indeterminate sp.,1
+CAR,2,open,Machaerium cf.,1
+CAR,2,open,Matayba guianensis,1
+CAR,2,open,Mollinedia schottiana,1
+CAR,2,open,Myrcia spectabilis,1
+CAR,2,open,Myrsine sp.,1
+CAR,2,open,Myrtaceae sp.,1
+CAR,2,open,Ouratea parviflora,1
+CAR,2,open,Ouratea sp.,1
+CAR,2,open,Philodendron sp.,1
+CAR,2,open,Piper sp.,1
+CAR,2,open,Polypodiaceae sp. 1,1
+CAR,2,open,Psychotria cf.,1
+CAR,2,open,Psychotria mapourioides,1
+CAR,2,open,Psychotria nuda,1
+CAR,2,open,Psychotria sp.,1
+CAR,2,open,Rubiaceae cf.,1
+CAR,2,open,Rubiaceae sp.,1
+CAR,2,open,Rubiaceae sp. 1,1
+CAR,2,open,Sloanea guianensis,1
+CAR,2,open,Strychnos sp.,1
+CAR,2,open,Strychnos trinervis,1
+CAR,2,open,Tetrastylidium cf. grandifolium,1
+CAR,2,open,Vochysia bifalcata,1
+CAR,3,closed,Annona sp.,1
+CAR,3,closed,Araceae sp.,1
+CAR,3,closed,Coccocypselum sp.,1
+CAR,3,closed,Dalbergia frutescens,1
+CAR,3,closed,Dichorisandra sp.,1
+CAR,3,closed,Eugenia cuprea,1
+CAR,3,closed,Eugenia sp.,1
+CAR,3,closed,Euterpe edulis,1
+CAR,3,closed,Fabaceae sp.,1
+CAR,3,closed,Geonoma sp.,1
+CAR,3,closed,Goeppertia sp.,1
+CAR,3,closed,Guarea macrophylla,1
+CAR,3,closed,Heliconia velloziana,1
+CAR,3,closed,Indeterminate sp.,1
+CAR,3,closed,Mollinedia schottiana,1
+CAR,3,closed,Mollinedia sp.,1
+CAR,3,closed,Myrtaceae sp.,1
+CAR,3,closed,Ocotea dispersa,1
+CAR,3,closed,Parodiolyra sp.,1
+CAR,3,closed,Philodendron sp.,1
+CAR,3,closed,Piptadenia sp.,1
+CAR,3,closed,Polypodiaceae sp. 1,1
+CAR,3,closed,Psychotria nuda,1
+CAR,3,closed,Rubiaceae sp.,1
+CAR,3,closed,Rubiaceae sp. 1,1
+CAR,3,closed,Rudgea sp.,1
+CAR,3,closed,Sloaneae cf.,1
+CAR,3,closed,Sorocea bonplandii,1
+CAR,3,closed,Tetrastylidium cf. grandifolium,1
+CAR,3,open,Astrocaryum aculeatissimum,1
+CAR,3,open,Cupania sp.,1
+CAR,3,open,Eugenia cuprea,1
+CAR,3,open,Eugenia sp.,1
+CAR,3,open,Eugenia sulcata,1
+CAR,3,open,Euterpe edulis,1
+CAR,3,open,Goeppertia sp.,1
+CAR,3,open,Heisteria silvianii,1
+CAR,3,open,Hirtella hebeclada,1
+CAR,3,open,Indeterminate sp.,1
+CAR,3,open,Inga sp.,1
+CAR,3,open,Mollinedia schottiana,1
+CAR,3,open,Myrtaceae cf.,1
+CAR,3,open,Ocotea dispersa,1
+CAR,3,open,Parapiptadenia sp.,1
+CAR,3,open,Philodendron sp.,1
+CAR,3,open,Piptadenia sp.,1
+CAR,3,open,Psychotria nuda,1
+CAR,3,open,Psychotria sp.,1
+CAR,3,open,Rubiaceae cf.,1
+CAR,3,open,Rubiaceae sp.,1
+CAR,3,open,Rubiaceae sp. 1,1
+CAR,3,open,Sloanea cf.,1
+CAR,3,open,Sorocea bonplandii,1
+CAR,3,open,Virola bicuhyba,1
+CAR,4,closed,Acanthaceae sp.,1
+CAR,4,closed,Araceae sp.,1
+CAR,4,closed,Bignoniaceae cf.,1
+CAR,4,closed,Bignoniaceae sp.,1
+CAR,4,closed,Blechnaceae sp.,1
+CAR,4,closed,Brosimum sp.,1
+CAR,4,closed,Coccocypselum sp.,1
+CAR,4,closed,Dalbergia frutescens,1
+CAR,4,closed,Eugenia cerasiflora,1
+CAR,4,closed,Eugenia cf.,1
+CAR,4,closed,Eugenia neoglomerata,1
+CAR,4,closed,Eugenia sp.,1
+CAR,4,closed,Euterpe edulis,1
+CAR,4,closed,Fabaceae sp.,1
+CAR,4,closed,Fabaceae sp. 1,1
+CAR,4,closed,Garcinia gardneriana,1
+CAR,4,closed,Geonoma pauciflora,1
+CAR,4,closed,Geonoma sp.,1
+CAR,4,closed,Heisteria silvianii,1
+CAR,4,closed,Hirtella hebeclada,1
+CAR,4,closed,Indeterminate sp.,1
+CAR,4,closed,Malouetia cestroides,1
+CAR,4,closed,Mollinedia schottiana,1
+CAR,4,closed,Myrcia spectabilis,1
+CAR,4,closed,Myrtaceae cf.,1
+CAR,4,closed,Myrtaceae sp.,1
+CAR,4,closed,Ocotea dispersa,1
+CAR,4,closed,Philodendron sp.,1
+CAR,4,closed,Piper sp.,1
+CAR,4,closed,Polybotrya cf. cylindrica,1
+CAR,4,closed,Psychotria nuda,1
+CAR,4,closed,Rubiaceae sp.,1
+CAR,4,closed,Rubiaceae sp. 1,1
+CAR,4,closed,Schnella sp. 1,1
+CAR,4,closed,Schnella sp. 2,1
+CAR,4,closed,Sloanea guianensis,1
+CAR,4,open,Apocynaceae sp. 1,1
+CAR,4,open,Araceae sp.,1
+CAR,4,open,Coccocypselum sp.,1
+CAR,4,open,Dalbergia frutescens,1
+CAR,4,open,Dendropanax sp.,1
+CAR,4,open,Dichorisandra sp.,1
+CAR,4,open,Eugenia cuprea,1
+CAR,4,open,Eugenia mosenii,1
+CAR,4,open,Garcinia gardneriana,1
+CAR,4,open,Geonoma pauciflora,1
+CAR,4,open,Guapira opposita,1
+CAR,4,open,Heisteria silvianii,1
+CAR,4,open,Hirtella hebeclada,1
+CAR,4,open,Indeterminate sp.,1
+CAR,4,open,Lamiaceae sp.,1
+CAR,4,open,Marlierea obscura,1
+CAR,4,open,Mollinedia schottiana,1
+CAR,4,open,Myrtaceae sp.,1
+CAR,4,open,Philodendron sp.,1
+CAR,4,open,Polypodiaceae sp. 1,1
+CAR,4,open,Psychotria nuda,1
+CAR,4,open,Rubiaceae cf.,1
+CAR,4,open,Rubiaceae sp. 1,1
+CAR,4,open,Schnella sp.,1
+CAR,5,closed,Acanthaceae sp.,1
+CAR,5,closed,Blechnaceae sp.,1
+CAR,5,closed,Coccocypselum sp.,1
+CAR,5,closed,Euterpe edulis,1
+CAR,5,closed,Fabaceae sp.,1
+CAR,5,closed,Fabaceae sp. 1,1
+CAR,5,closed,Garcinia gardneriana,1
+CAR,5,closed,Goeppertia sp.,1
+CAR,5,closed,Heisteria cf.,1
+CAR,5,closed,Hirtella hebeclada,1
+CAR,5,closed,Indeterminate sp.,1
+CAR,5,closed,Lomariopsis marginata ,1
+CAR,5,closed,Mollinedia schottiana,1
+CAR,5,closed,Myrsine sp.,1
+CAR,5,closed,Myrtaceae cf.,1
+CAR,5,closed,Myrtaceae sp.,1
+CAR,5,closed,Ocotea dispersa,1
+CAR,5,closed,Philodendron sp.,1
+CAR,5,closed,Psychotria cf.,1
+CAR,5,closed,Psychotria nuda,1
+CAR,5,closed,Rubiaceae sp.,1
+CAR,5,closed,Syagrus romanzoffiana,1
+CAR,5,open,Acanthaceae sp.,1
+CAR,5,open,Apocynaceae cf.,1
+CAR,5,open,Araceae sp.,1
+CAR,5,open,Asteraceae sp.,1
+CAR,5,open,Calophyllum brasiliense,1
+CAR,5,open,Casearia sp.,1
+CAR,5,open,Chrysophyllum cf.,1
+CAR,5,open,Chrysophyllum flexuosum,1
+CAR,5,open,Coccocypselum cf.,1
+CAR,5,open,Coccocypselum sp.,1
+CAR,5,open,Cupania cf.,1
+CAR,5,open,Cupania oblongifolia,1
+CAR,5,open,Eugenia cf. oblongata,1
+CAR,5,open,Eugenia sp.,1
+CAR,5,open,Euterpe edulis,1
+CAR,5,open,Goeppertia sp.,1
+CAR,5,open,Indeterminate sp.,1
+CAR,5,open,Lomariopsis marginata ,1
+CAR,5,open,Melastomataceae sp.,1
+CAR,5,open,Myrcia sp.,1
+CAR,5,open,Myrcia spectabilis,1
+CAR,5,open,Myrtaceae cf.,1
+CAR,5,open,Myrtaceae sp.,1
+CAR,5,open,Ocotea dispersa,1
+CAR,5,open,Orchidaceae sp.,1
+CAR,5,open,Paullinia sp.,1
+CAR,5,open,Paullinia/Serjania sp.,1
+CAR,5,open,Philodendron sp.,1
+CAR,5,open,Polypodiaceae sp. 1,1
+CAR,5,open,Psychotria nuda,1
+CAR,5,open,Pteridophyta sp.,1
+CAR,5,open,Rubiaceae cf.,1
+CAR,5,open,Rubiaceae sp.,1
+CAR,5,open,Rubiaceae sp. 1,1
+CAR,5,open,Syagrus romanzoffiana,1
+CAR,8,closed,Acanthaceae sp.,1
+CAR,8,closed,Araceae sp.,1
+CAR,8,closed,Asteraceae sp.,1
+CAR,8,closed,Chrysophyllum cf. flexuosum,1
+CAR,8,closed,Coccocypselum sp.,1
+CAR,8,closed,Cupania oblongifolia,1
+CAR,8,closed,Dichorisandra sp.,1
+CAR,8,closed,Eugenia cf. cuprea,1
+CAR,8,closed,Eugenia cuprea,1
+CAR,8,closed,Eugenia sp.,1
+CAR,8,closed,Euterpe edulis,1
+CAR,8,closed,Garcinia gardneriana,1
+CAR,8,closed,Geonoma elegans,1
+CAR,8,closed,Goeppertia sp.,1
+CAR,8,closed,Gomidesia sp.,1
+CAR,8,closed,Guapira opposita,1
+CAR,8,closed,Indeterminate sp.,1
+CAR,8,closed,Mollinedia schottiana,1
+CAR,8,closed,Mollinedia sp.,1
+CAR,8,closed,Myrceugenia myrcioides,1
+CAR,8,closed,Myrceugenia sp.,1
+CAR,8,closed,Myrcia spectabilis,1
+CAR,8,closed,Myrtaceae sp.,1
+CAR,8,closed,Philodendron sp.,1
+CAR,8,closed,Philodendron sp. 1,1
+CAR,8,closed,Polybotrya cf. cylindrica,1
+CAR,8,closed,Pourouma guianensis,1
+CAR,8,closed,Psychotria nuda,1
+CAR,8,closed,Psychotria sp.,1
+CAR,8,closed,Psychotria suterella,1
+CAR,8,closed,Rubiaceae cf.,1
+CAR,8,closed,Rubiaceae sp.,1
+CAR,8,closed,Rudgea jasminoides,1
+CAR,8,closed,Sloanea cf.,1
+CAR,8,closed,Sloanea guianensis,1
+CAR,8,open,Acanthaceae sp.,1
+CAR,8,open,Araceae sp.,1
+CAR,8,open,Asteraceae sp.,1
+CAR,8,open,Bignoniaceae sp.,1
+CAR,8,open,Coccocypselum sp.,1
+CAR,8,open,Cupania cf.,1
+CAR,8,open,Dalechampia sp.,1
+CAR,8,open,Doliocarpus sp.,1
+CAR,8,open,Endlicheria paniculata,1
+CAR,8,open,Eugenia cuprea,1
+CAR,8,open,Eugenia sp.,1
+CAR,8,open,Euterpe edulis,1
+CAR,8,open,Garcinia gardneriana,1
+CAR,8,open,Goeppertia sp.,1
+CAR,8,open,Guapira opposita,1
+CAR,8,open,Indeterminate sp.,1
+CAR,8,open,Marlierea obscura,1
+CAR,8,open,Marlierea strigipes,1
+CAR,8,open,Maytenus sp.,1
+CAR,8,open,Mollinedia schottiana,1
+CAR,8,open,Myrtaceae sp.,1
+CAR,8,open,Passiflora sp.,1
+CAR,8,open,Paullinia/Serjania sp.,1
+CAR,8,open,Philodendron sp.,1
+CAR,8,open,Rubiaceae cf.,1
+CAR,8,open,Sorocea bonplandii,1
+CAR,8,open,Virola cf. gardneri,1
+CAR,9,closed,Acanthaceae sp.,1
+CAR,9,closed,Apocynaceae sp.,1
+CAR,9,closed,Araceae sp.,1
+CAR,9,closed,Bignoniaceae sp.,1
+CAR,9,closed,Brosimum sp.,1
+CAR,9,closed,Dichorisandra sp.,1
+CAR,9,closed,Doliocarpus sp.,1
+CAR,9,closed,Eugenia neoaustralis,1
+CAR,9,closed,Eugenia sp.,1
+CAR,9,closed,Euterpe edulis,1
+CAR,9,closed,Fabaceae sp. 1,1
+CAR,9,closed,Geonoma sp.,1
+CAR,9,closed,Goeppertia sp.,1
+CAR,9,closed,Hirtella hebeclada,1
+CAR,9,closed,Indeterminate sp.,1
+CAR,9,closed,Marlierea obscura,1
+CAR,9,closed,Marlierea strigipes,1
+CAR,9,closed,Mollinedia sp.,1
+CAR,9,closed,Myrcia tijucensis,1
+CAR,9,closed,Myrsine sp.,1
+CAR,9,closed,Myrtaceae cf.,1
+CAR,9,closed,Myrtaceae sp.,1
+CAR,9,closed,Ocotea dispersa,1
+CAR,9,closed,Parodiolyra sp.,1
+CAR,9,closed,Pausandra morisiana,1
+CAR,9,closed,Philodendron sp.,1
+CAR,9,closed,Piper sp.,1
+CAR,9,closed,Psychotria nuda,1
+CAR,9,closed,Psychotria sp.,1
+CAR,9,closed,Rubiaceae sp.,1
+CAR,9,closed,Rudgea jasminoides,1
+CAR,9,closed,Rudgea sp.,1
+CAR,9,closed,Sloanea cf.,1
+CAR,9,closed,Sloanea cf. guianensis,1
+CAR,9,closed,Sloanea guianensis,1
+CAR,9,closed,Sloanea sp.,1
+CAR,9,closed,Smilax sp.,1
+CAR,9,closed,Sorocea bonplandii,1
+CAR,9,closed,Virola bicuhyba,1
+CAR,9,closed,Zollernia ilicifolia,1
+CAR,9,open,Acanthaceae sp.,1
+CAR,9,open,Allophylus sp.,1
+CAR,9,open,Araceae sp.,1
+CAR,9,open,Coccocypselum sp.,1
+CAR,9,open,Doliocarpus sp.,1
+CAR,9,open,Eugenia neoaustralis,1
+CAR,9,open,Eugenia sp.,1
+CAR,9,open,Euterpe edulis,1
+CAR,9,open,Indeterminate sp.,1
+CAR,9,open,Marlierea obscura,1
+CAR,9,open,Mollinedia cf.,1
+CAR,9,open,Mollinedia sp.,1
+CAR,9,open,Myrtaceae cf.,1
+CAR,9,open,Myrtaceae sp.,1
+CAR,9,open,Parinari excelsa,1
+CAR,9,open,Parodiolyra sp.,1
+CAR,9,open,Pausandra morisiana,1
+CAR,9,open,Philodendron sp.,1
+CAR,9,open,Polybotrya cf. cylindrica,1
+CAR,9,open,Polypodiaceae sp. 1,1
+CAR,9,open,Rubiaceae cf.,1
+CAR,9,open,Rubiaceae sp.,1
+CAR,9,open,Rudgea jasminoides,1
+CAR,9,open,Rudgea sp.,1
+CAR,9,open,Sapindaceae sp. 1,1
+CAR,9,open,Serjania sp.,1
+CAR,9,open,Sloanea cf.,1
+CAR,9,open,Sloanea guianensis,1
+CAR,9,open,Sloanea sp.,1
+CAR,9,open,Sorocea bonplandii,1
+CAR,9,open,Virola bicuhyba,1
+CAR,10,closed,Acanthaceae sp.,1
+CAR,10,closed,Bignoniaceae sp.,1
+CAR,10,closed,Eugenia cuprea,1
+CAR,10,closed,Eugenia neoaustralis,1
+CAR,10,closed,Eugenia pruinosa,1
+CAR,10,closed,Eugenia sp.,1
+CAR,10,closed,Euterpe edulis,1
+CAR,10,closed,Garcinia gardneriana,1
+CAR,10,closed,Geonoma elegans,1
+CAR,10,closed,Geonoma sp.,1
+CAR,10,closed,Hirtella hebeclada,1
+CAR,10,closed,Indeterminate sp.,1
+CAR,10,closed,Lindsaea sp.,1
+CAR,10,closed,Marlierea obscura,1
+CAR,10,closed,Meliosma sellowii,1
+CAR,10,closed,Mollinedia sp.,1
+CAR,10,closed,Myrceugenia myrcioides,1
+CAR,10,closed,Myrsine cf.,1
+CAR,10,closed,Myrtaceae cf.,1
+CAR,10,closed,Myrtaceae sp.,1
+CAR,10,closed,Philodendron sp.,1
+CAR,10,closed,Polypodiaceae sp. 1,1
+CAR,10,closed,Psychotria nuda,1
+CAR,10,closed,Rubiaceae cf.,1
+CAR,10,closed,Rubiaceae sp.,1
+CAR,10,closed,Rudgea jasminoides,1
+CAR,10,closed,Sapindaceae,1
+CAR,10,closed,Sorocea bonplandii,1
+CAR,10,closed,Virola gardneri,1
+CAR,10,open,Acanthaceae sp.,1
+CAR,10,open,Danaea sp.,1
+CAR,10,open,Eugenia cuprea,1
+CAR,10,open,Eugenia sp.,1
+CAR,10,open,Euterpe edulis,1
+CAR,10,open,Garcinia gardneriana,1
+CAR,10,open,Geonoma elegans,1
+CAR,10,open,Geonoma sp.,1
+CAR,10,open,Indeterminate sp.,1
+CAR,10,open,Mollinedia cf.,1
+CAR,10,open,Myrceugenia myrcioides,1
+CAR,10,open,Myrsine sp.,1
+CAR,10,open,Myrtaceae cf.,1
+CAR,10,open,Myrtaceae sp.,1
+CAR,10,open,Parodiolyra sp.,1
+CAR,10,open,Philodendron sp.,1
+CAR,10,open,Polypodiaceae sp. 1,1
+CAR,10,open,Pteridophyta sp.,1
+CAR,10,open,Rubiaceae sp.,1
+CAR,10,open,Rudgea cf.,1
+CAR,10,open,Rudgea sp.,1
+CAR,10,open,Sloanea cf.,1
+CAR,10,open,Trichomanes elegans,1
+CAR,10,open,Virola bicuhyba,1
+CAR,11,closed,Acanthaceae sp.,1
+CAR,11,closed,Casearia cf.,1
+CAR,11,closed,Coccocypselum sp.,1
+CAR,11,closed,Dalbergia frutescens,1
+CAR,11,closed,Eugenia neoaustralis,1
+CAR,11,closed,Eugenia sp.,1
+CAR,11,closed,Euterpe edulis,1
+CAR,11,closed,Fabaceae sp.,1
+CAR,11,closed,Garcinia gardneriana,1
+CAR,11,closed,Geonoma elegans,1
+CAR,11,closed,Geonoma sp.,1
+CAR,11,closed,Goniopteris paranaensis,1
+CAR,11,closed,Guapira cf.,1
+CAR,11,closed,Indeterminate sp.,1
+CAR,11,closed,Lomariopsis marginata ,1
+CAR,11,closed,Malpighiaceae sp.,1
+CAR,11,closed,Mollinedia cf.,1
+CAR,11,closed,Mollinedia sp.,1
+CAR,11,closed,Myrceugenia myrcioides,1
+CAR,11,closed,Parodiolyra sp.,1
+CAR,11,closed,Paullinia sp.,1
+CAR,11,closed,Polybotrya cf. cylindrica,1
+CAR,11,closed,Polypodiaceae sp. 1,1
+CAR,11,closed,Psychotria cf.,1
+CAR,11,closed,Psychotria sp.,1
+CAR,11,closed,Rubiaceae cf.,1
+CAR,11,closed,Rubiaceae sp.,1
+CAR,11,closed,Rudgea cf.,1
+CAR,11,closed,Rudgea jasminoides,1
+CAR,11,closed,Rudgea sp.,1
+CAR,11,closed,Virola bicuhyba,1
+CAR,11,closed,Virola cf. gardneri,1
+CAR,11,open,Acanthaceae sp.,1
+CAR,11,open,Apocynaceae sp.,1
+CAR,11,open,Araceae sp.,1
+CAR,11,open,Chrysophyllum flexuosum,1
+CAR,11,open,Cordia sellowiana,1
+CAR,11,open,Cyperaceae sp.,1
+CAR,11,open,Doliocarpus sp.,1
+CAR,11,open,Euterpe edulis,1
+CAR,11,open,Fabaceae sp.,1
+CAR,11,open,Garcinia gardneriana,1
+CAR,11,open,Geonoma sp.,1
+CAR,11,open,Indeterminate sp.,1
+CAR,11,open,Lauraceae sp.,1
+CAR,11,open,Megalastrum sp.,1
+CAR,11,open,Mollinedia schottiana,1
+CAR,11,open,Mollinedia sp.,1
+CAR,11,open,Myrceugenia myrcioides,1
+CAR,11,open,Myrcia tijucensis,1
+CAR,11,open,Myrtaceae cf.,1
+CAR,11,open,Myrtaceae sp.,1
+CAR,11,open,Parodiolyra sp.,1
+CAR,11,open,Plinia sp.,1
+CAR,11,open,Polypodiaceae sp. 1,1
+CAR,11,open,Psychotria nuda,1
+CAR,11,open,Pterocarpus violaceus,1
+CAR,11,open,Rubiaceae cf.,1
+CAR,11,open,Rubiaceae sp.,1
+CAR,11,open,Rudgea jasminoides,1
+CAR,11,open,Rudgea sp.,1
+CAR,11,open,Sorocea bonplandii,1
+CAR,11,open,Trichomanes elegans,1
+CAR,11,open,Virola bicuhyba,1
+CAR,12,closed,Astrocaryum aculeatissimum,1
+CAR,12,closed,Doliocarpus sp.,1
+CAR,12,closed,Euterpe edulis,1
+CAR,12,closed,Garcinia gardneriana,1
+CAR,12,closed,Geonoma elegans,1
+CAR,12,closed,Geonoma sp.,1
+CAR,12,closed,Goeppertia sp.,1
+CAR,12,closed,Heisteria silvianii,1
+CAR,12,closed,Indeterminate sp.,1
+CAR,12,closed,Lauraceae sp.,1
+CAR,12,closed,Malpighiaceae sp.,1
+CAR,12,closed,Marlierea obscura,1
+CAR,12,closed,Myrsine cf.,1
+CAR,12,closed,Myrtaceae cf.,1
+CAR,12,closed,Myrtaceae sp.,1
+CAR,12,closed,Ocotea sp.,1
+CAR,12,closed,Polypodiaceae sp. 1,1
+CAR,12,closed,Psychotria cf.,1
+CAR,12,closed,Psychotria sp.,1
+CAR,12,closed,Rudgea cf.,1
+CAR,12,closed,Rudgea jasminoides,1
+CAR,12,closed,Sloanea guianensis,1
+CAR,12,closed,Sloanea sp.,1
+CAR,12,open,Asteraceae cf.,1
+CAR,12,open,Dalbergia frutescens,1
+CAR,12,open,Eugenia cf. cuprea,1
+CAR,12,open,Eugenia cuprea,1
+CAR,12,open,Eugenia neoaustralis,1
+CAR,12,open,Euterpe edulis,1
+CAR,12,open,Fabaceae cf.,1
+CAR,12,open,Guapira cf.,1
+CAR,12,open,Indeterminate sp.,1
+CAR,12,open,Myrtaceae sp.,1
+CAR,12,open,Neomarica candida,1
+CAR,12,open,Neomarica sp.,1
+CAR,12,open,Olfersia cervina ,1
+CAR,12,open,Parodiolyra sp.,1
+CAR,12,open,Polypodiaceae sp. 2,1
+CAR,12,open,Polypodiaceae sp. 3,1
+CAR,12,open,Rubiaceae cf.,1
+CAR,12,open,Rudgea cf.,1
+CAR,12,open,Rudgea jasminoides,1
+CAR,12,open,Sloanea guianensis,1
+CAR,12,open,Sorocea bonplandii,1
+CAR,12,open,Stigmatopteris sp.,1
+CAR,12,open,Trichomanes elegans,1
+CAR,12,open,Virola bicuhyba,1
+CAR,14,closed,Astrocaryum aculeatissimum,1
+CAR,14,closed,Becheria sp.,1
+CAR,14,closed,Bignoniaceae sp. 1,1
+CAR,14,closed,Coccocypselum sp.,1
+CAR,14,closed,Commelinaceae sp.,1
+CAR,14,closed,Cyathea corcovadensis ,1
+CAR,14,closed,Cyperaceae cf.,1
+CAR,14,closed,Eugenia cf. multicostata,1
+CAR,14,closed,Eugenia cf. neoaustralis,1
+CAR,14,closed,Eugenia neoaustralis,1
+CAR,14,closed,Eugenia sp.,1
+CAR,14,closed,Euterpe edulis,1
+CAR,14,closed,Fabaceae cf.,1
+CAR,14,closed,Geonoma elegans,1
+CAR,14,closed,Geonoma sp.,1
+CAR,14,closed,Goeppertia sp.,1
+CAR,14,closed,Goniopteris paranaensis,1
+CAR,14,closed,Guapira cf.,1
+CAR,14,closed,Guapira opposita,1
+CAR,14,closed,Indeterminate sp.,1
+CAR,14,closed,Mollinedia cf.,1
+CAR,14,closed,Mollinedia schottiana,1
+CAR,14,closed,Mollinedia sp.,1
+CAR,14,closed,Myrcia tijucensis,1
+CAR,14,closed,Myrtaceae cf.,1
+CAR,14,closed,Myrtaceae sp.,1
+CAR,14,closed,Ouratea parviflora,1
+CAR,14,closed,Pausandra morisiana,1
+CAR,14,closed,Philodendron sp.,1
+CAR,14,closed,Psychotria cf.,1
+CAR,14,closed,Psychotria sp.,1
+CAR,14,closed,Rubiaceae cf.,1
+CAR,14,closed,Rudgea jasminoides,1
+CAR,14,closed,Rudgea sp.,1
+CAR,14,open,Araceae sp.,1
+CAR,14,open,Astrocaryum aculeatissimum,1
+CAR,14,open,Coccocypselum sp.,1
+CAR,14,open,Cupania cf.,1
+CAR,14,open,Eugenia cf. neoaustralis,1
+CAR,14,open,Eugenia cuprea,1
+CAR,14,open,Eugenia neoaustralis,1
+CAR,14,open,Eugenia pruinosa,1
+CAR,14,open,Eugenia sp.,1
+CAR,14,open,Euterpe edulis,1
+CAR,14,open,Garcinia gardneriana,1
+CAR,14,open,Geonoma elegans,1
+CAR,14,open,Goniopteris paranaensis,1
+CAR,14,open,Guapira cf.,1
+CAR,14,open,Guapira opposita,1
+CAR,14,open,Indeterminate sp.,1
+CAR,14,open,Lacistema pubescens,1
+CAR,14,open,Mollinedia cf.,1
+CAR,14,open,Mollinedia sp.,1
+CAR,14,open,Myrtaceae sp.,1
+CAR,14,open,Pausandra morisiana,1
+CAR,14,open,Psychotria cf.,1
+CAR,14,open,Rubiaceae cf.,1
+CAR,14,open,Rudgea cf.,1
+CAR,14,open,Rudgea jasminoides,1
+CAR,14,open,Tapirira guianensis,1
+CAR,14,open,Virola bicuhyba,1
+CAR,15,closed,Acanthaceae sp.,1
+CAR,15,closed,Allophylus sp.,1
+CAR,15,closed,Araceae sp.,1
+CAR,15,closed,Bignoniaceae cf.,1
+CAR,15,closed,Connarus cf.,1
+CAR,15,closed,Dalbergia frutescens,1
+CAR,15,closed,Doliocarpus sp.,1
+CAR,15,closed,Eugenia cf. neoaustralis,1
+CAR,15,closed,Euterpe edulis,1
+CAR,15,closed,Fabaceae sp.,1
+CAR,15,closed,Garcinia gardneriana,1
+CAR,15,closed,Geonoma elegans,1
+CAR,15,closed,Geonoma sp.,1
+CAR,15,closed,Indeterminate sp.,1
+CAR,15,closed,Marlierea obscura,1
+CAR,15,closed,Mollinedia cf.,1
+CAR,15,closed,Mollinedia sp.,1
+CAR,15,closed,Myrcia tijucensis,1
+CAR,15,closed,Myrtaceae cf.,1
+CAR,15,closed,Myrtaceae sp.,1
+CAR,15,closed,Passiflora sp.,1
+CAR,15,closed,Paullinia/Serjania sp.,1
+CAR,15,closed,Philodendron sp.,1
+CAR,15,closed,Psychotria sp.,1
+CAR,15,closed,Rudgea cf.,1
+CAR,15,closed,Rudgea jasminoides,1
+CAR,15,closed,Rudgea sp.,1
+CAR,15,closed,Sorocea bonplandii,1
+CAR,15,closed,Virola bicuhyba,1
+CAR,15,open,Allophylus sp.,1
+CAR,15,open,Apocynaceae cf.,1
+CAR,15,open,Casearia sp.,1
+CAR,15,open,Dalbergia frutescens,1
+CAR,15,open,Dichorisandra sp.,1
+CAR,15,open,Eugenia cf. multicostata,1
+CAR,15,open,Eugenia multicostata,1
+CAR,15,open,Eugenia pruinosa,1
+CAR,15,open,Euterpe edulis,1
+CAR,15,open,Fabaceae cf.,1
+CAR,15,open,Fabaceae sp. 1,1
+CAR,15,open,Garcinia gardneriana,1
+CAR,15,open,Geonoma sp.,1
+CAR,15,open,Guapira cf.,1
+CAR,15,open,Indeterminate sp.,1
+CAR,15,open,Maytenus robusta,1
+CAR,15,open,Mickelia scandens,1
+CAR,15,open,Myrtaceae sp.,1
+CAR,15,open,Paullinia sp.,1
+CAR,15,open,Psychotria nuda,1
+CAR,15,open,Psychotria sp.,1
+CAR,15,open,Rubiaceae sp.,1
+CAR,15,open,Rudgea cf.,1
+CAR,15,open,Rudgea jasminoides,1
+CAR,15,open,Virola gardneri,1
+CAR,15,open,Xylosma glaberrima,1
+CAR,15,open,Zollernia cf.,1
+CBO,1,closed,Allophylus sp.,1
+CBO,1,closed,Bactris setosa,1
+CBO,1,closed,Casearia decandra,1
+CBO,1,closed,Casearia obliqua,1
+CBO,1,closed,Cupania cf.,1
+CBO,1,closed,Cupania vernalis,1
+CBO,1,closed,Dichorisandra sp.,1
+CBO,1,closed,Euterpe edulis,1
+CBO,1,closed,Goeppertia monophylla,1
+CBO,1,closed,Ilex sp.,1
+CBO,1,closed,Indeterminate sp.,1
+CBO,1,closed,Matayba guianensis,1
+CBO,1,closed,Melastomataceae sp.,1
+CBO,1,closed,Melastomataceae sp. 1,1
+CBO,1,closed,Mollinedia cf. uleana,1
+CBO,1,closed,Myrcia pubipetala,1
+CBO,1,closed,Myrcia splendens,1
+CBO,1,closed,Myrsine sp.,1
+CBO,1,closed,Myrtaceae sp.,1
+CBO,1,closed,Ocotea catharinensis,1
+CBO,1,closed,Ocotea cf. dispersa,1
+CBO,1,closed,Ocotea sp.,1
+CBO,1,closed,Paullinia sp.,1
+CBO,1,closed,Paullinia/Serjania sp.,1
+CBO,1,closed,Piper cf. aduncum,1
+CBO,1,closed,Piper sp.,1
+CBO,1,closed,Poaceae sp.,1
+CBO,1,closed,Poaceae sp. 2,1
+CBO,1,closed,Posoqueria acutifolia,1
+CBO,1,closed,Psychotria sp.,1
+CBO,1,closed,Psychotria suterella,1
+CBO,1,closed,Pteridophyta sp.,1
+CBO,1,closed,Rubiaceae sp.,1
+CBO,1,closed,Rudgea jasminoides,1
+CBO,1,closed,Serjania communis,1
+CBO,1,closed,Zollernia ilicifolia,1
+CBO,1,open,Allophylus sp.,1
+CBO,1,open,Asteraceae sp.,1
+CBO,1,open,Asteraceae sp. 1,1
+CBO,1,open,Calyptranthes lanceolata,1
+CBO,1,open,Casearia obliqua,1
+CBO,1,open,Casearia sp.,1
+CBO,1,open,Chusquea sp.,1
+CBO,1,open,Chusquea sp. 1,1
+CBO,1,open,Chusquea sp. 2,1
+CBO,1,open,Commelinaceae sp.,1
+CBO,1,open,Dichorisandra paranaensis,1
+CBO,1,open,Dichorisandra sp.,1
+CBO,1,open,Erythroxylum cf. ambiguum,1
+CBO,1,open,Euterpe edulis,1
+CBO,1,open,Goeppertia monophylla,1
+CBO,1,open,Goeppertia sp.,1
+CBO,1,open,Heteropterys nitida,1
+CBO,1,open,Ilex dumosa,1
+CBO,1,open,Indeterminate sp.,1
+CBO,1,open,Inga sessilis,1
+CBO,1,open,Leandra sp.,1
+CBO,1,open,Melastomataceae sp. 1,1
+CBO,1,open,Miconia sp.,1
+CBO,1,open,Miconia sp. 1,1
+CBO,1,open,Mikania sp.,1
+CBO,1,open,Mollinedia schottiana,1
+CBO,1,open,Ocotea sp.,1
+CBO,1,open,Paullinia/Serjania sp.,1
+CBO,1,open,Piper sp.,1
+CBO,1,open,Poaceae sp. 3,1
+CBO,1,open,Psychotria sp.,1
+CBO,1,open,Psychotria suterella,1
+CBO,1,open,Pteridophyta sp.,1
+CBO,1,open,Rubiaceae sp.,1
+CBO,1,open,Serjania communis,1
+CBO,1,open,Solanum cf. swartzianum,1
+CBO,2,closed,Abuta selloana,1
+CBO,2,closed,Ardisia guianensis,1
+CBO,2,closed,Casearia cf.,1
+CBO,2,closed,Casearia sp.,1
+CBO,2,closed,Commelinaceae sp.,1
+CBO,2,closed,Cryptocarya mandioccana,1
+CBO,2,closed,Eugenia mosenii,1
+CBO,2,closed,Eugenia sp.,1
+CBO,2,closed,Euterpe edulis,1
+CBO,2,closed,Goeppertia monophylla,1
+CBO,2,closed,Indeterminate sp.,1
+CBO,2,closed,Lauraceae sp.,1
+CBO,2,closed,Mollinedia cf. uleana,1
+CBO,2,closed,Myrtaceae cf.,1
+CBO,2,closed,Myrtaceae sp.,1
+CBO,2,closed,Ocotea catharinensis,1
+CBO,2,closed,Ocotea cf. dispersa,1
+CBO,2,closed,Ocotea sp.,1
+CBO,2,closed,Rubiaceae sp.,1
+CBO,2,closed,Rudgea jasminoides,1
+CBO,2,open,Anthurium pentaphyllum,1
+CBO,2,open,Ardisia guianensis,1
+CBO,2,open,Casearia sp.,1
+CBO,2,open,Euterpe edulis,1
+CBO,2,open,Geonoma gamiova,1
+CBO,2,open,Goeppertia monophylla,1
+CBO,2,open,Indeterminate sp.,1
+CBO,2,open,Inga sessilis,1
+CBO,2,open,Ixora sp.,1
+CBO,2,open,Maytenus cf.,1
+CBO,2,open,Megalastrum sp.,1
+CBO,2,open,Mollinedia cf. uleana,1
+CBO,2,open,Myrceugenia myrcioides,1
+CBO,2,open,Ocotea cf.,1
+CBO,2,open,Ocotea cf. dispersa,1
+CBO,2,open,Piper setebarraensis,1
+CBO,2,open,Piper sp.,1
+CBO,2,open,Pleurostachys gaudichaudii,1
+CBO,2,open,Plinia sp.,1
+CBO,2,open,Zollernia cf.,1
+CBO,4,closed,Abuta selloana,1
+CBO,4,closed,Araceae sp.,1
+CBO,4,closed,Ardisia guianensis,1
+CBO,4,closed,Chusquea sp. 1,1
+CBO,4,closed,Euterpe edulis,1
+CBO,4,closed,Fabaceae sp.,1
+CBO,4,closed,Geonoma gamiova,1
+CBO,4,closed,Geonoma schottiana,1
+CBO,4,closed,Geonoma sp.,1
+CBO,4,closed,Ilex dumosa,1
+CBO,4,closed,Indeterminate sp.,1
+CBO,4,closed,Lauraceae sp.,1
+CBO,4,closed,Maytenus robusta,1
+CBO,4,closed,Miconia sp.,1
+CBO,4,closed,Myrcia splendens,1
+CBO,4,closed,Myrsine cf.,1
+CBO,4,closed,Myrtaceae cf.,1
+CBO,4,closed,Myrtaceae sp.,1
+CBO,4,closed,Ocotea cf.,1
+CBO,4,closed,Ocotea cf. dispersa,1
+CBO,4,closed,Ocotea dispersa,1
+CBO,4,closed,Ocotea sp.,1
+CBO,4,closed,Ossaea sp.,1
+CBO,4,closed,Paullinia/Serjania sp.,1
+CBO,4,closed,Plinia sp.,1
+CBO,4,closed,Poaceae sp. 3,1
+CBO,4,closed,Rubiaceae cf.,1
+CBO,4,closed,Rubiaceae sp.,1
+CBO,4,closed,Serjania communis,1
+CBO,4,open,Abuta selloana,1
+CBO,4,open,Chusquea sp.,1
+CBO,4,open,Chusquea sp. 1,1
+CBO,4,open,Chusquea sp. 2,1
+CBO,4,open,Copaifera trapezifolia,1
+CBO,4,open,Euterpe edulis,1
+CBO,4,open,Geonoma sp.,1
+CBO,4,open,Ilex dumosa,1
+CBO,4,open,Indeterminate sp.,1
+CBO,4,open,Miconia cubatanensis,1
+CBO,4,open,Myrtaceae sp.,1
+CBO,4,open,Ocotea catharinensis,1
+CBO,4,open,Ocotea dispersa,1
+CBO,4,open,Ocotea sp.,1
+CBO,4,open,Ocotea teleiandra,1
+CBO,4,open,Parinari excelsa,1
+CBO,4,open,Paullinia/Serjania sp.,1
+CBO,4,open,Philodendron sp.,1
+CBO,4,open,Rubiaceae sp.,1
+CBO,4,open,Smilax spicata,1
+CBO,4,open,Stromanthe sp.,1
+CBO,4,open,Vernonia sp.,1
+CBO,5,closed,Ardisia guianensis,1
+CBO,5,closed,Casearia sp.,1
+CBO,5,closed,Cinnamodendron dinisii,1
+CBO,5,closed,Cryptocarya mandioccana,1
+CBO,5,closed,Eugenia cf.,1
+CBO,5,closed,Euterpe edulis,1
+CBO,5,closed,Geonoma sp.,1
+CBO,5,closed,Goeppertia monophylla,1
+CBO,5,closed,Goeppertia sp.,1
+CBO,5,closed,Indeterminate sp.,1
+CBO,5,closed,Inga sellowiana,1
+CBO,5,closed,Maytenus cf.,1
+CBO,5,closed,Mollinedia sp.,1
+CBO,5,closed,Myrtaceae cf.,1
+CBO,5,closed,Myrtaceae sp.,1
+CBO,5,closed,Ocotea catharinensis,1
+CBO,5,closed,Ocotea cf.,1
+CBO,5,closed,Ocotea cf. dispersa,1
+CBO,5,closed,Parinari excelsa,1
+CBO,5,closed,Polybotrya sp.,1
+CBO,5,closed,Psychotria sp.,1
+CBO,5,closed,Pteridophyta sp.,1
+CBO,5,closed,Rubiaceae cf.,1
+CBO,5,closed,Rubiaceae sp.,1
+CBO,5,closed,Rudgea jasminoides,1
+CBO,5,closed,Rudgea sp.,1
+CBO,5,closed,Schnella microstachya,1
+CBO,5,open,Abuta selloana,1
+CBO,5,open,Ardisia cf.,1
+CBO,5,open,Ardisia guianensis,1
+CBO,5,open,Chrysophyllum flexuosum,1
+CBO,5,open,Cordia sellowiana,1
+CBO,5,open,Cryptocarya mandioccana,1
+CBO,5,open,Cupania oblongifolia,1
+CBO,5,open,Eugenia cf. handroana,1
+CBO,5,open,Euterpe edulis,1
+CBO,5,open,Geonoma gamiova,1
+CBO,5,open,Goeppertia monophylla,1
+CBO,5,open,Indeterminate sp.,1
+CBO,5,open,Miconia sp.,1
+CBO,5,open,Mollinedia cf.,1
+CBO,5,open,Myrtaceae cf.,1
+CBO,5,open,Myrtaceae sp.,1
+CBO,5,open,Ocotea catharinensis,1
+CBO,5,open,Ocotea cf. dispersa,1
+CBO,5,open,Piper sp.,1
+CBO,5,open,Strychnos sp.,1
+CBO,6,closed,Bromeliaceae sp.,1
+CBO,6,closed,Chrysophyllum flexuosum,1
+CBO,6,closed,Chusquea sp.,1
+CBO,6,closed,Chusquea sp. 1,1
+CBO,6,closed,Commelinaceae sp.,1
+CBO,6,closed,Ctenanthe lanceolata,1
+CBO,6,closed,Euterpe edulis,1
+CBO,6,closed,Fabaceae sp.,1
+CBO,6,closed,Geonoma schottiana,1
+CBO,6,closed,Indeterminate sp.,1
+CBO,6,closed,Melastomataceae sp.,1
+CBO,6,closed,Miconia cubatanensis,1
+CBO,6,closed,Miconia sp.,1
+CBO,6,closed,Miconia sp. 2,1
+CBO,6,closed,Ocotea aciphylla,1
+CBO,6,closed,Ocotea catharinensis,1
+CBO,6,closed,Ocotea cf.,1
+CBO,6,closed,Ocotea cf. dispersa,1
+CBO,6,closed,Ocotea sp.,1
+CBO,6,closed,Pilocarpus sp.,1
+CBO,6,closed,Plinia sp.,1
+CBO,6,closed,Rubiaceae cf.,1
+CBO,6,open,Anthurium sp.,1
+CBO,6,open,Araceae cf.,1
+CBO,6,open,Bromeliaceae sp.,1
+CBO,6,open,Chionanthus filiformis,1
+CBO,6,open,Chusquea sp.,1
+CBO,6,open,Chusquea sp. 1,1
+CBO,6,open,Commelinaceae sp.,1
+CBO,6,open,Ctenanthe lanceolata,1
+CBO,6,open,Eugenia subavenia,1
+CBO,6,open,Euterpe edulis,1
+CBO,6,open,Fabaceae sp.,1
+CBO,6,open,Geonoma schottiana,1
+CBO,6,open,Heteropterys nitida,1
+CBO,6,open,Hirtella hebeclada,1
+CBO,6,open,Indeterminate sp.,1
+CBO,6,open,Inga sellowiana,1
+CBO,6,open,Inga sessilis,1
+CBO,6,open,Lauraceae sp.,1
+CBO,6,open,Melastomataceae sp.,1
+CBO,6,open,Melastomataceae sp. 2,1
+CBO,6,open,Miconia cf. pusilliflora,1
+CBO,6,open,Miconia cubatanensis,1
+CBO,6,open,Miconia sp.,1
+CBO,6,open,Mollinedia schottiana,1
+CBO,6,open,Myrsine sp.,1
+CBO,6,open,Myrtaceae cf.,1
+CBO,6,open,Myrtaceae sp.,1
+CBO,6,open,Ocotea aciphylla,1
+CBO,6,open,Ocotea odorifera,1
+CBO,6,open,Ocotea sp.,1
+CBO,6,open,Philodendron sp.,1
+CBO,6,open,Psychotria suterella,1
+CBO,6,open,Pteridophyta sp.,1
+CBO,6,open,Rubiaceae sp.,1
+CBO,6,open,Rudgea jasminoides,1
+CBO,6,open,Rudgea sp.,1
+CBO,9,closed,Acanthaceae sp.,1
+CBO,9,closed,Bromeliaceae sp.,1
+CBO,9,closed,Casearia sp.,1
+CBO,9,closed,Copaifera trapezifolia,1
+CBO,9,closed,Ctenanthe lanceolata,1
+CBO,9,closed,Euterpe edulis,1
+CBO,9,closed,Fabaceae sp.,1
+CBO,9,closed,Geonoma gamiova,1
+CBO,9,closed,Goeppertia monophylla,1
+CBO,9,closed,Indeterminate sp.,1
+CBO,9,closed,Inga sessilis,1
+CBO,9,closed,Ixora sp.,1
+CBO,9,closed,Maytenus robusta,1
+CBO,9,closed,Mollinedia cf.,1
+CBO,9,closed,Mollinedia sp.,1
+CBO,9,closed,Myrtaceae cf.,1
+CBO,9,closed,Myrtaceae sp.,1
+CBO,9,closed,Ocotea catharinensis,1
+CBO,9,closed,Ocotea cf. dispersa,1
+CBO,9,closed,Ocotea dispersa,1
+CBO,9,closed,Polybotrya sp.,1
+CBO,9,closed,Pterocarpus sp.,1
+CBO,9,closed,Quiina sp.,1
+CBO,9,closed,Rubiaceae cf.,1
+CBO,9,closed,Rubiaceae sp.,1
+CBO,9,closed,Rudgea jasminoides,1
+CBO,9,closed,Schnella microstachya,1
+CBO,9,open,Acanthaceae sp.,1
+CBO,9,open,Ardisia guianensis,1
+CBO,9,open,Attalea dubia,1
+CBO,9,open,Bromeliaceae sp.,1
+CBO,9,open,Eugenia cf. neoaustralis,1
+CBO,9,open,Euterpe edulis,1
+CBO,9,open,Goeppertia monophylla,1
+CBO,9,open,Heteropterys nitida,1
+CBO,9,open,Indeterminate sp.,1
+CBO,9,open,Inga sessilis,1
+CBO,9,open,Maytenus robusta,1
+CBO,9,open,Mollinedia schottiana,1
+CBO,9,open,Myrceugenia myrcioides,1
+CBO,9,open,Ocotea cf.,1
+CBO,9,open,Ocotea cf. dispersa,1
+CBO,9,open,Ocotea teleiandra,1
+CBO,9,open,Paullinia/Serjania sp.,1
+CBO,9,open,Polybotrya sp.,1
+CBO,9,open,Posoqueria acutifolia,1
+CBO,9,open,Primulaceae sp.,1
+CBO,9,open,Schnella microstachya,1
+CBO,9,open,Serjania communis,1
+CBO,9,open,Sloanea guianensis,1
+CBO,11,closed,Anthurium pentaphyllum,1
+CBO,11,closed,Casearia sp.,1
+CBO,11,closed,Chusquea sp.,1
+CBO,11,closed,Chusquea sp. 1,1
+CBO,11,closed,Chusquea sp. 2,1
+CBO,11,closed,Copaifera trapezifolia,1
+CBO,11,closed,Ctenanthe lanceolata,1
+CBO,11,closed,Dalbergia frutescens,1
+CBO,11,closed,Eugenia aff. stigmatosa,1
+CBO,11,closed,Eugenia subavenia,1
+CBO,11,closed,Euterpe edulis,1
+CBO,11,closed,Fabaceae sp.,1
+CBO,11,closed,Faramea sp.,1
+CBO,11,closed,Geonoma schottiana,1
+CBO,11,closed,Goeppertia monophylla,1
+CBO,11,closed,Indeterminate sp.,1
+CBO,11,closed,Inga sessilis,1
+CBO,11,closed,Ixora sp.,1
+CBO,11,closed,Mollinedia schottiana,1
+CBO,11,closed,Myrtaceae sp.,1
+CBO,11,closed,Ocotea aciphylla,1
+CBO,11,closed,Ocotea catharinensis,1
+CBO,11,closed,Ocotea sp.,1
+CBO,11,closed,Parinari excelsa,1
+CBO,11,closed,Plinia cf. pseudodichasiantha,1
+CBO,11,closed,Psychotria cf.,1
+CBO,11,closed,Psychotria sp.,1
+CBO,11,closed,Psychotria suterella,1
+CBO,11,closed,Pteridophyta sp.,1
+CBO,11,closed,Schnella microstachya,1
+CBO,11,open,Allophylus sp.,1
+CBO,11,open,Andira anthelmia,1
+CBO,11,open,Casearia cf.,1
+CBO,11,open,Chrysophyllum flexuosum,1
+CBO,11,open,Chusquea sp.,1
+CBO,11,open,Chusquea sp. 1,1
+CBO,11,open,Chusquea sp. 2,1
+CBO,11,open,Commelinaceae sp.,1
+CBO,11,open,Ctenanthe lanceolata,1
+CBO,11,open,Cyperaceae cf.,1
+CBO,11,open,Euphorbiaceae cf.,1
+CBO,11,open,Euterpe edulis,1
+CBO,11,open,Fabaceae sp.,1
+CBO,11,open,Fabaceae sp. 2,1
+CBO,11,open,Goeppertia monophylla,1
+CBO,11,open,Indeterminate sp.,1
+CBO,11,open,Inga sessilis,1
+CBO,11,open,Melastomataceae sp.,1
+CBO,11,open,Miconia sp. 1,1
+CBO,11,open,Miconia sp. 2,1
+CBO,11,open,Mollinedia cf.,1
+CBO,11,open,Mollinedia sp.,1
+CBO,11,open,Myrcia splendens,1
+CBO,11,open,Myrtaceae cf.,1
+CBO,11,open,Ocotea catharinensis,1
+CBO,11,open,Ocotea sp.,1
+CBO,11,open,Parinari excelsa,1
+CBO,11,open,Plinia cf. pseudodichasiantha,1
+CBO,11,open,Plinia sp.,1
+CBO,11,open,Poaceae sp.,1
+CBO,11,open,Pouteria sp.,1
+CBO,11,open,Protium sp.,1
+CBO,11,open,Psychotria sp.,1
+CBO,11,open,Rubiaceae sp.,1
+CBO,11,open,Rudgea jasminoides,1
+CBO,12,closed,Alsophila sternbergii,1
+CBO,12,closed,Ardisia guianensis,1
+CBO,12,closed,Campomanesia guaviroba,1
+CBO,12,closed,Euterpe edulis,1
+CBO,12,closed,Goeppertia monophylla,1
+CBO,12,closed,Indeterminate sp.,1
+CBO,12,closed,Paullinia sp.,1
+CBO,12,closed,Rudgea jasminoides,1
+CBO,12,closed,Schnella microstachya,1
+CBO,12,closed,Serjania sp.,1
+CBO,12,closed,Smilax spicata,1
+CBO,12,closed,Stromanthe sp.,1
+CBO,12,open,Alchornea triplinervia,1
+CBO,12,open,Allophylus sp.,1
+CBO,12,open,Bathysa australis,1
+CBO,12,open,Campomanesia guaviroba,1
+CBO,12,open,Casearia sp.,1
+CBO,12,open,Chrysophyllum sp.,1
+CBO,12,open,Cinnamodendron dinisii,1
+CBO,12,open,Euterpe edulis,1
+CBO,12,open,Goeppertia monophylla,1
+CBO,12,open,Goeppertia sp.,1
+CBO,12,open,Guatteria australis,1
+CBO,12,open,Indeterminate sp.,1
+CBO,12,open,Mollinedia sp.,1
+CBO,12,open,Ocotea catharinensis,1
+CBO,12,open,Ocotea cf. dispersa,1
+CBO,12,open,Polybotrya sp.,1
+CBO,12,open,Psychotria sp.,1
+CBO,12,open,Pteridophyta sp.,1
+CBO,12,open,Rubiaceae cf.,1
+CBO,12,open,Rudgea sp.,1
+CBO,12,open,Sapotaceae sp.,1
+CBO,12,open,Schnella microstachya,1
+CBO,14,closed,Aphelandra ornata,1
+CBO,14,closed,Aphelandra sp.,1
+CBO,14,closed,Commelinaceae sp.,1
+CBO,14,closed,Copaifera trapezifolia,1
+CBO,14,closed,Cordia sellowiana,1
+CBO,14,closed,Cryptocarya mandioccana,1
+CBO,14,closed,Cupania cf.,1
+CBO,14,closed,Dichorisandra cf. paranaensis,1
+CBO,14,closed,Euterpe edulis,1
+CBO,14,closed,Goeppertia monophylla,1
+CBO,14,closed,Guapira opposita,1
+CBO,14,closed,Indeterminate sp.,1
+CBO,14,closed,Inga sellowiana,1
+CBO,14,closed,Inga sessilis,1
+CBO,14,closed,Maytenus robusta,1
+CBO,14,closed,Miconia sp. 2,1
+CBO,14,closed,Mollinedia schottiana,1
+CBO,14,closed,Mollinedia sp.,1
+CBO,14,closed,Myrcia tenuivenosa,1
+CBO,14,closed,Myrtaceae sp.,1
+CBO,14,closed,Ocotea catharinensis,1
+CBO,14,closed,Psychotria sp.,1
+CBO,14,closed,Rubiaceae sp.,1
+CBO,14,closed,Rudgea jasminoides,1
+CBO,14,closed,Rudgea sp.,1
+CBO,14,closed,Schnella sp. 2,1
+CBO,14,closed,Tetrastylidium cf. grandifolium,1
+CBO,14,open,Abuta selloana,1
+CBO,14,open,Allophylus sp.,1
+CBO,14,open,Casearia cf.,1
+CBO,14,open,Casearia decandra,1
+CBO,14,open,Casearia sp.,1
+CBO,14,open,Chrysophyllum sp.,1
+CBO,14,open,Euterpe edulis,1
+CBO,14,open,Goeppertia monophylla,1
+CBO,14,open,Indeterminate sp.,1
+CBO,14,open,Inga sessilis,1
+CBO,14,open,Maytenus sp.,1
+CBO,14,open,Mollinedia schottiana,1
+CBO,14,open,Myrtaceae sp.,1
+CBO,14,open,Ocotea catharinensis,1
+CBO,14,open,Ocotea cf.,1
+CBO,14,open,Ocotea sp.,1
+CBO,14,open,Paullinia/Serjania sp.,1
+CBO,14,open,Plinia cf. pseudodichasiantha,1
+CBO,14,open,Pteridophyta sp.,1
+CBO,14,open,Rudgea cf.,1
+CBO,14,open,Rudgea jasminoides,1
+CBO,14,open,Rudgea sp.,1
+CBO,14,open,Schnella sp. 1,1
+CBO,14,open,Schnella sp. 2,1
+CBO,15,closed,Abuta selloana,1
+CBO,15,closed,Cabralea canjerana,1
+CBO,15,closed,Casearia decandra,1
+CBO,15,closed,Chrysophyllum flexuosum,1
+CBO,15,closed,Cryptocarya mandioccana,1
+CBO,15,closed,Dalbergia frutescens,1
+CBO,15,closed,Dichorisandra pubescens,1
+CBO,15,closed,Dichorisandra sp.,1
+CBO,15,closed,Eugenia cf. multicostata,1
+CBO,15,closed,Eugenia mosenii,1
+CBO,15,closed,Eugenia multicostata,1
+CBO,15,closed,Euterpe edulis,1
+CBO,15,closed,Goeppertia monophylla,1
+CBO,15,closed,Indeterminate sp.,1
+CBO,15,closed,Inga sp.,1
+CBO,15,closed,Ocotea aciphylla,1
+CBO,15,closed,Ocotea cf.,1
+CBO,15,closed,Ocotea sp.,1
+CBO,15,closed,Plinia sp.,1
+CBO,15,closed,Pteridophyta sp.,1
+CBO,15,closed,Rudgea sp.,1
+CBO,15,closed,Schnella microstachya,1
+CBO,15,closed,Schnella sp. 2,1
+CBO,15,closed,Sloanea cf.,1
+CBO,15,closed,Smilax spicata,1
+CBO,15,open,Anthurium scandens,1
+CBO,15,open,Casearia sp.,1
+CBO,15,open,Cordia sellowiana,1
+CBO,15,open,Cryptocarya mandioccana,1
+CBO,15,open,Eugenia mosenii,1
+CBO,15,open,Eugenia sp.,1
+CBO,15,open,Eugenia supraaxillaris,1
+CBO,15,open,Euterpe edulis,1
+CBO,15,open,Geonoma gamiova,1
+CBO,15,open,Goeppertia monophylla,1
+CBO,15,open,Indeterminate sp.,1
+CBO,15,open,Maytenus cf.,1
+CBO,15,open,Maytenus robusta,1
+CBO,15,open,Miconia sp.,1
+CBO,15,open,Mollinedia sp.,1
+CBO,15,open,Ocotea catharinensis,1
+CBO,15,open,Ocotea cf. dispersa,1
+CBO,15,open,Philodendron sp.,1
+CBO,15,open,Pteridophyta sp.,1
+CBO,15,open,Rudgea jasminoides,1
+CBO,15,open,Schnella microstachya,1
+CBO,15,open,Schnella sp. 1,1
+CBO,15,open,Schnella sp. 2,1
+CBO,15,open,Stromanthe sp.,1
+ITA,1,closed,Bromeliaceae sp.,1
+ITA,1,closed,Calyptranthes cf. lucida,1
+ITA,1,closed,Clethra sp.,1
+ITA,1,closed,Euterpe edulis,1
+ITA,1,closed,Geonoma gamiova,1
+ITA,1,closed,Geonoma sp.,1
+ITA,1,closed,Guarea macrophylla,1
+ITA,1,closed,Indeterminate sp.,1
+ITA,1,closed,Inga marginata,1
+ITA,1,closed,Inga sp.,1
+ITA,1,closed,Lauraceae cf.,1
+ITA,1,closed,Merostachys cf. neesii,1
+ITA,1,closed,Mollinedia schottiana,1
+ITA,1,closed,Mollinedia sp.,1
+ITA,1,closed,Myrtaceae cf.,1
+ITA,1,closed,Ocotea sp.,1
+ITA,1,closed,Paullinia sp.,1
+ITA,1,closed,Paullinia/Serjania sp.,1
+ITA,1,closed,Phyllanthus cf.,1
+ITA,1,closed,Piper sp. 1,1
+ITA,1,closed,Poaceae sp.,1
+ITA,1,closed,Polybotrya cylindrica,1
+ITA,1,closed,Psychotria brachypoda,1
+ITA,1,closed,Psychotria leiocarpa,1
+ITA,1,closed,Psychotria sp.,1
+ITA,1,closed,Rudgea sp.,1
+ITA,1,closed,Senegalia cf.,1
+ITA,1,closed,Serpocaulon laetum,1
+ITA,1,closed,Sloanea cf.,1
+ITA,1,closed,Trichilia sp.,1
+ITA,1,open,Begonia sp. 1,1
+ITA,1,open,Begonia sp. 3,1
+ITA,1,open,Brunfelsia sp.,1
+ITA,1,open,Calyptranthes cf. lucida,1
+ITA,1,open,Commelinaceae sp.,1
+ITA,1,open,Dichorisandra cf. thyrsiflora,1
+ITA,1,open,Eugenia sp. 4,1
+ITA,1,open,Euterpe edulis,1
+ITA,1,open,Geonoma gamiova,1
+ITA,1,open,Geonoma sp.,1
+ITA,1,open,Guarea macrophylla,1
+ITA,1,open,Indeterminate sp.,1
+ITA,1,open,Inga marginata,1
+ITA,1,open,Inga sessilis,1
+ITA,1,open,Inga sp.,1
+ITA,1,open,Merostachys cf. neesii,1
+ITA,1,open,Miconia cf.,1
+ITA,1,open,Myrtaceae sp.,1
+ITA,1,open,Ocotea sp. 2,1
+ITA,1,open,Paullinia sp.,1
+ITA,1,open,Paullinia/Serjania sp.,1
+ITA,1,open,Piper pseudopothifolium,1
+ITA,1,open,Piper sp. 1,1
+ITA,1,open,Poaceae sp.,1
+ITA,1,open,Polybotrya cylindrica,1
+ITA,1,open,Psychotria brachypoda,1
+ITA,1,open,Psychotria sp.,1
+ITA,1,open,Psychotria suterella,1
+ITA,1,open,Rubiaceae cf.,1
+ITA,1,open,Rubiaceae sp.,1
+ITA,1,open,Rudgea sp.,1
+ITA,1,open,Tapirira guianensis,1
+ITA,2,closed,Abuta selloana,1
+ITA,2,closed,Alchornea glandulosa,1
+ITA,2,closed,Asplenium uniseriale,1
+ITA,2,closed,Begonia sp.,1
+ITA,2,closed,Cupania oblongifolia,1
+ITA,2,closed,Euterpe edulis,1
+ITA,2,closed,Geonoma gamiova,1
+ITA,2,closed,Guapira cf.,1
+ITA,2,closed,Indeterminate sp.,1
+ITA,2,closed,Inga marginata,1
+ITA,2,closed,Inga sessilis,1
+ITA,2,closed,Merostachys cf. neesii,1
+ITA,2,closed,Mollinedia cf. uleana,1
+ITA,2,closed,Mollinedia schottiana,1
+ITA,2,closed,Myrtaceae cf.,1
+ITA,2,closed,Myrtaceae sp.,1
+ITA,2,closed,Nematanthus cf. jolyanus,1
+ITA,2,closed,Ocotea cf.,1
+ITA,2,closed,Ocotea sp. 2,1
+ITA,2,closed,Ottonia sp.,1
+ITA,2,closed,Parapiptadenia sp.,1
+ITA,2,closed,Paullinia/Serjania sp.,1
+ITA,2,closed,Poaceae sp.,1
+ITA,2,closed,Polybotrya cylindrica,1
+ITA,2,closed,Pteridophyta sp.,1
+ITA,2,closed,Pteridophyta sp. 1,1
+ITA,2,closed,Pteris cf. deflexa,1
+ITA,2,closed,Pteris deflexa,1
+ITA,2,closed,Serjania sp.,1
+ITA,2,closed,Solanaceae sp.,1
+ITA,2,open,Asplenium uniseriale,1
+ITA,2,open,Begonia sp.,1
+ITA,2,open,Blechnum sampaioanum,1
+ITA,2,open,Brunfelsia sp.,1
+ITA,2,open,Cupania oblongifolia,1
+ITA,2,open,Euterpe edulis,1
+ITA,2,open,Geonoma gamiova,1
+ITA,2,open,Geonoma sp.,1
+ITA,2,open,Guapira opposita,1
+ITA,2,open,Indeterminate sp.,1
+ITA,2,open,Inga marginata,1
+ITA,2,open,Inga sp.,1
+ITA,2,open,Merostachys cf. neesii,1
+ITA,2,open,Mollinedia schottiana,1
+ITA,2,open,Ocotea sp. 2,1
+ITA,2,open,Ottonia sp.,1
+ITA,2,open,Paullinia/Serjania sp.,1
+ITA,2,open,Plinia pauciflora,1
+ITA,2,open,Psychotria sp.,1
+ITA,2,open,Pteris decurrens,1
+ITA,2,open,Rubiaceae cf.,1
+ITA,2,open,Siparuna cf. brasiliensis,1
+ITA,2,open,Zollernia ilicifolia,1
+ITA,4,closed,Celastraceae sp.,1
+ITA,4,closed,Cordia sellowiana,1
+ITA,4,closed,Cucurbitaceae sp.,1
+ITA,4,closed,Dalbergia frutescens,1
+ITA,4,closed,Euterpe edulis,1
+ITA,4,closed,Fabaceae sp.,1
+ITA,4,closed,Geonoma gamiova,1
+ITA,4,closed,Geonoma sp.,1
+ITA,4,closed,Guapira opposita,1
+ITA,4,closed,Indeterminate sp.,1
+ITA,4,closed,Inga sp.,1
+ITA,4,closed,Lastreopsis amplissima,1
+ITA,4,closed,Merostachys cf. neesii,1
+ITA,4,closed,Mollinedia schottiana,1
+ITA,4,closed,Mollinedia sp.,1
+ITA,4,closed,Myrcia pubipetala,1
+ITA,4,closed,Myrsine cf. umbellata,1
+ITA,4,closed,Myrtaceae cf.,1
+ITA,4,closed,Myrtaceae sp.,1
+ITA,4,closed,Ocotea catharinensis,1
+ITA,4,closed,Ocotea sp. 1,1
+ITA,4,closed,Paullinia/Serjania sp.,1
+ITA,4,closed,Paullinia/Serjania sp. 1,1
+ITA,4,closed,Piper sp. 1,1
+ITA,4,closed,Plinia pauciflora,1
+ITA,4,closed,Polybotrya cylindrica,1
+ITA,4,closed,Posoqueria acutifolia,1
+ITA,4,open,Alibertia cf. myrciifolia,1
+ITA,4,open,Asteraceae sp.,1
+ITA,4,open,Cordia sellowiana,1
+ITA,4,open,Cyperaceae sp.,1
+ITA,4,open,Dalbergia frutescens,1
+ITA,4,open,Euterpe edulis,1
+ITA,4,open,Geonoma gamiova,1
+ITA,4,open,Geonoma sp.,1
+ITA,4,open,Indeterminate sp.,1
+ITA,4,open,Lastreopsis amplissima,1
+ITA,4,open,Melastomataceae sp.,1
+ITA,4,open,Merostachys cf. multiramea,1
+ITA,4,open,Merostachys cf. neesii,1
+ITA,4,open,Miconia sp. 3,1
+ITA,4,open,Miconia sp. 4,1
+ITA,4,open,Mollinedia schottiana,1
+ITA,4,open,Myrceugenia myrcioides,1
+ITA,4,open,Myrcia pubipetala,1
+ITA,4,open,Nidularium sp. 1,1
+ITA,4,open,Ocotea cf.,1
+ITA,4,open,Paullinia/Serjania sp. 1,1
+ITA,4,open,Pleurostachys cf.,1
+ITA,4,open,Poaceae sp.,1
+ITA,4,open,Polybotrya cylindrica,1
+ITA,4,open,Psychotria nemorosa,1
+ITA,6,closed,Allophylus sp.,1
+ITA,6,closed,Ctenitis aspidioides,1
+ITA,6,closed,Eugenia cf. neoaustralis,1
+ITA,6,closed,Eugenia sp. 2,1
+ITA,6,closed,Euterpe edulis,1
+ITA,6,closed,Fabaceae sp.,1
+ITA,6,closed,Geonoma sp.,1
+ITA,6,closed,Hiraea sp.,1
+ITA,6,closed,Indeterminate sp.,1
+ITA,6,closed,Inga marginata,1
+ITA,6,closed,Inga sessilis,1
+ITA,6,closed,Inga sp.,1
+ITA,6,closed,Malvaceae cf.,1
+ITA,6,closed,Melastomataceae sp.,1
+ITA,6,closed,Myrceugenia myrcioides,1
+ITA,6,closed,Myrtaceae cf.,1
+ITA,6,closed,Myrtaceae sp.,1
+ITA,6,closed,Paullinia/Serjania sp.,1
+ITA,6,closed,Paullinia/Serjania sp. 3,1
+ITA,6,closed,Psychotria brachypoda,1
+ITA,6,closed,Psychotria suterella,1
+ITA,6,closed,Pteris cf. deflexa,1
+ITA,6,closed,Rudgea sp.,1
+ITA,6,closed,Schnella microstachya,1
+ITA,6,closed,Solanaceae cf.,1
+ITA,6,closed,Solanaceae sp.,1
+ITA,6,open,Allophylus sp.,1
+ITA,6,open,Aniba sp.,1
+ITA,6,open,Bromeliaceae sp.,1
+ITA,6,open,Cordia cf.,1
+ITA,6,open,Euterpe edulis,1
+ITA,6,open,Geonoma gamiova,1
+ITA,6,open,Indeterminate sp.,1
+ITA,6,open,Inga marginata,1
+ITA,6,open,Inga sp.,1
+ITA,6,open,Mollinedia schottiana,1
+ITA,6,open,Mollinedia sp.,1
+ITA,6,open,Myrceugenia myrcioides,1
+ITA,6,open,Nidularium sp.,1
+ITA,6,open,Ocotea catharinensis,1
+ITA,6,open,Ocotea dispersa,1
+ITA,6,open,Ocotea sp. 1,1
+ITA,6,open,Paullinia sp.,1
+ITA,6,open,Paullinia/Serjania sp. 2,1
+ITA,6,open,Posoqueria acutifolia,1
+ITA,6,open,Psychotria brachypoda,1
+ITA,6,open,Psychotria cf.,1
+ITA,6,open,Psychotria sp. 2,1
+ITA,6,open,Pteridophyta sp.,1
+ITA,6,open,Rubiaceae cf.,1
+ITA,6,open,Rubiaceae sp.,1
+ITA,6,open,Sapindaceae sp. 1,1
+ITA,6,open,Schnella microstachya,1
+ITA,8,closed,Alchornea cf.,1
+ITA,8,closed,Anthurium cf. loefgrenii,1
+ITA,8,closed,Apocynaceae sp.,1
+ITA,8,closed,Asteraceae cf.,1
+ITA,8,closed,Dalbergia frutescens,1
+ITA,8,closed,Euterpe edulis,1
+ITA,8,closed,Indeterminate sp.,1
+ITA,8,closed,Inga sessilis,1
+ITA,8,closed,Melastomataceae sp.,1
+ITA,8,closed,Merostachys cf. multiramea,1
+ITA,8,closed,Merostachys cf. neesii,1
+ITA,8,closed,Myrtaceae sp.,1
+ITA,8,closed,Nidularium sp.,1
+ITA,8,closed,Nidularium sp. 1,1
+ITA,8,closed,Ocotea cf.,1
+ITA,8,closed,Ocotea sp.,1
+ITA,8,closed,Ocotea sp. 2,1
+ITA,8,closed,Paullinia/Serjania sp. 2,1
+ITA,8,closed,Philodendron sp.,1
+ITA,8,closed,Piptocarpha sp.,1
+ITA,8,closed,Poaceae sp.,1
+ITA,8,closed,Polybotrya cylindrica,1
+ITA,8,closed,Psychotria cf.,1
+ITA,8,closed,Psychotria sp.,1
+ITA,8,closed,Psychotria sp. 2,1
+ITA,8,closed,Sloanea guianensis,1
+ITA,8,open,Alchornea cf.,1
+ITA,8,open,Alchornea sp.,1
+ITA,8,open,Anthurium cf. loefgrenii,1
+ITA,8,open,Anthurium sp.,1
+ITA,8,open,Apocynaceae sp.,1
+ITA,8,open,Araceae sp.,1
+ITA,8,open,Bromeliaceae sp.,1
+ITA,8,open,Calyptranthes cf. lucida,1
+ITA,8,open,Croton sp.,1
+ITA,8,open,Eugenia sp.,1
+ITA,8,open,Euterpe edulis,1
+ITA,8,open,Fabaceae cf.,1
+ITA,8,open,Guapira cf.,1
+ITA,8,open,Indeterminate sp.,1
+ITA,8,open,Licania cf. hoehnei,1
+ITA,8,open,Melastomataceae sp.,1
+ITA,8,open,Merostachys cf. neesii,1
+ITA,8,open,Myrceugenia myrcioides,1
+ITA,8,open,Myrtaceae cf.,1
+ITA,8,open,Myrtaceae sp.,1
+ITA,8,open,Nidularium sp.,1
+ITA,8,open,Nidularium sp. 1,1
+ITA,8,open,Ocotea sp. 1,1
+ITA,8,open,Paullinia/Serjania sp.,1
+ITA,8,open,Pleurostachys sp.,1
+ITA,8,open,Pleurostachys sp. 1,1
+ITA,8,open,Polybotrya cylindrica,1
+ITA,8,open,Psychotria leiocarpa,1
+ITA,8,open,Pteridophyta sp.,1
+ITA,10,closed,Casearia decandra,1
+ITA,10,closed,Eugenia neoaustralis,1
+ITA,10,closed,Euterpe edulis,1
+ITA,10,closed,Fabaceae sp.,1
+ITA,10,closed,Geonoma gamiova,1
+ITA,10,closed,Geonoma sp.,1
+ITA,10,closed,Indeterminate sp.,1
+ITA,10,closed,Merostachys cf. neesii,1
+ITA,10,closed,Myrtaceae cf.,1
+ITA,10,closed,Ocotea sp.,1
+ITA,10,closed,Paullinia/Serjania sp.,1
+ITA,10,closed,Psychotria brachypoda,1
+ITA,10,closed,Psychotria leiocarpa,1
+ITA,10,closed,Sloanea sp.,1
+ITA,10,closed,Smilax sp.,1
+ITA,10,closed,Solanum sp.,1
+ITA,10,closed,Sorocea bonplandii,1
+ITA,10,open,Acacia sp.,1
+ITA,10,open,Asteraceae cf.,1
+ITA,10,open,Brunfelsia sp.,1
+ITA,10,open,Daphnopsis schwackeana,1
+ITA,10,open,Eugenia sp. 3,1
+ITA,10,open,Euterpe edulis,1
+ITA,10,open,Fabaceae sp.,1
+ITA,10,open,Geonoma gamiova,1
+ITA,10,open,Geonoma sp.,1
+ITA,10,open,Indeterminate sp.,1
+ITA,10,open,Myrtaceae sp.,1
+ITA,10,open,Psychotria leiocarpa,1
+ITA,12,closed,Allophylus sp.,1
+ITA,12,closed,Calypthranthes sp.,1
+ITA,12,closed,Calyptranthes cf.,1
+ITA,12,closed,Calyptranthes cf. lucida,1
+ITA,12,closed,Cryptocarya mandioccana,1
+ITA,12,closed,Eugenia sp. 2,1
+ITA,12,closed,Euterpe edulis,1
+ITA,12,closed,Geonoma sp.,1
+ITA,12,closed,Guapira opposita,1
+ITA,12,closed,Heteropterys nitida,1
+ITA,12,closed,Indeterminate sp.,1
+ITA,12,closed,Inga sp.,1
+ITA,12,closed,Merostachys cf. neesii,1
+ITA,12,closed,Mollinedia cf.,1
+ITA,12,closed,Ocotea cf.,1
+ITA,12,closed,Ocotea dispersa,1
+ITA,12,closed,Psychotria cf.,1
+ITA,12,closed,Rubiaceae cf.,1
+ITA,12,open,Cryptocarya mandioccana,1
+ITA,12,open,Cupania oblongifolia,1
+ITA,12,open,Eugenia cf.,1
+ITA,12,open,Eugenia sp. 3,1
+ITA,12,open,Euterpe edulis,1
+ITA,12,open,Geonoma sp.,1
+ITA,12,open,Indeterminate sp.,1
+ITA,12,open,Inga marginata,1
+ITA,12,open,Mollinedia schottiana,1
+ITA,12,open,Myrtaceae cf.,1
+ITA,12,open,Rubiaceae cf.,1
+ITA,12,open,Rubiaceae sp.,1
+ITA,12,open,Solanum sp.,1
+ITA,14,closed,Allophylus cf.,1
+ITA,14,closed,Begonia sp. 4,1
+ITA,14,closed,Clethra sp.,1
+ITA,14,closed,Cryptocarya mandioccana,1
+ITA,14,closed,Cupania oblongifolia,1
+ITA,14,closed,Euterpe edulis,1
+ITA,14,closed,Geonoma gamiova,1
+ITA,14,closed,Geonoma sp.,1
+ITA,14,closed,Indeterminate sp.,1
+ITA,14,closed,Inga marginata,1
+ITA,14,closed,Mollinedia cf.,1
+ITA,14,closed,Mollinedia cf. uleana,1
+ITA,14,closed,Myrceugenia myrcioides,1
+ITA,14,closed,Myrtaceae sp.,1
+ITA,14,closed,Philodendron sp.,1
+ITA,14,closed,Psychotria brachypoda,1
+ITA,14,closed,Psychotria cf.,1
+ITA,14,closed,Psychotria sp. 3,1
+ITA,14,closed,Rubiaceae cf.,1
+ITA,14,closed,Rubiaceae sp. 1,1
+ITA,14,closed,Rudgea cf.,1
+ITA,14,closed,Rudgea sp.,1
+ITA,14,closed,Schnella microstachya,1
+ITA,14,open,Begonia sp.,1
+ITA,14,open,Bignoniaceae cf.,1
+ITA,14,open,Eugenia cf. cuprea,1
+ITA,14,open,Eugenia sp. 2,1
+ITA,14,open,Euterpe edulis,1
+ITA,14,open,Geonoma gamiova,1
+ITA,14,open,Indeterminate sp.,1
+ITA,14,open,Inga sessilis,1
+ITA,14,open,Inga sp.,1
+ITA,14,open,Mollinedia cf.,1
+ITA,14,open,Myrcia splendens,1
+ITA,14,open,Myrtaceae cf.,1
+ITA,14,open,Ocotea sp. 1,1
+ITA,14,open,Paullinia/Serjania sp. 1,1
+ITA,14,open,Polybotrya cylindrica,1
+ITA,14,open,Psychotria sp.,1
+ITA,14,open,Rubiaceae cf.,1
+ITA,14,open,Rubiaceae sp.,1
+ITA,14,open,Rubiaceae sp. 1,1
+ITA,14,open,Rudgea sp.,1
+ITA,14,open,Schnella microstachya,1
+ITA,15,closed,Araceae cf.,1
+ITA,15,closed,Asteraceae sp.,1
+ITA,15,closed,Bignoniaceae cf.,1
+ITA,15,closed,Connarus rostratus,1
+ITA,15,closed,Cryptocarya mandioccana,1
+ITA,15,closed,Cyperaceae cf.,1
+ITA,15,closed,Euterpe edulis,1
+ITA,15,closed,Geonoma gamiova,1
+ITA,15,closed,Guapira cf.,1
+ITA,15,closed,Guapira opposita,1
+ITA,15,closed,Guatteria australis,1
+ITA,15,closed,Indeterminate sp.,1
+ITA,15,closed,Marlierea sp.,1
+ITA,15,closed,Marlierea strigipes,1
+ITA,15,closed,Merostachys cf. neesii,1
+ITA,15,closed,Myrcia splendens,1
+ITA,15,closed,Polybotrya cylindrica,1
+ITA,15,closed,Rubiaceae sp.,1
+ITA,15,closed,Schnella microstachya,1
+ITA,15,closed,Sloanea guianensis,1
+ITA,15,closed,Zollernia cf.,1
+ITA,15,open,Alchornea glandulosa,1
+ITA,15,open,Alchornea sp.,1
+ITA,15,open,Apocynaceae sp.,1
+ITA,15,open,Asteraceae cf.,1
+ITA,15,open,Brunfelsia sp.,1
+ITA,15,open,Casearia cf. sylvestris,1
+ITA,15,open,Clethra sp.,1
+ITA,15,open,Croton sp.,1
+ITA,15,open,Ctenitis aspidioides,1
+ITA,15,open,Diploon cuspidatum,1
+ITA,15,open,Euphorbiaceae cf.,1
+ITA,15,open,Euterpe edulis,1
+ITA,15,open,Guapira cf.,1
+ITA,15,open,Guapira opposita,1
+ITA,15,open,Indeterminate sp.,1
+ITA,15,open,Malpighiaceae sp.,1
+ITA,15,open,Merostachys cf. multiramea,1
+ITA,15,open,Mollinedia schottiana,1
+ITA,15,open,Myrtaceae sp.,1
+ITA,15,open,Ocotea catharinensis,1
+ITA,15,open,Ocotea cf.,1
+ITA,15,open,Ocotea dispersa,1
+ITA,15,open,Ocotea sp.,1
+ITA,15,open,Piper sp.,1
+ITA,15,open,Pleurostachys sp. 1,1
+ITA,15,open,Poaceae sp.,1
+ITA,15,open,Pteris cf. deflexa,1
+VGM,1,closed,Connarus cf.,1
+VGM,1,closed,Connarus rostratus,1
+VGM,1,closed,Cryptocarya mandioccana,1
+VGM,1,closed,Ctenanthe lanceolata,1
+VGM,1,closed,Euterpe edulis,1
+VGM,1,closed,Geonoma gamiova,1
+VGM,1,closed,Geonoma sp.,1
+VGM,1,closed,Guapira cf.,1
+VGM,1,closed,Indeterminate sp.,1
+VGM,1,closed,Inga sp.,1
+VGM,1,closed,Lauraceae cf.,1
+VGM,1,closed,Mollinedia sp.,1
+VGM,1,closed,Myrceugenia myrcioides,1
+VGM,1,closed,Philodendron sp.,1
+VGM,1,closed,Poaceae sp. 1,1
+VGM,1,closed,Psychotria sp.,1
+VGM,1,closed,Rudgea sp.,1
+VGM,1,closed,Sapindaceae sp. 1,1
+VGM,1,open,Begonia sp. 4,1
+VGM,1,open,Connarus rostratus,1
+VGM,1,open,Ctenanthe lanceolata,1
+VGM,1,open,Diploon cuspidatum,1
+VGM,1,open,Euterpe edulis,1
+VGM,1,open,Geonoma sp.,1
+VGM,1,open,Indeterminate sp.,1
+VGM,1,open,Miconia sp.,1
+VGM,1,open,Miconia sp. 3,1
+VGM,1,open,Paullinia/Serjania sp.,1
+VGM,1,open,Poaceae sp. 1,1
+VGM,1,open,Polybotria sp.,1
+VGM,1,open,Polybotrya cylindrica,1
+VGM,1,open,Polybotrya sp.,1
+VGM,1,open,Psychotria sp.,1
+VGM,4,closed,Acanthaceae sp.,1
+VGM,4,closed,Apocynaceae sp.,1
+VGM,4,closed,Apocynaceae sp. 2,1
+VGM,4,closed,Aspidosperma sp.,1
+VGM,4,closed,Celastraceae cf.,1
+VGM,4,closed,Celastraceae sp.,1
+VGM,4,closed,Coccocypselum sp.,1
+VGM,4,closed,Commelinaceae sp.,1
+VGM,4,closed,Ctenanthe lanceolata,1
+VGM,4,closed,Cupania oblongifolia,1
+VGM,4,closed,Elaphoglossum glaziovii,1
+VGM,4,closed,Erythroxylum sp.,1
+VGM,4,closed,Euterpe edulis,1
+VGM,4,closed,Goeppertia monophylla,1
+VGM,4,closed,Guapira cf.,1
+VGM,4,closed,Guapira opposita,1
+VGM,4,closed,Guarea macrophylla,1
+VGM,4,closed,Guatteria australis,1
+VGM,4,closed,Indeterminate sp.,1
+VGM,4,closed,Inga sp.,1
+VGM,4,closed,Maytenus cf.,1
+VGM,4,closed,Merostachys sp.,1
+VGM,4,closed,Miconia sp. 4,1
+VGM,4,closed,Mollinedia schottiana,1
+VGM,4,closed,Myrcia pubipetala,1
+VGM,4,closed,Myrcia splendens,1
+VGM,4,closed,Myrtaceae cf.,1
+VGM,4,closed,Ocotea sp. 1,1
+VGM,4,closed,Orchidaceae sp.,1
+VGM,4,closed,Paullinia/Serjania sp.,1
+VGM,4,closed,Peltastes peltatus,1
+VGM,4,closed,Philodendron sp.,1
+VGM,4,closed,Piper sp. 1,1
+VGM,4,closed,Piptocarpha sp.,1
+VGM,4,closed,Pleurostachys sp.,1
+VGM,4,closed,Pleurostachys sp. 1,1
+VGM,4,closed,Prunus myrtifolia,1
+VGM,4,closed,Psychotria cf.,1
+VGM,4,closed,Psychotria sp.,1
+VGM,4,closed,Psychotria suterella,1
+VGM,4,closed,Sapindaceae sp.,1
+VGM,4,closed,Sapindaceae sp. 1,1
+VGM,4,closed,Xylosma cf. prockia,1
+VGM,4,open,Acanthaceae sp.,1
+VGM,4,open,Anthurium sp.,1
+VGM,4,open,Apiaceae sp.,1
+VGM,4,open,Apocynaceae sp.,1
+VGM,4,open,Attalea dubia,1
+VGM,4,open,Begonia sp. 2,1
+VGM,4,open,Borreria sp.,1
+VGM,4,open,Celastraceae sp.,1
+VGM,4,open,Coccocypselum sp.,1
+VGM,4,open,Ctenanthe lanceolata,1
+VGM,4,open,Cyperaceae sp.,1
+VGM,4,open,Euterpe edulis,1
+VGM,4,open,Guapira cf.,1
+VGM,4,open,Guapira opposita,1
+VGM,4,open,Guatteria australis,1
+VGM,4,open,Indeterminate sp.,1
+VGM,4,open,Melastomataceae sp.,1
+VGM,4,open,Merostachys sp.,1
+VGM,4,open,Miconia cubatanensis,1
+VGM,4,open,Mollinedia cf.,1
+VGM,4,open,Myrcia splendens,1
+VGM,4,open,Myrsine cf. umbellata,1
+VGM,4,open,Myrtaceae cf.,1
+VGM,4,open,Ocotea cf.,1
+VGM,4,open,Ocotea sp. 3,1
+VGM,4,open,Paullinia/Serjania sp.,1
+VGM,4,open,Paullinia/Serjania sp. 1,1
+VGM,4,open,Piptocarpha sp.,1
+VGM,4,open,Pleurostachys sp. 1,1
+VGM,4,open,Poaceae sp.,1
+VGM,4,open,Prunus myrtifolia,1
+VGM,4,open,Psychotria leiocarpa,1
+VGM,4,open,Rubiaceae cf.,1
+VGM,4,open,Rubiaceae sp.,1
+VGM,4,open,Sapindaceae sp.,1
+VGM,4,open,Symplocos sp.,1
+VGM,5,closed,Annona sp.,1
+VGM,5,closed,Anthurium scandens,1
+VGM,5,closed,Anthurium sp.,1
+VGM,5,closed,Asteraceae sp.,1
+VGM,5,closed,Attalea dubia,1
+VGM,5,closed,Casearia decandra,1
+VGM,5,closed,Coccocypselum sp.,1
+VGM,5,closed,Cordia sellowiana,1
+VGM,5,closed,Ctenanthe lanceolata,1
+VGM,5,closed,Cupania cf.,1
+VGM,5,closed,Cupania oblongifolia,1
+VGM,5,closed,Eugenia sp. 1,1
+VGM,5,closed,Euterpe edulis,1
+VGM,5,closed,Guapira cf.,1
+VGM,5,closed,Guapira opposita,1
+VGM,5,closed,Guarea macrophylla,1
+VGM,5,closed,Guatteria australis,1
+VGM,5,closed,Indeterminate sp.,1
+VGM,5,closed,Inga marginata,1
+VGM,5,closed,Inga sp.,1
+VGM,5,closed,Magnolia ovata,1
+VGM,5,closed,Melastomataceae sp.,1
+VGM,5,closed,Merostachys sp.,1
+VGM,5,closed,Miconia sp. 2,1
+VGM,5,closed,Miconia sp. 4,1
+VGM,5,closed,Mollinedia schottiana,1
+VGM,5,closed,Myrceugenia sp.,1
+VGM,5,closed,Myrcia pubipetala,1
+VGM,5,closed,Myrcia splendens,1
+VGM,5,closed,Myrocarpus frondosus,1
+VGM,5,closed,Myrtaceae cf.,1
+VGM,5,closed,Myrtaceae sp.,1
+VGM,5,closed,Ocotea sp. 1,1
+VGM,5,closed,Paullinia/Serjania sp.,1
+VGM,5,closed,Piper sp.,1
+VGM,5,closed,Piper sp. 1,1
+VGM,5,closed,Piptocarpha sp.,1
+VGM,5,closed,Pisonia ambigua,1
+VGM,5,closed,Poaceae sp.,1
+VGM,5,closed,Sapindaceae sp. 1,1
+VGM,5,closed,Smilax sp.,1
+VGM,5,closed,Xylosma cf. prockia,1
+VGM,5,open,Brunfelsia sp.,1
+VGM,5,open,Cabralea canjerana,1
+VGM,5,open,Calyptranthes cf. lucida,1
+VGM,5,open,Connarus rostratus,1
+VGM,5,open,Cupania cf.,1
+VGM,5,open,Cupania oblongifolia,1
+VGM,5,open,Eugenia sp. 1,1
+VGM,5,open,Euterpe edulis,1
+VGM,5,open,Geonoma gamiova,1
+VGM,5,open,Geonoma sp.,1
+VGM,5,open,Guapira cf.,1
+VGM,5,open,Guapira opposita,1
+VGM,5,open,Guarea macrophylla,1
+VGM,5,open,Indeterminate sp.,1
+VGM,5,open,Lauraceae sp.,1
+VGM,5,open,Merostachys sp.,1
+VGM,5,open,Miconia sp. 4,1
+VGM,5,open,Mollinedia schottiana,1
+VGM,5,open,Myrcia pubipetala,1
+VGM,5,open,Myrtaceae cf.,1
+VGM,5,open,Myrtaceae sp.,1
+VGM,5,open,Paullinia/Serjania sp.,1
+VGM,5,open,Piper cf. aduncum,1
+VGM,5,open,Piper sp.,1
+VGM,5,open,Piptocarpha sp.,1
+VGM,5,open,Pleurostachys sp. 1,1
+VGM,5,open,Psychotria leiocarpa,1
+VGM,5,open,Psychotria suterella,1
+VGM,5,open,Pteridophyta sp.,1
+VGM,5,open,Rhynchospora sp.,1
+VGM,5,open,Rubiaceae cf.,1
+VGM,5,open,Rubiaceae sp.,1
+VGM,5,open,Rudgea sp.,1
+VGM,6,closed,Anthurium cf. scandens,1
+VGM,6,closed,Attalea dubia,1
+VGM,6,closed,Bathysa australis,1
+VGM,6,closed,Bignoniaceae sp.,1
+VGM,6,closed,Bromeliaceae sp.,1
+VGM,6,closed,Calyptranthes cf. lucida,1
+VGM,6,closed,Chrysophyllum cf.,1
+VGM,6,closed,Chrysophyllum flexuosum,1
+VGM,6,closed,Connarus rostratus,1
+VGM,6,closed,Cryptocarya mandioccana,1
+VGM,6,closed,Ctenanthe lanceolata,1
+VGM,6,closed,Euterpe edulis,1
+VGM,6,closed,Geonoma gamiova,1
+VGM,6,closed,Geonoma sp.,1
+VGM,6,closed,Guapira cf.,1
+VGM,6,closed,Guapira opposita,1
+VGM,6,closed,Guatteria australis,1
+VGM,6,closed,Indeterminate sp.,1
+VGM,6,closed,Lastreopsis amplissima,1
+VGM,6,closed,Licania cf. hoehnei,1
+VGM,6,closed,Matayba sp.,1
+VGM,6,closed,Merostachys sp.,1
+VGM,6,closed,Myrceugenia myrcioides,1
+VGM,6,closed,Myrtaceae cf.,1
+VGM,6,closed,Myrtaceae sp.,1
+VGM,6,closed,Nidularium sp.,1
+VGM,6,closed,Nidularium sp. 1,1
+VGM,6,closed,Ocotea catharinensis,1
+VGM,6,closed,Ocotea cf. dispersa,1
+VGM,6,closed,Ocotea sp.,1
+VGM,6,closed,Pleurostachys sp. 2,1
+VGM,6,closed,Pouteria sp.,1
+VGM,6,closed,Prunus myrtifolia,1
+VGM,6,closed,Psychotria cf.,1
+VGM,6,closed,Zollernia ilicifolia,1
+VGM,6,open,Acanthaceae sp.,1
+VGM,6,open,Annona sp.,1
+VGM,6,open,Arecaceae sp.,1
+VGM,6,open,Campyloneurum sp.,1
+VGM,6,open,Connarus cf.,1
+VGM,6,open,Connarus rostratus,1
+VGM,6,open,Ctenanthe lanceolata,1
+VGM,6,open,Cyathea cf. corcovadensis,1
+VGM,6,open,Cyathea cf. dichromatolepis,1
+VGM,6,open,Cyathea sp.,1
+VGM,6,open,Dalbergia frutescens,1
+VGM,6,open,Dichorisandra cf. thyrsiflora,1
+VGM,6,open,Eugenia sp. 1,1
+VGM,6,open,Euterpe edulis,1
+VGM,6,open,Geonoma sp.,1
+VGM,6,open,Guapira cf.,1
+VGM,6,open,Guapira opposita,1
+VGM,6,open,Indeterminate sp.,1
+VGM,6,open,Lauraceae sp.,1
+VGM,6,open,Leandra dasytricha,1
+VGM,6,open,Licania cf. hoehnei,1
+VGM,6,open,Marantaceae sp.,1
+VGM,6,open,Melastomataceae sp.,1
+VGM,6,open,Merostachys sp.,1
+VGM,6,open,Miconia sp. 3,1
+VGM,6,open,Mollinedia schottiana,1
+VGM,6,open,Myrtaceae cf.,1
+VGM,6,open,Myrtaceae sp.,1
+VGM,6,open,Nidularium sp. 1,1
+VGM,6,open,Ossaea sanguinea,1
+VGM,6,open,Paullinia/Serjania sp.,1
+VGM,6,open,Pleurostachys cf. urvilei,1
+VGM,6,open,Pleurostachys sp. 2,1
+VGM,6,open,Polybotrya cylindrica,1
+VGM,6,open,Polybotrya sp.,1
+VGM,6,open,Pouteria sp.,1
+VGM,6,open,Psychotria suterella,1
+VGM,6,open,Pteridophyta sp.,1
+VGM,6,open,Pteridophyta sp. 2,1
+VGM,6,open,Sapindaceae sp. 1,1
+VGM,6,open,Selaginella sp.,1
+VGM,6,open,Serpocaulon fraxinifolium,1
+VGM,6,open,Solanaceae cf.,1
+VGM,7,closed,Anthurium cf. scandens,1
+VGM,7,closed,Bromeliaceae sp.,1
+VGM,7,closed,Campyloneurum cf. nitidum,1
+VGM,7,closed,Campyloneurum nitidum,1
+VGM,7,closed,Chrysophyllum flexuosum,1
+VGM,7,closed,Connarus rostratus,1
+VGM,7,closed,Ctenanthe lanceolata,1
+VGM,7,closed,Elaphoglossum sp.,1
+VGM,7,closed,Euterpe edulis,1
+VGM,7,closed,Guapira opposita,1
+VGM,7,closed,Indeterminate sp.,1
+VGM,7,closed,Licania cf. hoehnei,1
+VGM,7,closed,Merostachys sp.,1
+VGM,7,closed,Mollinedia cf. uleana,1
+VGM,7,closed,Myrceugenia myrcioides,1
+VGM,7,closed,Myrsine cf. umbellata,1
+VGM,7,closed,Myrtaceae sp.,1
+VGM,7,closed,Nidularium sp.,1
+VGM,7,closed,Nidularium sp. 1,1
+VGM,7,closed,Ocotea dispersa,1
+VGM,7,closed,Ocotea sp. 2,1
+VGM,7,closed,Paullinia/Serjania sp.,1
+VGM,7,closed,Paullinia/Serjania sp. 3,1
+VGM,7,closed,Poaceae sp.,1
+VGM,7,closed,Polybotrya sp.,1
+VGM,7,closed,Selaginella sp.,1
+VGM,7,closed,Siparuna cf. brasiliensis,1
+VGM,7,open,Anthurium sp.,1
+VGM,7,open,Bignoniaceae sp.,1
+VGM,7,open,Clusia sp.,1
+VGM,7,open,Commelinaceae cf.,1
+VGM,7,open,Commelinaceae sp.,1
+VGM,7,open,Croton sp.,1
+VGM,7,open,Ctenanthe lanceolata,1
+VGM,7,open,Euterpe edulis,1
+VGM,7,open,Geonoma sp.,1
+VGM,7,open,Guapira cf.,1
+VGM,7,open,Guapira opposita,1
+VGM,7,open,Guatteria australis,1
+VGM,7,open,Indeterminate sp.,1
+VGM,7,open,Lauraceae sp.,1
+VGM,7,open,Leandra dasytricha,1
+VGM,7,open,Melastomataceae sp.,1
+VGM,7,open,Merostachys sp.,1
+VGM,7,open,Miconia sp.,1
+VGM,7,open,Myrtaceae cf.,1
+VGM,7,open,Nidularium sp. 1,1
+VGM,7,open,Polybotrya cylindrica,1
+VGM,7,open,Polybotrya sp.,1
+VGM,7,open,Sapindaceae sp. 1,1
+VGM,7,open,Selaginella sp.,1
+VGM,8,closed,Begonia sp. 2,1
+VGM,8,closed,Connarus rostratus,1
+VGM,8,closed,Ctenanthe lanceolata,1
+VGM,8,closed,Dalbergia frutescens,1
+VGM,8,closed,Eugenia cf. capitulifera,1
+VGM,8,closed,Eugenia cf. stigmatosa,1
+VGM,8,closed,Euphorbiaceae cf.,1
+VGM,8,closed,Euterpe edulis,1
+VGM,8,closed,Gesneriaceae sp.,1
+VGM,8,closed,Guapira opposita,1
+VGM,8,closed,Heteropterys nitida,1
+VGM,8,closed,Indeterminate sp.,1
+VGM,8,closed,Lastreopsis amplissima,1
+VGM,8,closed,Marlierea strigipes,1
+VGM,8,closed,Merostachys cf. neesii,1
+VGM,8,closed,Merostachys sp.,1
+VGM,8,closed,Miconia sp. 3,1
+VGM,8,closed,Mollinedia sp.,1
+VGM,8,closed,Myrcia pubipetala,1
+VGM,8,closed,Myrcia splendens,1
+VGM,8,closed,Myrtaceae sp.,1
+VGM,8,closed,Nidularium sp.,1
+VGM,8,closed,Nidularium sp. 1,1
+VGM,8,closed,Ocotea sp. 2,1
+VGM,8,closed,Piper pseudopothifolium,1
+VGM,8,closed,Piper sp.,1
+VGM,8,closed,Polybotrya cylindrica,1
+VGM,8,closed,Pouteria sp.,1
+VGM,8,closed,Prunus myrtifolia,1
+VGM,8,closed,Rubiaceae cf.,1
+VGM,8,closed,Rudgea cf.,1
+VGM,8,closed,Selaginella sp.,1
+VGM,8,closed,Sloanea cf.,1
+VGM,8,open,Acacia sp.,1
+VGM,8,open,Amaioua intermedia,1
+VGM,8,open,Anthurium cf. scandens,1
+VGM,8,open,Anthurium sp.,1
+VGM,8,open,Begonia sp.,1
+VGM,8,open,Begonia sp. 2,1
+VGM,8,open,Campyloneurum acrocarpon,1
+VGM,8,open,Campyloneurum cf. nitidum,1
+VGM,8,open,Chrysophyllum flexuosum,1
+VGM,8,open,Ctenanthe lanceolata,1
+VGM,8,open,Dalbergia frutescens,1
+VGM,8,open,Eugenia riedeliana,1
+VGM,8,open,Euphorbiaceae cf.,1
+VGM,8,open,Euterpe edulis,1
+VGM,8,open,Guapira opposita,1
+VGM,8,open,Indeterminate sp.,1
+VGM,8,open,Inga sessilis,1
+VGM,8,open,Inga sp.,1
+VGM,8,open,Melastomataceae sp.,1
+VGM,8,open,Merostachys cf. neesii,1
+VGM,8,open,Merostachys sp.,1
+VGM,8,open,Mollinedia cf.,1
+VGM,8,open,Myrceugenia myrcioides,1
+VGM,8,open,Myrcia pubipetala,1
+VGM,8,open,Myrtaceae sp.,1
+VGM,8,open,Ocotea cf.,1
+VGM,8,open,Ocotea cf. dispersa,1
+VGM,8,open,Ocotea sp.,1
+VGM,8,open,Polybotrya cylindrica,1
+VGM,8,open,Psychotria sp.,1
+VGM,8,open,Psychotria sp. 1,1
+VGM,8,open,Rubiaceae sp.,1
+VGM,8,open,Selaginella sp.,1
+VGM,9,closed,Abarema sp.,1
+VGM,9,closed,Acacia sp.,1
+VGM,9,closed,Allophylus sp.,1
+VGM,9,closed,Asteraceae cf.,1
+VGM,9,closed,Attalea dubia,1
+VGM,9,closed,Bignoniaceae sp.,1
+VGM,9,closed,Cordia sellowiana,1
+VGM,9,closed,Ctenanthe lanceolata,1
+VGM,9,closed,Euterpe edulis,1
+VGM,9,closed,Guapira cf.,1
+VGM,9,closed,Guapira opposita,1
+VGM,9,closed,Guatteria australis,1
+VGM,9,closed,Indeterminate sp.,1
+VGM,9,closed,Lygodium volubile,1
+VGM,9,closed,Melastomataceae sp.,1
+VGM,9,closed,Merostachys sp.,1
+VGM,9,closed,Miconia cabussu,1
+VGM,9,closed,Miconia sp.,1
+VGM,9,closed,Myrsine cf. umbellata,1
+VGM,9,closed,Myrtaceae sp.,1
+VGM,9,closed,Neomarica sp.,1
+VGM,9,closed,Nidularium sp.,1
+VGM,9,closed,Nidularium sp. 1,1
+VGM,9,closed,Ocotea dispersa,1
+VGM,9,closed,Ocotea sp. 1,1
+VGM,9,closed,Ossaea sp.,1
+VGM,9,closed,Paullinia/Serjania sp. 2,1
+VGM,9,closed,Peltastes peltatus,1
+VGM,9,closed,Piper sp.,1
+VGM,9,closed,Piper sp. 1,1
+VGM,9,closed,Piptocarpha sp.,1
+VGM,9,closed,Poaceae sp.,1
+VGM,9,closed,Prunus myrtifolia,1
+VGM,9,closed,Psychotria sp.,1
+VGM,9,closed,Psychotria sp. 4,1
+VGM,9,closed,Pterocarpus rohrii,1
+VGM,9,closed,Pterocarpus sp.,1
+VGM,9,closed,Rudgea cf.,1
+VGM,9,closed,Sapindaceae sp. 1,1
+VGM,9,open,Abarema sp.,1
+VGM,9,open,Alchornea sp.,1
+VGM,9,open,Araceae cf.,1
+VGM,9,open,Araceae sp.,1
+VGM,9,open,Cissus cf.,1
+VGM,9,open,Commelinaceae sp.,1
+VGM,9,open,Croton sp.,1
+VGM,9,open,Ctenanthe lanceolata,1
+VGM,9,open,Cupania cf.,1
+VGM,9,open,Cupania oblongifolia,1
+VGM,9,open,Elophoglossum sp.1,1
+VGM,9,open,Euterpe edulis,1
+VGM,9,open,Guapira cf.,1
+VGM,9,open,Guatteria australis,1
+VGM,9,open,Indeterminate sp.,1
+VGM,9,open,Melastomataceae sp.,1
+VGM,9,open,Merostachys sp.,1
+VGM,9,open,Miconia sp.,1
+VGM,9,open,Myrtaceae cf.,1
+VGM,9,open,Ocotea dispersa,1
+VGM,9,open,Ossaea sp.,1
+VGM,9,open,Paullinia/Serjania sp.,1
+VGM,9,open,Philodendron sp.,1
+VGM,9,open,Piper sp.,1
+VGM,9,open,Piper sp. 1,1
+VGM,9,open,Poaceae sp.,1
+VGM,9,open,Polybotrya cylindrica,1
+VGM,9,open,Sapindaceae sp. 1,1
+VGM,10,closed,Blechnum sampaioanum,1
+VGM,10,closed,Campyloneurum acrocarpon,1
+VGM,10,closed,Campyloneurum cf. nitidum,1
+VGM,10,closed,Campyloneurum crispum,1
+VGM,10,closed,Celastraceae sp.,1
+VGM,10,closed,Ctenanthe lanceolata,1
+VGM,10,closed,Cupania cf.,1
+VGM,10,closed,Cupania oblongifolia,1
+VGM,10,closed,Euterpe edulis,1
+VGM,10,closed,Fabaceae sp.,1
+VGM,10,closed,Goeppertia monophylla,1
+VGM,10,closed,Guapira cf.,1
+VGM,10,closed,Guapira opposita,1
+VGM,10,closed,Indeterminate sp.,1
+VGM,10,closed,Inga marginata,1
+VGM,10,closed,Inga sessilis,1
+VGM,10,closed,Inga sp.,1
+VGM,10,closed,Matayba obovata,1
+VGM,10,closed,Miconia sp. 4,1
+VGM,10,closed,Piper sp. 1,1
+VGM,10,closed,Polybotrya cylindrica,1
+VGM,10,closed,Polybotrya sp.,1
+VGM,10,closed,Prunus myrtifolia,1
+VGM,10,closed,Psychotria nemorosa,1
+VGM,10,closed,Psychotria suterella,1
+VGM,10,closed,Renealmia petasites,1
+VGM,10,open,Campyloneurum acrocarpon,1
+VGM,10,open,Ctenanthe lanceolata,1
+VGM,10,open,Euterpe edulis,1
+VGM,10,open,Guapira cf.,1
+VGM,10,open,Guapira opposita,1
+VGM,10,open,Indeterminate sp.,1
+VGM,10,open,Malpighiaceae sp.,1
+VGM,10,open,Miconia sp. 4,1
+VGM,10,open,Myrtaceae cf.,1
+VGM,10,open,Ocotea dispersa,1
+VGM,10,open,Poaceae sp.,1
+VGM,10,open,Polybotrya cylindrica,1
+VGM,10,open,Prunus myrtifolia,1
+VGM,10,open,Sapindaceae sp.,1
+VGM,10,open,Sapindaceae sp. 1,1
+VGM,10,open,Smilax sp.,1
+VGM,11,closed,Acanthaceae sp.,1
+VGM,11,closed,Aphelandra sp.,1
+VGM,11,closed,Connarus cf.,1
+VGM,11,closed,Ctenanthe lanceolata,1
+VGM,11,closed,Cupania cf.,1
+VGM,11,closed,Cupania oblongifolia,1
+VGM,11,closed,Elaphoglossum luridum,1
+VGM,11,closed,Euterpe edulis,1
+VGM,11,closed,Guapira cf.,1
+VGM,11,closed,Guapira opposita,1
+VGM,11,closed,Guatteria australis,1
+VGM,11,closed,Heteropterys nitida,1
+VGM,11,closed,Indeterminate sp.,1
+VGM,11,closed,Inga sessilis,1
+VGM,11,closed,Melastomataceae sp.,1
+VGM,11,closed,Merostachys sp.,1
+VGM,11,closed,Miconia sp.,1
+VGM,11,closed,Miconia sp. 4,1
+VGM,11,closed,Myrcia splendens,1
+VGM,11,closed,Myrtaceae sp.,1
+VGM,11,closed,Ocotea cf. dispersa,1
+VGM,11,closed,Ocotea sp.,1
+VGM,11,closed,Paullinia/Serjania sp.,1
+VGM,11,closed,Paullinia/Serjania sp. 2,1
+VGM,11,closed,Piptocarpha sp.,1
+VGM,11,closed,Pleurostachys sp.,1
+VGM,11,closed,Pleurostachys sp. 1,1
+VGM,11,closed,Plinia sp.,1
+VGM,11,closed,Psychotria sp.,1
+VGM,11,closed,Psychotria sp. 1,1
+VGM,11,closed,Rubiaceae cf.,1
+VGM,11,closed,Rubiaceae sp.,1
+VGM,11,closed,Rubiaceae sp. 2,1
+VGM,11,closed,Sapindaceae sp. 1,1
+VGM,11,open,Bignoniaceae sp.,1
+VGM,11,open,Celastraceae sp.,1
+VGM,11,open,Chrysophyllum flexuosum,1
+VGM,11,open,Ctenanthe lanceolata,1
+VGM,11,open,Cupania oblongifolia,1
+VGM,11,open,Euterpe edulis,1
+VGM,11,open,Guapira cf.,1
+VGM,11,open,Guapira opposita,1
+VGM,11,open,Guatteria australis,1
+VGM,11,open,Indeterminate sp.,1
+VGM,11,open,Inga sp.,1
+VGM,11,open,Melastomataceae sp.,1
+VGM,11,open,Merostachys sp.,1
+VGM,11,open,Miconia sp.,1
+VGM,11,open,Mollinedia schottiana,1
+VGM,11,open,Myrcia splendens,1
+VGM,11,open,Myrtaceae sp.,1
+VGM,11,open,Ocotea cf.,1
+VGM,11,open,Ocotea dispersa,1
+VGM,11,open,Ocotea sp. 1,1
+VGM,11,open,Piptocarpha sp.,1
+VGM,11,open,Prunus myrtifolia,1
+VGM,11,open,Sapindaceae sp. 1,1
+VGM,11,open,Serpocaulon polystichum,1
+VGM,12,closed,Acacia sp.,1
+VGM,12,closed,Attalea dubia,1
+VGM,12,closed,Bathysa australis,1
+VGM,12,closed,Cupania cf.,1
+VGM,12,closed,Cupania oblongifolia,1
+VGM,12,closed,Eugenia sp. 5,1
+VGM,12,closed,Euterpe edulis,1
+VGM,12,closed,Guapira opposita,1
+VGM,12,closed,Guarea macrophylla,1
+VGM,12,closed,Indeterminate sp.,1
+VGM,12,closed,Inga marginata,1
+VGM,12,closed,Inga sp.,1
+VGM,12,closed,Melastomataceae sp.,1
+VGM,12,closed,Miconia cf.,1
+VGM,12,closed,Miconia sp.,1
+VGM,12,closed,Miconia sp. 4,1
+VGM,12,closed,Mikania sp.,1
+VGM,12,closed,Mollinedia schottiana,1
+VGM,12,closed,Mollinedia sp.,1
+VGM,12,closed,Ocotea dispersa,1
+VGM,12,closed,Paullinia/Serjania sp.,1
+VGM,12,closed,Piper sp. 1,1
+VGM,12,closed,Psychotria brachypoda,1
+VGM,12,closed,Psychotria nemorosa,1
+VGM,12,closed,Psychotria sp.,1
+VGM,12,closed,Psychotria suterella,1
+VGM,12,closed,Rubiaceae cf.,1
+VGM,12,closed,Siparuna cf. brasiliensis,1
+VGM,12,closed,Sloanea cf.,1
+VGM,12,open,Acacia sp.,1
+VGM,12,open,Alchornea glandulosa,1
+VGM,12,open,Asteraceae sp.,1
+VGM,12,open,Ctenanthe lanceolata,1
+VGM,12,open,Ctenitis aspidioides,1
+VGM,12,open,Cupania oblongifolia,1
+VGM,12,open,Eugenia sp. 1,1
+VGM,12,open,Euterpe edulis,1
+VGM,12,open,Geonoma sp.,1
+VGM,12,open,Guapira opposita,1
+VGM,12,open,Indeterminate sp.,1
+VGM,12,open,Inga marginata,1
+VGM,12,open,Inga sessilis,1
+VGM,12,open,Inga sp.,1
+VGM,12,open,Lauraceae sp.,1
+VGM,12,open,Merostachys sp.,1
+VGM,12,open,Miconia sp.,1
+VGM,12,open,Miconia sp. 4,1
+VGM,12,open,Mollinedia sp.,1
+VGM,12,open,Myrtaceae cf.,1
+VGM,12,open,Ocotea sp. 2,1
+VGM,12,open,Piper sp.,1
+VGM,12,open,Piper sp. 1,1
+VGM,12,open,Polybotrya cylindrica,1
+VGM,12,open,Psychotria brachypoda,1
+VGM,12,open,Psychotria cf.,1
+VGM,12,open,Psychotria sp.,1
+VGM,12,open,Psychotria suterella,1
+VGM,12,open,Pteridophyta sp.,1
+VGM,12,open,Rubiaceae cf.,1
+VGM,12,open,Rubiaceae sp.,1
+VGM,12,open,Serjania sp.,1
+VGM,14,closed,Aphelandra ornata,1
+VGM,14,closed,Attalea dubia,1
+VGM,14,closed,Ctenanthe lanceolata,1
+VGM,14,closed,Cupania oblongifolia,1
+VGM,14,closed,Dahlstedtia pinnata,1
+VGM,14,closed,Euterpe edulis,1
+VGM,14,closed,Goeppertia monophylla,1
+VGM,14,closed,Guapira cf.,1
+VGM,14,closed,Guapira opposita,1
+VGM,14,closed,Indeterminate sp.,1
+VGM,14,closed,Merostachys sp.,1
+VGM,14,closed,Miconia sp. 4,1
+VGM,14,closed,Mikania sp.,1
+VGM,14,closed,Mollinedia schottiana,1
+VGM,14,closed,Paullinia/Serjania sp.,1
+VGM,14,closed,Piper sp.,1
+VGM,14,closed,Prunus myrtifolia,1
+VGM,14,closed,Psychotria brachypoda,1
+VGM,14,closed,Psychotria leiocarpa,1
+VGM,14,closed,Psychotria nemorosa,1
+VGM,14,closed,Psychotria sp.,1
+VGM,14,closed,Solanum sp.,1
+VGM,14,open,Allophylus sp.,1
+VGM,14,open,Asteraceae sp.,1
+VGM,14,open,Attalea dubia,1
+VGM,14,open,Ctenitis aspidioides,1
+VGM,14,open,Euterpe edulis,1
+VGM,14,open,Fabaceae sp.,1
+VGM,14,open,Guapira cf.,1
+VGM,14,open,Guapira opposita,1
+VGM,14,open,Ilex sp.,1
+VGM,14,open,Indeterminate sp.,1
+VGM,14,open,Inga marginata,1
+VGM,14,open,Lauraceae sp.,1
+VGM,14,open,Marlierea strigipes,1
+VGM,14,open,Melastomataceae sp.,1
+VGM,14,open,Merostachys sp.,1
+VGM,14,open,Miconia sp.,1
+VGM,14,open,Miconia sp. 4,1
+VGM,14,open,Mollinedia schottiana,1
+VGM,14,open,Myrcia pubipetala,1
+VGM,14,open,Myrsine sp.,1
+VGM,14,open,Myrtaceae sp.,1
+VGM,14,open,Ocotea sp. 2,1
+VGM,14,open,Paullinia/Serjania sp.,1
+VGM,14,open,Piper cf. caldense,1
+VGM,14,open,Piper sp.,1
+VGM,14,open,Psychotria nemorosa,1
+VGM,15,closed,Acanthaceae cf.,1
+VGM,15,closed,Alchornea sp.,1
+VGM,15,closed,Allophylus sp.,1
+VGM,15,closed,Asteraceae cf.,1
+VGM,15,closed,Cabralea canjerana,1
+VGM,15,closed,Cinnamodendron cf.,1
+VGM,15,closed,Croton sp.,1
+VGM,15,closed,Ctenanthe lanceolata,1
+VGM,15,closed,Cupania cf.,1
+VGM,15,closed,Cupania oblongifolia,1
+VGM,15,closed,Cupania sp.,1
+VGM,15,closed,Euterpe edulis,1
+VGM,15,closed,Guapira cf.,1
+VGM,15,closed,Guapira opposita,1
+VGM,15,closed,Indeterminate sp.,1
+VGM,15,closed,Inga marginata,1
+VGM,15,closed,Lauraceae sp.,1
+VGM,15,closed,Melastomataceae sp.,1
+VGM,15,closed,Miconia sp.,1
+VGM,15,closed,Miconia sp. 4,1
+VGM,15,closed,Mollinedia sp.,1
+VGM,15,closed,Myrtaceae cf.,1
+VGM,15,closed,Ocotea catharinensis,1
+VGM,15,closed,Paullinia/Serjania sp.,1
+VGM,15,closed,Piper cf. caldense,1
+VGM,15,closed,Piper sp. 1,1
+VGM,15,closed,Piptocarpha sp.,1
+VGM,15,closed,Psychotria sp.,1
+VGM,15,closed,Serjania sp.,1
+VGM,15,open,Croton sp.,1
+VGM,15,open,Ctenanthe lanceolata,1
+VGM,15,open,Cupania cf.,1
+VGM,15,open,Cupania oblongifolia,1
+VGM,15,open,Dalbergia frutescens,1
+VGM,15,open,Daphnopsis schwackeana,1
+VGM,15,open,Euterpe edulis,1
+VGM,15,open,Indeterminate sp.,1
+VGM,15,open,Miconia sp. 4,1
+VGM,15,open,Myrcia splendens,1
+VGM,15,open,Myrtaceae cf.,1
+VGM,15,open,Ocotea sp. 2,1
+VGM,15,open,Paullinia/Serjania sp.,1
