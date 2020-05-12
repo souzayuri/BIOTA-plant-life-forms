@@ -1,4 +1,4 @@
-# BIOTA-plant-life-form-scripts
+# BIOTA-plant-life-form
 Scripts that I wrote during my master's project to analyze the effects of defaunation on plant life form pattern.
 
 These folders contain part of my personal development with data manipulation and analyses with R.
