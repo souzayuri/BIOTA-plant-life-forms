@@ -1,4 +1,4 @@
-Site,Plot,Treatment,Individual,T0,T006,T012,T018,T024,T030,T036,T042,T048,T054,T060,T066,T072,T078,T084,T090,T096,T102,T108,T120,Trecruit,Tdeath,Species,Family,Life Form
+Site,Plot,Treatment,Individual,T0,T6,T12,T18,T24,T30,T36,T42,T48,T54,T60,T66,T72,T78,T84,T90,T96,T102,T108,T120,Trecruit,Tdeath,Species,Family,Life Form
 CAR,1,open,C1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,36,Araceae sp.,Araceae,herb
 CAR,1,open,C2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,12,Chionanthus filiformis,Oleaceae,tree
 CAR,1,open,C3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,12,Guarea macrophylla,Meliaceae,tree

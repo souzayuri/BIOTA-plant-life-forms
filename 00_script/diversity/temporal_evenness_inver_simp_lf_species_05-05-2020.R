@@ -22,6 +22,9 @@ library(naniar)
 library(ggpubr)
 library(grid)
 library(codyn)
+library(rcompanion)
+library(MASS)
+library(lmtest)
 
 
 
@@ -352,6 +355,28 @@ bt.invsim.abu.rich.mtz.even
 
 
 
+# glmm life-form species evenness -----------------------------------------
 
 
+#palms
+
+#palms seems slightly zero unfalted but when we log it it behaves very well (see below)
+plotNormalHistogram(bt.invsim.abu.rich.mtz.even$palm.invs)
+#when logged the distribution is almost perfectlly gaussian
+plotNormalHistogram(log(bt.invsim.abu.rich.mtz.even$palm.invs^3))
+#so we can run the glmer model with poisson distribution with no problem 
+bt.inv.sim.palm.glmm<- glmer.nb(palm.invs~ Treatment*palm.abn + (1 |Site/Plot/Month), data = bt.invsim.abu.rich.mtz.even)
+summary(bt.inv.sim.palm.glmm)
+#and the aova
+car::Anova(bt.inv.sim.palm.glmm, type = "III")
+
+# modelo sem interação para a anova
+
+mo1lf.palm <- glmer(palm.abn ~ (1 |Site/Plot/Month), family=poisson, data = bt.lf.abn)
+summary(mo1lf.palm)
+# anova para testar a significancia da interação do modelo
+anova(bt.div.sim.palm.glmm.poisson02,mo1lf.palm)
+
+
+bt.invsim.abu.rich.mtz.even
 
